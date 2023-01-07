@@ -1,10 +1,9 @@
 package com.francesca.francescabackspring.entity;
 
-import jakarta.persistence.*;
 import lombok.Data;
 
+import javax.persistence.*;
 import java.util.Date;
-import java.util.Objects;
 
 @Entity
 @Data
@@ -21,12 +20,19 @@ public class Sales {
     private Date saleDay;
 
     @Column
-    private float totalPriceSale;
+    private int quantity;
+    @Column
+    private double price;
 
-    public Sales(int idProduct, Date saleDay, float totalPriceSale) {
+    public Sales(int idProduct, String saleDay, int quantity, double price) {
         this.idProduct = idProduct;
-        this.saleDay = saleDay;
-        this.totalPriceSale = totalPriceSale;
+        this.saleDay = new Date(saleDay);
+        this.quantity = quantity;
+        this.price = price;
+    }
+
+    public Sales() {
+
     }
 
     public int getId() {
@@ -49,12 +55,20 @@ public class Sales {
         this.saleDay = saleDay;
     }
 
-    public float getTotalPriceSale() {
-        return totalPriceSale;
+    public double getPrice() {
+        return price;
     }
 
-    public void setTotalPriceSale(float totalPriceSale) {
-        this.totalPriceSale = totalPriceSale;
+    public void setPrice(float price) {
+        this.price = price;
+    }
+
+    public int getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(int quantity) {
+        this.quantity = quantity;
     }
 
     @Override
@@ -62,9 +76,8 @@ public class Sales {
         return "Sales{" +
                 "idProduct=" + idProduct +
                 ", saleDay=" + saleDay +
-                ", totalPriceSale=" + totalPriceSale +
+                ", quantity=" + quantity +
+                ", price=" + price +
                 '}';
     }
-
-
 }

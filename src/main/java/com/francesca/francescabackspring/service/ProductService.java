@@ -1,14 +1,11 @@
 package com.francesca.francescabackspring.service;
-
 import com.francesca.francescabackspring.entity.Product;
 import com.francesca.francescabackspring.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
-import java.util.Date;
+
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class ProductService {
@@ -28,5 +25,6 @@ public class ProductService {
     public List<Product> getProducts(){return repository.findAll();}
 
 
-    public long deleteProduct(long id) {return repository.deleteProductById(id);}
+    public void deleteProduct(int p) { repository.deleteById(p); }
+
 }

@@ -3,9 +3,9 @@ import com.francesca.francescabackspring.entity.Product;
 import com.francesca.francescabackspring.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.data.repository.query.Param;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import lombok.extern.slf4j.Slf4j;
 
 @RestController
 public class ProductController {
@@ -25,7 +25,10 @@ public class ProductController {
     @PostMapping("/products")
     public Product newProduct(@RequestBody Product p){return service.newProduct(p);}
 
-    @DeleteMapping("products")
-    public long deleteProduct(@RequestBody long id){return service.deleteProduct(id);}
+    @DeleteMapping("/products/{id}")
+    public ResponseEntity<?> deleteProduct(@PathVariable(value="id")int id) {
+        service.deleteProduct(id);
+        return new ResponseEntity<>(HttpStatus.OK);
+    }
 
 }

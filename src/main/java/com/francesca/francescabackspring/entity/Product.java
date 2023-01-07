@@ -1,13 +1,14 @@
 package com.francesca.francescabackspring.entity;
 
-import jakarta.persistence.*;
+
 import lombok.Data;
 
+import javax.persistence.*;
 import java.util.Date;
 import java.util.Objects;
 
 @Entity
-@Data
+@Table(name="Product")
 public class Product {
 
     @Id
