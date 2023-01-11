@@ -1,4 +1,5 @@
 package com.francesca.francescabackspring.service;
+import com.francesca.francescabackspring.DTO.OneProductDTO;
 import com.francesca.francescabackspring.entity.Product;
 import com.francesca.francescabackspring.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,4 +28,5 @@ public class ProductService {
 
     public void deleteProduct(int p) { repository.deleteById(p); }
 
+    public OneProductDTO getProduct(int id) { return repository.getProductById(id);}
 }
