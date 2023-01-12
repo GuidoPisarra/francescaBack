@@ -7,14 +7,11 @@ public class SalesDTO {
     private int quantity;
     private double amount;
 
-    private Date day;
 
-
-    public SalesDTO(int id_product, int quantity, double amount, String day) {
+    public SalesDTO(int id_product, int quantity, double amount) {
         this.id_product = id_product;
         this.quantity = quantity;
         this.amount = amount;
-        this.day = new Date(day);
     }
 
     public int getId_product() {
@@ -23,14 +20,6 @@ public class SalesDTO {
 
     public void setId_product(int id_product) {
         this.id_product = id_product;
-    }
-
-    public Date getDay() {
-        return day;
-    }
-
-    public void setDay(Date day) {
-        this.day = day;
     }
 
     public double getAmount() {
@@ -55,7 +44,6 @@ public class SalesDTO {
                 "id_product=" + id_product +
                 ", quantity=" + quantity +
                 ", amount=" + amount +
-                ", day=" + day +
                 '}';
     }
 }

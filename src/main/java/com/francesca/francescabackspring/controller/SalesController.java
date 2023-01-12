@@ -34,7 +34,6 @@ public class SalesController {
         return new ResponseEntity<>(HttpStatus.OK);
     }
 
-    @GetMapping("/sales/salesReport")
-    public List<ReportSalesDay> getReportSalesDay(){ return service.getReportSalesDay(); }
+
 
 }

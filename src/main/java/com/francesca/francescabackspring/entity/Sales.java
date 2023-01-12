@@ -17,16 +17,12 @@ public class Sales {
     private int  idProduct;
 
     @Column
-    private Date saleDay;
-
-    @Column
     private int quantity;
     @Column
     private double price;
 
-    public Sales(int idProduct, String saleDay, int quantity, double price) {
+    public Sales(int idProduct, int quantity, double price) {
         this.idProduct = idProduct;
-        this.saleDay = new Date(saleDay);
         this.quantity = quantity;
         this.price = price;
     }
@@ -45,14 +41,6 @@ public class Sales {
 
     public void setIdProduct(int idProduct) {
         this.idProduct = idProduct;
-    }
-
-    public Date getSaleDay() {
-        return saleDay;
-    }
-
-    public void setSaleDay(Date saleDay) {
-        this.saleDay = saleDay;
     }
 
     public double getPrice() {
@@ -75,7 +63,6 @@ public class Sales {
     public String toString() {
         return "Sales{" +
                 "idProduct=" + idProduct +
-                ", saleDay=" + saleDay +
                 ", quantity=" + quantity +
                 ", price=" + price +
                 '}';
