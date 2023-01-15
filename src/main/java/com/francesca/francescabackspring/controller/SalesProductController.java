@@ -26,7 +26,7 @@ public class SalesProductController {
     }
     @GetMapping("/salesProduct")
     public List<SalesProduct> getSalesProduct(){ return service.getSalesProduct(); }
-
+    @CrossOrigin(origins = "http://localhost:8100")
     @GetMapping("/salesProduct/salesReport")
     public List<SalesDTO> getReportSalesDay(){ return service.getReportSalesDay(); }
 }
