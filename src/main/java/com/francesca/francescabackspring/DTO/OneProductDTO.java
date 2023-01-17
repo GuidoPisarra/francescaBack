@@ -7,13 +7,13 @@ public class OneProductDTO {
 
     private float price;
 
-    private char size;
+    private String size;
 
     private int quantity;
 
     private String code;
 
-    public OneProductDTO(int id_product, String description, float price, char size, int quantity, String code) {
+    public OneProductDTO(int id_product, String description, float price, String size, int quantity, String code) {
         this.id_product = id_product;
         this.description = description;
         this.price = price;
@@ -46,11 +46,11 @@ public class OneProductDTO {
         this.price = price;
     }
 
-    public char getSize() {
+    public String getSize() {
         return size;
     }
 
-    public void setSize(char size) {
+    public void setSize(String size) {
         this.size = size;
     }
 
