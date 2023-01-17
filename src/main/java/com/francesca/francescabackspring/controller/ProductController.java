@@ -20,17 +20,17 @@ public class ProductController {
         this.service = service;
     }
 
-    @CrossOrigin(origins = "*", methods= {RequestMethod.GET,RequestMethod.POST})
+    @CrossOrigin(origins = "*", methods= {RequestMethod.GET})
     @GetMapping("/products")
     public Iterable<Product> getProducts() {return service.getProducts();}
-    @CrossOrigin(origins = "*", methods= {RequestMethod.GET,RequestMethod.POST})
+    @CrossOrigin(origins = "*", methods= {RequestMethod.GET})
     @GetMapping("/product/{id}")
     public OneProductDTO getProduct(@PathVariable(value="id") int id) {return service.getProduct(id);}
-    @CrossOrigin(origins = "*", methods= {RequestMethod.GET,RequestMethod.POST})
+    @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
     @PostMapping("/products")
     public Product newProduct(@RequestBody Product p){return service.newProduct(p);}
 
-    @CrossOrigin(origins = "*", methods= {RequestMethod.GET,RequestMethod.POST})
+    @CrossOrigin(origins = "*", methods= {RequestMethod.DELETE})
     @DeleteMapping("/products/{id}")
     public ResponseEntity<?> deleteProduct(@PathVariable(value="id") int id) {
         service.deleteProduct(id);
