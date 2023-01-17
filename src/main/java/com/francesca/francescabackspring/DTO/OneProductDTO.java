@@ -11,12 +11,15 @@ public class OneProductDTO {
 
     private int quantity;
 
-    public OneProductDTO(int id_product, String description, float price, char size, int quantity) {
+    private String code;
+
+    public OneProductDTO(int id_product, String description, float price, char size, int quantity, String code) {
         this.id_product = id_product;
         this.description = description;
         this.price = price;
         this.size = size;
         this.quantity = quantity;
+        this.code = code;
     }
 
     public int getId_product() {
@@ -59,6 +62,14 @@ public class OneProductDTO {
         this.quantity = quantity;
     }
 
+    public String getCode() {
+        return code;
+    }
+
+    public void setCode(String code) {
+        this.code = code;
+    }
+
     @Override
     public String toString() {
         return "OneProductDTO{" +
@@ -67,6 +78,7 @@ public class OneProductDTO {
                 ", price=" + price +
                 ", size=" + size +
                 ", quantity=" + quantity +
+                ", code=" + code +
                 '}';
     }
 }

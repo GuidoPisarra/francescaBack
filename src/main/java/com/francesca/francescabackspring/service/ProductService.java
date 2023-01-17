@@ -28,5 +28,5 @@ public class ProductService {
 
     public void deleteProduct(int p) { repository.deleteById(p); }
 
-    public OneProductDTO getProduct(int id) { return repository.getProductById(id);}
+    public OneProductDTO getProduct(String code) { return repository.getProductByCode(code);}
 }

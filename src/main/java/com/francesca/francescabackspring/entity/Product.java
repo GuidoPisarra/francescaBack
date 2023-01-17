@@ -22,16 +22,20 @@ public class Product {
     private float price;
 
     @Column
-    private char size;
+    private String size;
 
     @Column
     private int quantity;
 
-    public Product(String description, float price, char size, int quantity) {
+    @Column
+    private String code;
+
+    public Product(String description, float price, String size, int quantity, String code) {
         this.description = description;
         this.price = price;
         this.size = size;
         this.quantity = quantity;
+        this.code = code;
     }
 
     public Product() {
@@ -58,11 +62,11 @@ public class Product {
         this.price = price;
     }
 
-    public char getSize() {
+    public String getSize() {
         return size;
     }
 
-    public void setSize(char size) {
+    public void setSize(String size) {
         this.size = size;
     }
 
@@ -74,13 +78,23 @@ public class Product {
         this.quantity = quantity;
     }
 
+    public String getCode() {
+        return code;
+    }
+
+    public void setCode(String code) {
+        this.code = code;
+    }
+
     @Override
     public String toString() {
         return "Product{" +
-                "description='" + description + '\'' +
+                "id=" + id +
+                ", description='" + description + '\'' +
                 ", price=" + price +
                 ", size=" + size +
                 ", quantity=" + quantity +
+                ", code=" + code +
                 '}';
     }
 
@@ -89,7 +103,8 @@ public class Product {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Product product = (Product) o;
-        return Float.compare(product.price, price) == 0 && size == product.size && Objects.equals(description, product.description);
+        return id == product.id && code == product.code;
     }
+
 
 }

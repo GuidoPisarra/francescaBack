@@ -20,7 +20,7 @@ class LoadDatabase {
     @Bean
     CommandLineRunner initDataBase(@Qualifier("productRepository") ProductRepository productRepository, @Qualifier("salesRepository") SalesRepository salesRepository, @Qualifier("salesProductRepository") SalesProductRepository salesProductRepository) {
         return args -> {
-            log.info("Preloading"+ productRepository.save(new Product("Remera",1200, 'M',10 )));
+            log.info("Preloading"+ productRepository.save(new Product("Buzo Trinidad Crudo",1200, "006A",10,"0519690070006A" )));
             log.info("Preloading"+ salesRepository.save(new Sales(1, 2, 5800.30)));
         };
     }

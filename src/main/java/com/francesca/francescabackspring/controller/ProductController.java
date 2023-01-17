@@ -24,8 +24,8 @@ public class ProductController {
     @GetMapping("/products")
     public Iterable<Product> getProducts() {return service.getProducts();}
     @CrossOrigin(origins = "*", methods= {RequestMethod.GET})
-    @GetMapping("/product/{id}")
-    public OneProductDTO getProduct(@PathVariable(value="id") int id) {return service.getProduct(id);}
+    @GetMapping("/product/{code}")
+    public OneProductDTO getProduct(@PathVariable(value="code") String code) {return service.getProduct(code);}
     @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
     @PostMapping("/products")
     public Product newProduct(@RequestBody Product p){return service.newProduct(p);}
