@@ -20,17 +20,17 @@ public class ProductController {
         this.service = service;
     }
 
-    @CrossOrigin(origins = "http://localhost:8100")
+    @CrossOrigin(origins = "https://francesca-baby-kids.vercel.app")
     @GetMapping("/products")
     public Iterable<Product> getProducts() {return service.getProducts();}
-    @CrossOrigin(origins = "http://localhost:8100")
+    @CrossOrigin(origins = "https://francesca-baby-kids.vercel.app")
     @GetMapping("/product/{id}")
     public OneProductDTO getProduct(@PathVariable(value="id") int id) {return service.getProduct(id);}
-    @CrossOrigin(origins = "http://localhost:8100")
+    @CrossOrigin(origins = "https://francesca-baby-kids.vercel.app")
     @PostMapping("/products")
     public Product newProduct(@RequestBody Product p){return service.newProduct(p);}
 
-    @CrossOrigin(origins = "http://localhost:8100")
+    @CrossOrigin(origins = "https://francesca-baby-kids.vercel.app")
     @DeleteMapping("/products/{id}")
     public ResponseEntity<?> deleteProduct(@PathVariable(value="id") int id) {
         service.deleteProduct(id);
