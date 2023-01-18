@@ -1,7 +1,7 @@
 package com.francesca.francescabackspring.DTO;
 
 public class OneProductDTO {
-    private int id_product;
+    private int id;
 
     private String description;
 
@@ -14,7 +14,7 @@ public class OneProductDTO {
     private String code;
 
     public OneProductDTO(int id_product, String description, float price, String size, int quantity, String code) {
-        this.id_product = id_product;
+        this.id = id_product;
         this.description = description;
         this.price = price;
         this.size = size;
@@ -23,11 +23,11 @@ public class OneProductDTO {
     }
 
     public int getId_product() {
-        return id_product;
+        return id;
     }
 
     public void setId_product(int id_product) {
-        this.id_product = id_product;
+        this.id = id_product;
     }
 
     public String getDescription() {
@@ -73,7 +73,7 @@ public class OneProductDTO {
     @Override
     public String toString() {
         return "OneProductDTO{" +
-                "id_product=" + id_product +
+                "id_product=" + id +
                 ", description='" + description + '\'' +
                 ", price=" + price +
                 ", size=" + size +

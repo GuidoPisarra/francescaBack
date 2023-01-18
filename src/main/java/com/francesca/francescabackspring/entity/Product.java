@@ -13,7 +13,7 @@ public class Product {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id_product;
+    private int id;
 
     @Column
     private String description;
@@ -43,7 +43,7 @@ public class Product {
     }
 
     public int getId() {
-        return id_product;
+        return id;
     }
 
     public String getDescription() {
@@ -89,7 +89,7 @@ public class Product {
     @Override
     public String toString() {
         return "Product{" +
-                "id=" + id_product +
+                "id=" + id +
                 ", description='" + description + '\'' +
                 ", price=" + price +
                 ", size=" + size +
@@ -103,7 +103,7 @@ public class Product {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Product product = (Product) o;
-        return id_product == product.id_product && code == product.code;
+        return id == product.id && code == product.code;
     }
 
 
