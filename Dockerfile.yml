@@ -2,7 +2,7 @@
 FROM openjdk:14-alpine
 
 # Set the working directory
-WORKDIR /app
+WORKDIR /francescabackspring
 
 # Copy the jar file of the application
 COPY target/*.jar app.jar
