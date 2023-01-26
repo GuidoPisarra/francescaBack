@@ -1,19 +1,14 @@
-version: '3.1'
+# Use an official OpenJDK image as the base image
+FROM openjdk:14-alpine
 
-services:
+# Set the working directory
+WORKDIR /app
 
-  db:
-    image: mysql:8.0.30    
-    command: --default-authentication-plugin=mysql_native_password
-    restart: always
-    ports:
-      - 3306:3306
-    environment:
-      MYSQL_ROOT_PASSWORD: francesca
-      MYSQL_DATABASE: francesca
+# Copy the jar file of the application
+COPY target/*.jar app.jar
 
-  adminer:
-    image: adminer
-    restart: always
-    ports:
-      - 8080:8080
+# Expose the port that the application will run on
+EXPOSE 8080
+
+# Run the application
+CMD ["java", "-jar", "app.jar"]
