@@ -11,8 +11,8 @@ import java.util.List;
 
 
 public interface SalesProductRepository extends JpaRepository<SalesProduct, Integer> {
-    @Query(value = "SELECT new com.francesca.francescabackspring.DTO.SalesDTO(s.idProduct,s.quantity,(s.price*s.quantity)) FROM Sales s ")
-    List<SalesDTO> getSales();
+    //@Query(value = "SELECT new com.francesca.francescabackspring.DTO.ReportSalesDay(sp.idSalesProduct,sp.idProduct, sp.idSale, sp.SaleProductDate, sp.) FROM SalesProduct sp")
+    //List<ReportSalesDay> getSales();
     //TODO reporte hecho a medias
 
 }

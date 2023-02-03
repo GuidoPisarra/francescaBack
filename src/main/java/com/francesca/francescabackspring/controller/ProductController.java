@@ -23,9 +23,11 @@ public class ProductController {
     @CrossOrigin(origins = "*", methods= {RequestMethod.GET})
     @GetMapping("/products")
     public Iterable<Product> getProducts() {return service.getProducts();}
+
     @CrossOrigin(origins = "*", methods= {RequestMethod.GET})
     @GetMapping("/product/{code}")
     public OneProductDTO getProduct(@PathVariable(value="code") String code) {return service.getProduct(code);}
+
     @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
     @PostMapping("/products")
     public Product newProduct(@RequestBody Product p){return service.newProduct(p);}
@@ -36,5 +38,7 @@ public class ProductController {
         service.deleteProduct(id);
         return new ResponseEntity<>(HttpStatus.OK);
     }
-
+    @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
+    @PostMapping("/products/price")
+    public int priceIncreaseWithPercentajeProduct(@RequestBody float percentaje) { return service.priceIncreaseWhithPercentajeProduct(percentaje); }
 }

@@ -3,14 +3,47 @@ package com.francesca.francescabackspring.DTO;
 import java.util.Date;
 
 public class ReportSalesDay {
-    private Date date;
-    private long quantity;
-    private double amount;
 
-    public ReportSalesDay(Date date, long quantity, double amount) {
+    private int id;
+
+    private int idProduct;
+
+    private int idSale;
+
+    private Date date;
+
+    private float monto;
+
+    public ReportSalesDay(int id, int idProduct, int idSale, Date date, float monto) {
+        this.id = id;
+        this.idProduct = idProduct;
+        this.idSale = idSale;
         this.date = date;
-        this.quantity = quantity;
-        this.amount = amount;
+        this.monto = monto;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public int getIdProduct() {
+        return idProduct;
+    }
+
+    public void setIdProduct(int idProduct) {
+        this.idProduct = idProduct;
+    }
+
+    public int getIdSale() {
+        return idSale;
+    }
+
+    public void setIdSale(int idSale) {
+        this.idSale = idSale;
     }
 
     public Date getDate() {
@@ -21,28 +54,23 @@ public class ReportSalesDay {
         this.date = date;
     }
 
-    public long getQuantity() {
-        return quantity;
+    public float getMonto() {
+        return monto;
+    }
+
+    public void setMonto(float monto) {
+        this.monto = monto;
     }
 
     @Override
     public String toString() {
         return "ReportSalesDay{" +
-                "date=" + date +
-                ", quantity=" + quantity +
-                ", amount=" + amount +
+                "id=" + id +
+                ", idProduct=" + idProduct +
+                ", idSale=" + idSale +
+                ", date=" + date +
+                ", monto=" + monto +
+
                 '}';
-    }
-
-    public void setQuantity(long quantity) {
-        this.quantity = quantity;
-    }
-
-    public double getAmount() {
-        return amount;
-    }
-
-    public void setAmount(double amount) {
-        this.amount = amount;
     }
 }

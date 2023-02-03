@@ -18,9 +18,9 @@ public class SalesService {
     @Qualifier("salesRepository")
     @Autowired
     private SalesRepository repository;
-    @Qualifier("salesProductRepository")
-    @Autowired
-    private SalesProductRepository salesProductrepository;
+    //@Qualifier("salesProductRepository")
+    //@Autowired
+    //private SalesProductRepository salesProductrepository;
     public SalesService(@Qualifier("salesRepository") SalesRepository repository){
         this.repository= repository;
     }
@@ -28,10 +28,10 @@ public class SalesService {
     public Sales newSales(Sales s){
         Sales newSale =repository.save(s);
         double total = s.getQuantity() * s.getPrice();
-        String fechaVenta = new Date().toString();
+        Date fechaVenta = new Date();
         System.out.println(fechaVenta);
-        SalesProduct newSaleProduct = new SalesProduct(newSale.getId(), newSale.getIdProduct(), fechaVenta, (float)total );
-        salesProductrepository.save(newSaleProduct);
+        SalesProduct newSaleProduct = new SalesProduct(newSale.getId(), newSale.getIdProduct(), fechaVenta);
+        //salesProductrepository.save(newSaleProduct);
         return newSale;
     }
 

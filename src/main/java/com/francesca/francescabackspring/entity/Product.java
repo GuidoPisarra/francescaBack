@@ -19,27 +19,34 @@ public class Product {
     private String description;
 
     @Column
-    private float price;
+    private float costPrice;
 
     @Column
-    private String size;
+    private float salePrice;
 
     @Column
     private int quantity;
 
     @Column
+    private int idProveedor;
+
+    @Column
     private String code;
 
-    public Product(String description, float price, String size, int quantity, String code) {
+    @Column
+    private String size;
+
+    public Product(String description, float costPrice, float salePrice, int quantity, int idProveedor, String code, String size) {
         this.description = description;
-        this.price = price;
-        this.size = size;
+        this.costPrice = costPrice;
+        this.salePrice = salePrice;
         this.quantity = quantity;
+        this.idProveedor = idProveedor;
         this.code = code;
+        this.size = size;
     }
 
     public Product() {
-
     }
 
     public int getId() {
@@ -54,20 +61,20 @@ public class Product {
         this.description = description;
     }
 
-    public float getPrice() {
-        return price;
+    public float getCostPrice() {
+        return costPrice;
     }
 
-    public void setPrice(float price) {
-        this.price = price;
+    public void setCostPrice(float costPrice) {
+        this.costPrice = costPrice;
     }
 
-    public String getSize() {
-        return size;
+    public float getSalePrice() {
+        return salePrice;
     }
 
-    public void setSize(String size) {
-        this.size = size;
+    public void setSalePrice(float salePrice) {
+        this.salePrice = salePrice;
     }
 
     public int getQuantity() {
@@ -78,6 +85,14 @@ public class Product {
         this.quantity = quantity;
     }
 
+    public int getIdProveedor() {
+        return idProveedor;
+    }
+
+    public void setIdProveedor(int idProveedor) {
+        this.idProveedor = idProveedor;
+    }
+
     public String getCode() {
         return code;
     }
@@ -86,25 +101,25 @@ public class Product {
         this.code = code;
     }
 
+    public String getSize() {
+        return size;
+    }
+
+    public void setSize(String size) {
+        this.size = size;
+    }
+
     @Override
     public String toString() {
         return "Product{" +
                 "id=" + id +
                 ", description='" + description + '\'' +
-                ", price=" + price +
-                ", size=" + size +
+                ", costPrice=" + costPrice +
+                ", salePrice=" + salePrice +
                 ", quantity=" + quantity +
-                ", code=" + code +
+                ", idProveedor=" + idProveedor +
+                ", code='" + code + '\'' +
+                ", size='" + size + '\'' +
                 '}';
     }
-
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        Product product = (Product) o;
-        return id == product.id && code == product.code;
-    }
-
-
 }

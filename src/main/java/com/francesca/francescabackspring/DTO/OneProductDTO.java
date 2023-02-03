@@ -5,29 +5,35 @@ public class OneProductDTO {
 
     private String description;
 
-    private float price;
+    private float priceCost;
 
-    private String size;
+    private float saleCost;
 
     private int quantity;
 
+    private int idProveedor;
+
     private String code;
 
-    public OneProductDTO(int id_product, String description, float price, String size, int quantity, String code) {
-        this.id = id_product;
+    private String size;
+
+    public OneProductDTO(int id, String description, float priceCost, float saleCost, int quantity, int idProveedor, String code, String size) {
+        this.id = id;
         this.description = description;
-        this.price = price;
-        this.size = size;
+        this.priceCost = priceCost;
+        this.saleCost = saleCost;
         this.quantity = quantity;
+        this.idProveedor = idProveedor;
         this.code = code;
+        this.size = size;
     }
 
-    public int getId_product() {
+    public int getId() {
         return id;
     }
 
-    public void setId_product(int id_product) {
-        this.id = id_product;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getDescription() {
@@ -38,20 +44,20 @@ public class OneProductDTO {
         this.description = description;
     }
 
-    public float getPrice() {
-        return price;
+    public float getPriceCost() {
+        return priceCost;
     }
 
-    public void setPrice(float price) {
-        this.price = price;
+    public void setPriceCost(float priceCost) {
+        this.priceCost = priceCost;
     }
 
-    public String getSize() {
-        return size;
+    public float getSaleCost() {
+        return saleCost;
     }
 
-    public void setSize(String size) {
-        this.size = size;
+    public void setSaleCost(float saleCost) {
+        this.saleCost = saleCost;
     }
 
     public int getQuantity() {
@@ -62,6 +68,14 @@ public class OneProductDTO {
         this.quantity = quantity;
     }
 
+    public int getIdProveedor() {
+        return idProveedor;
+    }
+
+    public void setIdProveedor(int idProveedor) {
+        this.idProveedor = idProveedor;
+    }
+
     public String getCode() {
         return code;
     }
@@ -70,15 +84,25 @@ public class OneProductDTO {
         this.code = code;
     }
 
+    public String getSize() {
+        return size;
+    }
+
+    public void setSize(String size) {
+        this.size = size;
+    }
+
     @Override
     public String toString() {
         return "OneProductDTO{" +
-                "id_product=" + id +
+                "id=" + id +
                 ", description='" + description + '\'' +
-                ", price=" + price +
-                ", size=" + size +
+                ", priceCost=" + priceCost +
+                ", saleCost=" + saleCost +
                 ", quantity=" + quantity +
-                ", code=" + code +
+                ", idProveedor=" + idProveedor +
+                ", code='" + code + '\'' +
+                ", size='" + size + '\'' +
                 '}';
     }
 }

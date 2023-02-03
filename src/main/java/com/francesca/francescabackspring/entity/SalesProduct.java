@@ -1,5 +1,6 @@
 package com.francesca.francescabackspring.entity;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;
 
 import javax.persistence.*;
@@ -9,71 +10,62 @@ import java.util.Date;
 public class SalesProduct {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id_sales_product;
+    private int idSalesProduct;
 
     @Column
-    private int id_sale;
+    private int idSale;
 
     @Column
-    private int id_product;
+    private int idProduct;
 
     @Column
-    private String SaleProductDate;
+    @JsonFormat(pattern="yyyy-MM-dd")
+    private Date SaleProductDate;
 
-    private float total;
-
-    public SalesProduct(int id_sale, int id_product, String saleProductDate, float total) {
-        this.id_sale = id_sale;
-        this.id_product = id_product;
-        this.SaleProductDate = saleProductDate;
-        this.total = total;
+    public SalesProduct( int idSale, int idProduct, Date saleProductDate) {
+        this.idSale = idSale;
+        this.idProduct = idProduct;
+        SaleProductDate = saleProductDate;
     }
 
     public SalesProduct() {
     }
 
-    public int getId_sales_product() {
-        return id_sales_product;
+    public int getIdSalesProduct() {
+        return idSalesProduct;
     }
 
-    public int getId_sale() {
-        return id_sale;
+    public int getIdSale() {
+        return idSale;
     }
 
-    public void setId_sale(int id_sale) {
-        this.id_sale = id_sale;
+    public void setIdSale(int idSale) {
+        this.idSale = idSale;
     }
 
-    public int getId_product() {
-        return id_product;
+    public int getIdProduct() {
+        return idProduct;
     }
 
-    public void setId_product(int id_product) {
-        this.id_product = id_product;
+    public void setIdProduct(int idProduct) {
+        this.idProduct = idProduct;
     }
 
-    public String getSaleProductDate() { return this.SaleProductDate;  }
+    public Date getSaleProductDate() {
+        return SaleProductDate;
+    }
 
-    public void setSaleProductDate(String saleProductDate) {
+    public void setSaleProductDate(Date saleProductDate) {
         SaleProductDate = saleProductDate;
-    }
-
-    public float getTotal() {
-        return total;
-    }
-
-    public void setTotal(float total) {
-        this.total = total;
     }
 
     @Override
     public String toString() {
         return "SalesProduct{" +
-                "id_sales_product=" + id_sales_product +
-                ", id_sale=" + id_sale +
-                ", id_product=" + id_product +
-                ", SaleProductDate=" + SaleProductDate +
-                ", total=" + total +
+                "idSalesProduct=" + idSalesProduct +
+                ", idSale=" + idSale +
+                ", idProduct=" + idProduct +
+                ", SaleProductDate='" + SaleProductDate + '\'' +
                 '}';
     }
 }

@@ -25,7 +25,6 @@ public class Expense {
     }
 
     public Expense() {
-
     }
 
     public int getId() {
