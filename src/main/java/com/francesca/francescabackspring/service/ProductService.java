@@ -8,6 +8,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class ProductService {
@@ -31,5 +32,17 @@ public class ProductService {
 
     public OneProductDTO getProduct(String code) { return repository.getProductByCode(code);}
 
-    public int priceIncreaseWhithPercentajeProduct(float percentaje) { return repository.priceIncreaseWithPercentajeProduct(percentaje); }
+    public void priceIncreasePercentProduct(int percent) {  
+        for (Product lis : repository.findAll() ) {
+            float newPrice = lis.getSalePrice()+ ( (lis.getSalePrice() * percent)/100 );
+            lis.setSalePrice(newPrice);
+            repository.save(lis);
+        }
+    }
+
+    public void addStock(Product p) {
+        Product prod = repository.getProductById(p.getId());
+        prod.setQuantity(prod.getQuantity()+p.getQuantity());
+        repository.save(prod);
+    }
 }
