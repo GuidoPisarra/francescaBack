@@ -26,19 +26,6 @@ public class SalesService {
         this.repository= repository;
     }
 
-    public List<Sales> newSales(List<Sales> s){
-        int idSale = -1;
-        for (Sales lis : s ) {
-            Sales newSale = repository.save(lis);
-
-            double total = lis.getQuantity() * lis.getPrice();
-            Date fechaVenta = new Date();
-            SalesProduct newSaleProduct = new SalesProduct(newSale.getId(), newSale.getIdProduct(), fechaVenta);
-            salesProductrepository.save(newSaleProduct);
-        }
-        return s;
-    }
-
     public List<Sales> getSales(){return repository.findAll();}
 
 

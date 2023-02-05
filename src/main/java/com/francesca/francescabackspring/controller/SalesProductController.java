@@ -30,4 +30,9 @@ public class SalesProductController {
     @CrossOrigin(origins = "*", methods= {RequestMethod.GET})
     @GetMapping("/salesProduct/salesReport")
     public List<ReportSalesDay> getReportSalesDay(){ return service.getReportSalesDay(); }
+
+    @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
+    @PostMapping("/salesProduct")
+    public List<SalesProduct> newSalesProduct(@RequestBody List<SalesProduct> sp){ return service.newSalesProduct(sp); }
+
 }

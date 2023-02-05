@@ -12,7 +12,7 @@ import java.util.List;
 @Repository
 public interface SalesRepository extends JpaRepository<Sales, Integer> {
 
-    @Query(value = "SELECT new com.francesca.francescabackspring.DTO.SalesDTO(s.id, s.idProduct,s.quantity,s.price) FROM Sales s")
+    @Query(value = "SELECT new com.francesca.francescabackspring.DTO.SalesDTO(s.id, s.idProduct) FROM Sales s")
     List<SalesDTO> getAllSales();
 
 }

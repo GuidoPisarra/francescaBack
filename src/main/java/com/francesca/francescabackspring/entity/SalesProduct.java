@@ -19,12 +19,19 @@ public class SalesProduct {
     private int idProduct;
 
     @Column
+    private int quantity;
+
+    @Column
+    private double price;
+    @Column
     @JsonFormat(pattern="yyyy-MM-dd")
     private Date SaleProductDate;
 
-    public SalesProduct( int idSale, int idProduct, Date saleProductDate) {
+    public SalesProduct(int idSale, int idProduct, int quantity, double price, Date saleProductDate) {
         this.idSale = idSale;
         this.idProduct = idProduct;
+        this.quantity = quantity;
+        this.price = price;
         this.SaleProductDate = saleProductDate;
     }
 
@@ -59,13 +66,31 @@ public class SalesProduct {
         SaleProductDate = saleProductDate;
     }
 
+    public int getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(int quantity) {
+        this.quantity = quantity;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
     @Override
     public String toString() {
         return "SalesProduct{" +
                 "idSalesProduct=" + idSalesProduct +
                 ", idSale=" + idSale +
                 ", idProduct=" + idProduct +
-                ", SaleProductDate='" + SaleProductDate + '\'' +
+                ", quantity=" + quantity +
+                ", price=" + price +
+                ", SaleProductDate=" + SaleProductDate +
                 '}';
     }
 }

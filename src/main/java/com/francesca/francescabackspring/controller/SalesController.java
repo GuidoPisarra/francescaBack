@@ -26,10 +26,6 @@ public class SalesController {
     @GetMapping("/sales")
     public Iterable<Sales> getSales() {return service.getSales();}
 
-    @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
-    @PostMapping("/sales")
-    public List<Sales> newSale(@RequestBody List<Sales> s){return service.newSales(s);}
-
     @CrossOrigin(origins = "*", methods= {RequestMethod.DELETE})
     @DeleteMapping("/sales/{id}")
     public ResponseEntity<?> deleteSale(@PathVariable(value="id")int id) {

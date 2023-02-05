@@ -43,4 +43,18 @@ public class SalesProductService {
     }
 
 
+    public List<SalesProduct> newSalesProduct(List<SalesProduct> sp) {
+        int saleId = 0;
+        for (SalesProduct lis : sp ) {
+            Sales newSale = salesRepository.save(new Sales(lis.getIdProduct()));
+            lis.setSaleProductDate(new Date());
+            if(saleId==0){
+                saleId=newSale.getId();
+            }
+            lis.setIdSale(saleId);
+            SalesProduct newSaleProduct = repository.save(lis);
+
+        }
+        return sp;
+    }
 }
