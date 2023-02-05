@@ -4,30 +4,39 @@ import java.util.Date;
 
 public class ReportSalesDay {
 
-    private int id;
+    private int idSaleProduct;
 
     private int idProduct;
 
     private int idSale;
 
+    private String descriptionProduct;
+
+    private int quantity;
+
+    private float amount;
+
     private Date date;
 
-    private float monto;
-
-    public ReportSalesDay(int id, int idProduct, int idSale, Date date, float monto) {
-        this.id = id;
+    public ReportSalesDay(int idSaleProduct, int idProduct, int idSale, String descriptionProduct, int quantity, float amount, Date date) {
+        this.idSaleProduct = idSaleProduct;
         this.idProduct = idProduct;
         this.idSale = idSale;
+        this.descriptionProduct = descriptionProduct;
+        this.quantity = quantity;
+        this.amount = amount;
         this.date = date;
-        this.monto = monto;
     }
 
-    public int getId() {
-        return id;
+    public ReportSalesDay() {
     }
 
-    public void setId(int id) {
-        this.id = id;
+    public int getIdSaleProduct() {
+        return idSaleProduct;
+    }
+
+    public void setIdSaleProduct(int idSaleProduct) {
+        this.idSaleProduct = idSaleProduct;
     }
 
     public int getIdProduct() {
@@ -46,6 +55,30 @@ public class ReportSalesDay {
         this.idSale = idSale;
     }
 
+    public String getDescriptionProduct() {
+        return descriptionProduct;
+    }
+
+    public void setDescriptionProduct(String descriptionProduct) {
+        this.descriptionProduct = descriptionProduct;
+    }
+
+    public int getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(int quantity) {
+        this.quantity = quantity;
+    }
+
+    public float getAmount() {
+        return amount;
+    }
+
+    public void setAmount(float amount) {
+        this.amount = amount;
+    }
+
     public Date getDate() {
         return date;
     }
@@ -54,23 +87,16 @@ public class ReportSalesDay {
         this.date = date;
     }
 
-    public float getMonto() {
-        return monto;
-    }
-
-    public void setMonto(float monto) {
-        this.monto = monto;
-    }
-
     @Override
     public String toString() {
         return "ReportSalesDay{" +
-                "id=" + id +
+                "idSaleProduct=" + idSaleProduct +
                 ", idProduct=" + idProduct +
                 ", idSale=" + idSale +
+                ", descriptionProduct='" + descriptionProduct + '\'' +
+                ", quantity=" + quantity +
+                ", amount=" + amount +
                 ", date=" + date +
-                ", monto=" + monto +
-
                 '}';
     }
 }

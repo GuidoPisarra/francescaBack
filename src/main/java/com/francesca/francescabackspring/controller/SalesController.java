@@ -22,12 +22,15 @@ public class SalesController {
         this.service = service;
     }
 
+    @CrossOrigin(origins = "*", methods= {RequestMethod.GET})
     @GetMapping("/sales")
     public Iterable<Sales> getSales() {return service.getSales();}
 
+    @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
     @PostMapping("/sales")
-    public Sales newSale(@RequestBody Sales s){return service.newSales(s);}
+    public List<Sales> newSale(@RequestBody List<Sales> s){return service.newSales(s);}
 
+    @CrossOrigin(origins = "*", methods= {RequestMethod.DELETE})
     @DeleteMapping("/sales/{id}")
     public ResponseEntity<?> deleteSale(@PathVariable(value="id")int id) {
         service.deleteSale(id);

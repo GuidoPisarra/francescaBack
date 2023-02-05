@@ -25,7 +25,7 @@ public class SalesProduct {
     public SalesProduct( int idSale, int idProduct, Date saleProductDate) {
         this.idSale = idSale;
         this.idProduct = idProduct;
-        SaleProductDate = saleProductDate;
+        this.SaleProductDate = saleProductDate;
     }
 
     public SalesProduct() {
