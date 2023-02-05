@@ -44,6 +44,9 @@ public class ProductController {
 
     @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
     @PostMapping("/products/stock")
-    public void addStock(@RequestBody Product p){ service.addStock(p);}
+    public ResponseEntity<?> addStock(@RequestBody Product p){
+        service.addStock(p);
+        return new ResponseEntity<>(HttpStatus.OK);
+    }
 
 }
