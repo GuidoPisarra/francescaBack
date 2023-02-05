@@ -42,7 +42,7 @@ public class ProductController {
     @GetMapping("/price/{percent}")
     public ResponseEntity<?> priceIncreasePercentProduct(@PathVariable(value="percent") int percent) {
         service.priceIncreasePercentProduct(percent);
-        return new ResponseEntity<>(HttpStatus.OK)
+        return new ResponseEntity<>(HttpStatus.OK);
     }
 
     @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
