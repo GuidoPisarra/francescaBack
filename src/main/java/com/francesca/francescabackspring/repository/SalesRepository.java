@@ -15,4 +15,14 @@ public interface SalesRepository extends JpaRepository<Sales, Integer> {
     @Query(value = "SELECT new com.francesca.francescabackspring.DTO.SalesDTO(s.id, s.idProduct) FROM Sales s")
     List<SalesDTO> getAllSales();
 
+    @Query("SELECT SUM(sp.price*sp.quantity)" +
+            "FROM SalesProduct sp " +
+            "JOIN Sales s " +
+            "ON s.id = sp.idSale "+
+            "JOIN  Product p " +
+            "ON p.id = s.idProduct "+
+            "WHERE MONTH(sp.SaleProductDate)= :month AND YEAR(sp.SaleProductDate)= :year "
+
+    )
+    float getIncomes(int month, int year);
 }

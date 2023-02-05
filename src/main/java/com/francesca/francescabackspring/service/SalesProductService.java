@@ -14,11 +14,8 @@ import com.francesca.francescabackspring.repository.SalesProductRepository;
 import com.francesca.francescabackspring.repository.SalesRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
 
-import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
@@ -29,8 +26,7 @@ public class SalesProductService {
     private SalesProductRepository repository;
     @Autowired
     private SalesRepository salesRepository;
-    @Autowired
-    private ProductRepository productRepository;
+
 
     public SalesProduct newRegister(SalesProduct sp){return repository.save(sp);};
 
@@ -53,7 +49,6 @@ public class SalesProductService {
             }
             lis.setIdSale(saleId);
             SalesProduct newSaleProduct = repository.save(lis);
-
         }
         return sp;
     }

@@ -1,6 +1,7 @@
 package com.francesca.francescabackspring.controller;
 
 
+import com.francesca.francescabackspring.DTO.IncomesExpensesReportDTO;
 import com.francesca.francescabackspring.DTO.OneExpenseDTO;
 import com.francesca.francescabackspring.DTO.OneProductDTO;
 import com.francesca.francescabackspring.entity.Expense;
@@ -35,6 +36,9 @@ public class ExpensesController {
     @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
     @PostMapping("/expense")
     public Expense newExpense(@RequestBody Expense e){return service.newExpense(e);}
+    @CrossOrigin(origins = "*", methods= {RequestMethod.GET})
+    @GetMapping("/incomesExpenses/{month}/{year}")
+    public IncomesExpensesReportDTO getIncomesExpensesReport(@PathVariable(value="month") int month, @PathVariable(value="year") int year){ return service.getIncomesExpensesReport(month, year);}
 
 
 }

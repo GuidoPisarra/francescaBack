@@ -1,6 +1,7 @@
 package com.francesca.francescabackspring.entity;
 
 import javax.persistence.*;
+import java.util.Date;
 
 @Entity
 @Table(name="Expense")
@@ -18,10 +19,13 @@ public class Expense {
     @Column
     private int id_sucursal;
 
-    public Expense(String description, float price, int id_sucursal) {
+    @Column
+    private Date dateExpense;
+    public Expense(String description, float price, int id_sucursal, Date dateExpense) {
         this.description = description;
         this.price = price;
         this.id_sucursal = id_sucursal;
+        this.dateExpense = dateExpense;
     }
 
     public Expense() {
@@ -55,6 +59,14 @@ public class Expense {
         this.id_sucursal = id_sucursal;
     }
 
+    public Date getDateExpense() {
+        return dateExpense;
+    }
+
+    public void setDateExpense(Date dateExpense) {
+        this.dateExpense = dateExpense;
+    }
+
     @Override
     public String toString() {
         return "Expense{" +
@@ -62,6 +74,7 @@ public class Expense {
                 ", description='" + description + '\'' +
                 ", price=" + price +
                 ", id_sucursal=" + id_sucursal +
+                ", dateExpense=" + dateExpense +
                 '}';
     }
 }
