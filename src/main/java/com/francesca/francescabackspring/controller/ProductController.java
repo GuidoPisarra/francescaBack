@@ -52,4 +52,10 @@ public class ProductController {
         return new ResponseEntity<>(HttpStatus.OK);
     }
 
+    @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
+    @PostMapping("/products/priceOneProduct")
+    public ResponseEntity<?> priceOneProduct(@RequestBody Product p){
+        service.priceOneProduct(p);
+        return new ResponseEntity<>(HttpStatus.OK);
+    }
 }

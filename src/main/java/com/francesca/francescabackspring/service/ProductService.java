@@ -45,4 +45,10 @@ public class ProductService {
         prod.setQuantity(prod.getQuantity()+p.getQuantity());
         repository.save(prod);
     }
+
+    public void priceOneProduct(Product p) {
+        Product prod = repository.getProductById(p.getId());
+        prod.setSalePrice(p.getSalePrice());
+        repository.save(prod);
+    }
 }
