@@ -22,6 +22,10 @@ public class ProductService {
     }
 
     public Product newProduct (Product p){
+        if (repository.getProductByCode(p.getCode())!=null){
+            return null;
+        }
+
         return repository.save(p);
     }
 
