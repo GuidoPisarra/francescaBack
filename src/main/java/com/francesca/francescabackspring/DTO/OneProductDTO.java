@@ -5,9 +5,9 @@ public class OneProductDTO {
 
     private String description;
 
-    private float priceCost;
+    private float costPrice;
 
-    private float saleCost;
+    private float salePrice;
 
     private int quantity;
 
@@ -17,11 +17,11 @@ public class OneProductDTO {
 
     private String size;
 
-    public OneProductDTO(int id, String description, float priceCost, float saleCost, int quantity, int idProveedor, String code, String size) {
+    public OneProductDTO(int id, String description, float costPrice, float salePrice, int quantity, int idProveedor, String code, String size) {
         this.id = id;
         this.description = description;
-        this.priceCost = priceCost;
-        this.saleCost = saleCost;
+        this.costPrice = costPrice;
+        this.salePrice = salePrice;
         this.quantity = quantity;
         this.idProveedor = idProveedor;
         this.code = code;
@@ -32,10 +32,6 @@ public class OneProductDTO {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
-
     public String getDescription() {
         return description;
     }
@@ -44,20 +40,20 @@ public class OneProductDTO {
         this.description = description;
     }
 
-    public float getPriceCost() {
-        return priceCost;
+    public float getCostPrice() {
+        return costPrice;
     }
 
-    public void setPriceCost(float priceCost) {
-        this.priceCost = priceCost;
+    public void setCostPrice(float costPrice) {
+        this.costPrice = costPrice;
     }
 
-    public float getSaleCost() {
-        return saleCost;
+    public float getSalePrice() {
+        return salePrice;
     }
 
-    public void setSaleCost(float saleCost) {
-        this.saleCost = saleCost;
+    public void setSalePrice(float salePrice) {
+        this.salePrice = salePrice;
     }
 
     public int getQuantity() {
@@ -97,8 +93,8 @@ public class OneProductDTO {
         return "OneProductDTO{" +
                 "id=" + id +
                 ", description='" + description + '\'' +
-                ", priceCost=" + priceCost +
-                ", saleCost=" + saleCost +
+                ", costPrice=" + costPrice +
+                ", salePrice=" + salePrice +
                 ", quantity=" + quantity +
                 ", idProveedor=" + idProveedor +
                 ", code='" + code + '\'' +
