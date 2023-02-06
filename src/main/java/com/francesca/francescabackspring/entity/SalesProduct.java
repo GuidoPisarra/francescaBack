@@ -27,12 +27,16 @@ public class SalesProduct {
     @JsonFormat(pattern="yyyy-MM-dd")
     private Date SaleProductDate;
 
-    public SalesProduct(int idSale, int idProduct, int quantity, double price, Date saleProductDate) {
+    @Column
+    private String typePayment;
+
+    public SalesProduct(int idSale, int idProduct, int quantity, double price, Date saleProductDate, String typePayment) {
         this.idSale = idSale;
         this.idProduct = idProduct;
         this.quantity = quantity;
         this.price = price;
         this.SaleProductDate = saleProductDate;
+        this.typePayment = typePayment;
     }
 
     public SalesProduct() {
@@ -82,6 +86,14 @@ public class SalesProduct {
         this.price = price;
     }
 
+    public String getTypePayment() {
+        return typePayment;
+    }
+
+    public void setTypePayment(String typePayment) {
+        this.typePayment = typePayment;
+    }
+
     @Override
     public String toString() {
         return "SalesProduct{" +
@@ -91,6 +103,7 @@ public class SalesProduct {
                 ", quantity=" + quantity +
                 ", price=" + price +
                 ", SaleProductDate=" + SaleProductDate +
+                ", typePayment='" + typePayment + '\'' +
                 '}';
     }
 }

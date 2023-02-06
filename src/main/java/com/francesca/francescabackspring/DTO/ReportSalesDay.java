@@ -18,7 +18,9 @@ public class ReportSalesDay {
 
     private Date date;
 
-    public ReportSalesDay(int idSaleProduct, int idProduct, int idSale, String descriptionProduct, int quantity, float amount, Date date) {
+    private String typePayment;
+
+    public ReportSalesDay(int idSaleProduct, int idProduct, int idSale, String descriptionProduct, int quantity, float amount, Date date, String typePayment) {
         this.idSaleProduct = idSaleProduct;
         this.idProduct = idProduct;
         this.idSale = idSale;
@@ -26,6 +28,7 @@ public class ReportSalesDay {
         this.quantity = quantity;
         this.amount = amount;
         this.date = date;
+        this.typePayment = typePayment;
     }
 
     public ReportSalesDay() {
@@ -87,6 +90,14 @@ public class ReportSalesDay {
         this.date = date;
     }
 
+    public String getTypePayment() {
+        return typePayment;
+    }
+
+    public void setTypePayment(String typePayment) {
+        this.typePayment = typePayment;
+    }
+
     @Override
     public String toString() {
         return "ReportSalesDay{" +
@@ -97,6 +108,7 @@ public class ReportSalesDay {
                 ", quantity=" + quantity +
                 ", amount=" + amount +
                 ", date=" + date +
+                ", typePayment='" + typePayment + '\'' +
                 '}';
     }
 }

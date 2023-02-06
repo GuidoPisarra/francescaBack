@@ -36,6 +36,7 @@ public class Product {
     @Column
     private String size;
 
+
     public Product(String description, float costPrice, float salePrice, int quantity, int idProveedor, String code, String size) {
         this.description = description;
         this.costPrice = costPrice;
