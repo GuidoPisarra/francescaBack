@@ -27,6 +27,9 @@ public class SalesProductService {
     @Autowired
     private SalesRepository salesRepository;
 
+    @Autowired
+    private ProductRepository productRepository;
+
 
     public SalesProduct newRegister(SalesProduct sp){return repository.save(sp);};
 
@@ -41,6 +44,12 @@ public class SalesProductService {
 
     public List<SalesProduct> newSalesProduct(List<SalesProduct> sp) {
         int saleId = 0;
+        for (SalesProduct lis : sp){
+            Product saleProduct = productRepository.getProductById(lis.getIdProduct());
+            if(saleProduct.getQuantity() < lis.getQuantity()){
+                return null;
+            }
+        }
         for (SalesProduct lis : sp ) {
             Sales newSale = salesRepository.save(new Sales(lis.getIdProduct()));
             lis.setSaleProductDate(new Date());
@@ -48,8 +57,13 @@ public class SalesProductService {
                 saleId=newSale.getId();
             }
             lis.setIdSale(saleId);
+            Product saleProduct = productRepository.getProductById(lis.getIdProduct());
+            int newQuantity = saleProduct.getQuantity() - lis.getQuantity();
+            saleProduct.setQuantity(newQuantity);
             SalesProduct newSaleProduct = repository.save(lis);
         }
         return sp;
     }
+
+
 }
