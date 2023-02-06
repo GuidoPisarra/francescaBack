@@ -15,7 +15,7 @@ public interface SalesRepository extends JpaRepository<Sales, Integer> {
     @Query(value = "SELECT new com.francesca.francescabackspring.DTO.SalesDTO(s.id, s.idProduct) FROM Sales s")
     List<SalesDTO> getAllSales();
 
-    @Query("SELECT SUM(sp.price*sp.quantity)" +
+    @Query("SELECT COALESCE(SUM(sp.price*sp.quantity), 0)" +
             "FROM SalesProduct sp " +
             "JOIN Sales s " +
             "ON s.id = sp.idSale "+
