@@ -17,5 +17,4 @@ public interface SalesProductRepository extends JpaRepository<SalesProduct, Inte
             "ON p.id = s.idProduct"
     )
     List<ReportSalesDay> getSalesReport();
-
 }
