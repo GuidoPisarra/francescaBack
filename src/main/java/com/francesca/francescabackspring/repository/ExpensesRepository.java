@@ -15,7 +15,6 @@ public interface ExpensesRepository extends JpaRepository<Expense, Integer> {
     @Query("SELECT COALESCE(SUM(e.price), 0)" +
             "FROM Expense e " +
             "WHERE MONTH(e.dateExpense)= :month AND YEAR(e.dateExpense)= :year "
-
     )
     float getExpenses(int month, int year);
 }
