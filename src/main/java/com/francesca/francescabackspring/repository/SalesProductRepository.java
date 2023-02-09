@@ -15,7 +15,7 @@ public interface SalesProductRepository extends JpaRepository<SalesProduct, Inte
             "ON s.id = sp.idSale "+
             "JOIN  Product p " +
             "ON p.id = sp.idProduct "+
-            "WHERE sp.active= 1"
+            "WHERE sp.active= 0"
     )
     List<ReportSalesDay> getSalesReport();
 }
