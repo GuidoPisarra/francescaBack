@@ -19,5 +19,9 @@ public interface ProductRepository extends JpaRepository<Product, Integer> {
     OneProductDTO getProductByCode(String code);
     @Query(value = "SELECT p FROM Product p WHERE p.id= :id")
     Product getProductById(int id);
+    
+    @Query(value = "SELECT p FROM Product p WHERE p.activo=0")
+	List<Product> findAllActive();
+    
 
 }

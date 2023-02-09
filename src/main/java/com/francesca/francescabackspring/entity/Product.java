@@ -35,6 +35,9 @@ public class Product {
 
     @Column
     private String size;
+    
+    @Column
+    private int activo;
 
 
     public Product(String description, float costPrice, float salePrice, int quantity, int idProveedor, String code, String size) {
@@ -45,6 +48,7 @@ public class Product {
         this.idProveedor = idProveedor;
         this.code = code;
         this.size = size;
+        this.setActivo(0);
     }
 
     public Product() {
@@ -110,17 +114,20 @@ public class Product {
         this.size = size;
     }
 
-    @Override
-    public String toString() {
-        return "Product{" +
-                "id=" + id +
-                ", description='" + description + '\'' +
-                ", costPrice=" + costPrice +
-                ", salePrice=" + salePrice +
-                ", quantity=" + quantity +
-                ", idProveedor=" + idProveedor +
-                ", code='" + code + '\'' +
-                ", size='" + size + '\'' +
-                '}';
-    }
+    public int getActivo() {
+		return activo;
+	}
+
+	public void setActivo(int activo) {
+		this.activo = activo;
+	}
+
+	@Override
+	public String toString() {
+		return "Product [id=" + id + ", description=" + description + ", costPrice=" + costPrice + ", salePrice="
+				+ salePrice + ", quantity=" + quantity + ", idProveedor=" + idProveedor + ", code=" + code + ", size="
+				+ size + ", activo=" + activo + "]";
+	}
+
+	
 }

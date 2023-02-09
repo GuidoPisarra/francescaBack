@@ -12,12 +12,28 @@ import com.francesca.francescabackspring.entity.SalesProduct;
 import com.francesca.francescabackspring.repository.ProductRepository;
 import com.francesca.francescabackspring.repository.SalesProductRepository;
 import com.francesca.francescabackspring.repository.SalesRepository;
+import com.google.common.net.HttpHeaders;
+
+import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVParser;
+import org.apache.commons.csv.CSVPrinter;
+import org.apache.commons.csv.CSVRecord;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+
+import javax.servlet.http.HttpServletResponse;
 
 @Service
 public class SalesProductService {
@@ -65,5 +81,72 @@ public class SalesProductService {
         return sp;
     }
 
+    public List<SalesProduct> saveDataFromCSVFile() throws IOException {
+		return  parseCSVFile();
+		
+	}
 
+	@SuppressWarnings("null")
+	private List<SalesProduct> parseCSVFile() throws IOException {
+		List<String[]> data = new ArrayList<>();
+		InputStream inputStream = new FileInputStream("src/csv/Products.csv");
+
+
+
+	    try (BufferedReader br = new BufferedReader(new InputStreamReader(inputStream))) {
+	      
+			CSVParser parser = null;
+
+			parser = CSVFormat.DEFAULT.withHeader().parse(new FileReader("src/csv/SalesProduct.csv"));
+	        
+	        for(CSVRecord row: parser) {
+				@SuppressWarnings("deprecation")
+				SalesProduct sp = new SalesProduct (
+				Integer.parseInt(row.get("idSale")),
+				Integer.parseInt(row.get("idProduct")),
+				Integer.parseInt(row.get("quantity")),
+		        Double.parseDouble(row.get("price")),
+		        new Date(row.get("saleProductDate")),
+		        row.get("typePayment")
+		        );
+				
+				
+	
+				repository.save(sp);		        
+	        }
+	    } catch (Exception e) {
+	      e.printStackTrace();
+	    }
+
+	        
+
+	    return repository.findAll();
+	}
+
+	public void getDataFromCSVFile(HttpServletResponse response) throws IOException {
+		List<SalesProduct> saleProducts = repository.findAll(); // Obtenemos todos los productos desde la base de datos
+        String filename = "saleProducts.csv";
+
+        response.setContentType("text/csv");
+        response.setHeader(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" + filename + "\"");
+
+        try (PrintWriter writer = response.getWriter()) {
+            CSVPrinter csvPrinter = new CSVPrinter(writer, CSVFormat.DEFAULT
+
+                    .withHeader("idSale", "idProduct", "quantity", "price", "saleProductDate", "typePayment", "active", "register"));
+            for (SalesProduct salesProduct : saleProducts) {
+                csvPrinter.printRecord(
+                		salesProduct.getIdSale(),
+                        salesProduct.getIdProduct(),
+                        salesProduct.getQuantity(),
+                        salesProduct.getPrice(),
+                        salesProduct.getSaleProductDate(),
+                        salesProduct.getTypePayment(),
+                        salesProduct.getActive(),
+                        salesProduct.getRegister()
+                );
+            }
+            csvPrinter.flush();
+        }
+	}
 }
