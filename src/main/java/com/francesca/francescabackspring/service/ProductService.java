@@ -42,10 +42,14 @@ public class ProductService {
     public Product newProduct (Product p){
     	OneProductDTO prod = repository.getProductByCode(p.getCode());
         if (prod!=null){
-			Product pr = repository.getReferenceById(prod.getId());
-        	pr.setActivo(1);
-        	repository.save(pr);
-        	System.out.println(pr.toString());
+			
+	        for (Product pr : repository.getReferenceByCodeAll(prod.getCode()) ) {
+	        	pr.setActivo(1);
+	        	repository.save(pr);
+	        	System.out.println(pr.toString());
+	        }
+
+        	
         }
 
         return repository.save(p);
