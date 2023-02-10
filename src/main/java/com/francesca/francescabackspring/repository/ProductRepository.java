@@ -15,7 +15,7 @@ import java.util.List;
 @Repository
 public interface ProductRepository extends JpaRepository<Product, Integer> {
 
-    @Query(value = "SELECT new com.francesca.francescabackspring.DTO.OneProductDTO(p.id, p.description, p.costPrice, p.salePrice, p.quantity, p.idProveedor, p.code, p.size ) FROM Product p WHERE p.code = :code")
+    @Query(value = "SELECT new com.francesca.francescabackspring.DTO.OneProductDTO(p.id, p.description, p.costPrice, p.salePrice, p.quantity, p.idProveedor, p.code, p.size ) FROM Product p WHERE p.code = :code AND p.activo = 0")
     OneProductDTO getProductByCode(String code);
     @Query(value = "SELECT p FROM Product p WHERE p.id= :id")
     Product getProductById(int id);
