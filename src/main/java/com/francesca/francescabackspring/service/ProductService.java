@@ -75,13 +75,13 @@ public class ProductService {
     }
 
     public void addStock(Product p) {
-        Product prod = repository.getProductById(p.getId());
+        Product prod = repository.getProductByIdActive(p.getId());
         prod.setQuantity(prod.getQuantity()+p.getQuantity());
         repository.save(prod);
     }
 
     public void priceOneProduct(Product p) {
-        Product prod = repository.getProductById(p.getId());
+        Product prod = repository.getProductByIdActive(p.getId());
         prod.setSalePrice(p.getSalePrice());
         repository.save(prod);
     }
