@@ -23,5 +23,8 @@ public interface ProductRepository extends JpaRepository<Product, Integer> {
     @Query(value = "SELECT p FROM Product p WHERE p.activo=0")
 	List<Product> findAllActive();
     
+    @Query(value = "SELECT p FROM Product p WHERE p.id = :idProduct AND p.activo = 0")
+	Product getProductByIdActive(int idProduct);
+    
 
 }

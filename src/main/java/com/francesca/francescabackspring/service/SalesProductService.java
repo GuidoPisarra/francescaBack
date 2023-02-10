@@ -61,7 +61,7 @@ public class SalesProductService {
     public List<SalesProduct> newSalesProduct(List<SalesProduct> sp) {
         int saleId = 0;
         for (SalesProduct lis : sp){
-            Product saleProduct = productRepository.getProductById(lis.getIdProduct());
+            Product saleProduct = productRepository.getProductByIdActive(lis.getIdProduct());
             if(saleProduct.getQuantity() < lis.getQuantity()){
                 return null;
             }

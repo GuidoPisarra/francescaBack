@@ -40,8 +40,12 @@ public class ProductService {
     }
 
     public Product newProduct (Product p){
-        if (repository.getProductByCode(p.getCode())!=null){
-            return null;
+    	OneProductDTO prod = repository.getProductByCode(p.getCode());
+        if (prod!=null){
+			Product pr = repository.getReferenceById(prod.getId());
+        	pr.setActivo(1);
+        	repository.save(pr);
+        	System.out.println(pr.toString());
         }
 
         return repository.save(p);
