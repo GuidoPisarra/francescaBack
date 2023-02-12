@@ -29,7 +29,6 @@ public class UserController {
             return u;
         }
         return null;
-
     }
 
     private String getJWTToken(String username) {
