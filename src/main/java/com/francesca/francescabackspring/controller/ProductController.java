@@ -84,6 +84,5 @@ public class ProductController {
     @GetMapping("/downloadProducts")
     public void downloadCSVFile(HttpServletResponse response) throws IOException {        
     	service.getDataFromCSVFile(response);
-    }
-        
+    }        
 }
