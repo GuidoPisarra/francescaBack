@@ -46,7 +46,6 @@ public class ProductService {
 	        for (Product pr : repository.getReferenceByCodeAll(prod.getCode()) ) {
 	        	pr.setActivo(1);
 	        	repository.save(pr);
-	        	System.out.println(pr.toString());
 	        }
 
         	
@@ -96,16 +95,12 @@ public class ProductService {
 		List<String[]> data = new ArrayList<>();
 		InputStream inputStream = new FileInputStream("src/csv/Products.csv");
 
-
-
-	    try (BufferedReader br = new BufferedReader(new InputStreamReader(inputStream))) {
-	      
+	    try (BufferedReader br = new BufferedReader(new InputStreamReader(inputStream))) {	      
 			CSVParser parser = null;
 
 			parser = CSVFormat.DEFAULT.withHeader().parse(new FileReader("src/csv/Products.csv"));
 	        
-	        for(CSVRecord row: parser) {
-				
+	        for(CSVRecord row: parser) {				
 				Product p = new Product (row.get("description"),
 		        Float.parseFloat(row.get("costPrice")),
 		        Float.parseFloat(row.get("salePrice")),
@@ -114,9 +109,7 @@ public class ProductService {
 		        row.get("code"),
 		        row.get("size")
 		        );
-				
-				System.out.println(p.toString());
-	
+
 				this.newProduct(p);		        
 	        }
 	    } catch (Exception e) {
@@ -152,5 +145,13 @@ public class ProductService {
             }
             csvPrinter.flush();
         }
+	}
+
+	public void editOneProduct(Product p) {
+		Product prod = repository.getProductByIdActive(p.getId());
+        prod.setSalePrice(p.getSalePrice());
+        prod.setCostPrice(p.getCostPrice());
+        prod.setDescription(p.getDescription());
+        repository.save(prod);		
 	}
 }

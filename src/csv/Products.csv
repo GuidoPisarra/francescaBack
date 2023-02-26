@@ -1,3 +1,76 @@
 description,costPrice,salePrice,quantity,idProveedor,code,size,activo
-prod1,100,200,3,1,A25,M,1
-prod2,200,300,6,1,B18,L,1
+test,100.0,900.0,7,1,test-100-900-m-9,m,1
+saquito waffle - rosa viejo,2500.0,4500.0,2,1,0512320111--0M,0M,1
+"prueba ",100.0,1000.0,1,1,prueba -100-1000-m-2,m,1
+"prueba código ",2000.0,1.0,3,1,0519690070006A,s,1
+prueba marino,2.0,8.0,3,1,11SPCL0024L2%14M,l,1
+prueba india,36.0,99.0,6,1,0073480127003M,l,1
+saquito waffle - rosa viejo,2500.0,4500.0,1,1,0512320111--0M,0M,1
+"ajuar leysa - rojo ",2500.0,5000.0,1,1,0158470050--0M,0M,1
+"saquito waffle ",2500.0,5000.0,1,1,0512320111--0M,0M,0
+Vestido Lilian - Orquidea,3000.0,6000.0,3,1,0903160193018M,018M,1
+njfhjghg,100.0,200.0,2,1,njfhjghg-100-200-12-1,12,1
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,123.0,678.0,5,1,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-123-678-9-8,9,1
+ajuar tortuga - blanco,2500.0,5000.0,1,1,0146300100-00M,00,0
+enterito tortuga - blanco,3200.0,6200.0,1,1,0313300000-00M,00,0
+"ajuar 000 - surtido ",3000.0,8000.0,3,1,0101600199000M,000M,0
+"pantalon 000 barquito ",2000.0,4000.0,2,1,pantalon 000 barquito -2000-4000-000M-2,000M,0
+pantalon tortuga 000,2000.0,4000.0,1,1,pantalon tortuga 000-2000-4000-000-1,000,0
+batita barquito 000,2000.0,4000.0,2,1,batita barquito 000-2000-4000-000-2,000,0
+"batita blanca lisa ",2000.0,4000.0,2,1,batita blanca lisa -2000-4000-000-2,000,0
+batita vaquitas celeste,2000.0,4000.0,1,1,batita vaquitas celeste-2000-4000-000-1,000,0
+batita celeste lisa,1500.0,3000.0,3,1,batita celeste lisa-1500-3000-000-3,000,0
+ajuar gorrion - crudo,3000.0,6000.0,1,1,0166130170--0M,0M,0
+ajuar Eliana - crudo,3000.0,6000.0,1,1,0111320170--0M,0M,0
+"ajuar salchicha - crudo ",3000.0,6000.0,1,1,0166422370--0M,0M,0
+"ajuar salchicha - blanco ",3000.0,6000.0,1,1,0166422300--0M,0M,0
+ajuar leysa - rojo,3000.0,6000.0,1,1,0158470050--0M,0M,0
+short leona - celeste,2500.0,5000.0,1,1,5555-CIE-0M,0M,0
+saquito plush todo amor - lila,3000.0,6000.0,1,1,saquito plush todo amor - lila-3000-6000-0M-1,0M,0
+saquito rayitas,3200.0,6200.0,2,1,3926-ROS-0M,0M,0
+batita floreada todo amor - blanco,3000.0,6000.0,1,1,batita floreada todo amor - blanco-3000-6000-0M-1,0M,0
+saquito plush zorrito - crema,3200.0,6200.0,1,1,saquito plush zorrito - crema-3200-6200-0M-1,0M,0
+campera rayada - gris,3200.0,6200.0,1,1,campera rayada - gris-3200-6200-0M-1,0M,0
+pantalon flores y pajaritos - rosa,3000.0,6000.0,1,1,pantalon flores y pajaritos - rosa-3000-6000-0M-1,0M,0
+"ranita lisa - celeste ",2500.0,5000.0,4,1,ranita lisa - celeste -2500-5000-0M-1,0M,0
+ranita floreada plush - blanca,3000.0,6000.0,1,1,ranita floreada plush - blanca-3000-6000-0M-1,0M,0
+ranita flores grandes - rosa,3000.0,6000.0,2,1,ranita flores grandes - rosa-3000-6000-0M-1,0M,0
+ranita flores fuccias - crudo,3000.0,6000.0,2,1,ranita flores fuccias - crudo-3000-6000-0M-2,0M,0
+ranita flores chicas - crudo,3000.0,6000.0,1,1,ranita flores chicas - crudo-3000-6000-0M-1,0M,0
+"pantalon Eliana - crudo ",3000.0,6000.0,1,1,pantalon Eliana - crudo -3000-6000-0M-1,0M,0
+ranita patitas estamoadas - crudo,2500.0,5000.0,1,1,ranita patitas estamoadas - crudo-2500-5000-0M-1,0M,0
+ranita patitas estampadas - blanco,3000.0,6000.0,1,1,ranita patitas estampadas - blanco-3000-6000-0M-1,0M,0
+"ranita flores mostaza - crudo ",3000.0,6000.0,1,1,ranita flores mostaza - crudo -3000-6000-0M-1,0M,0
+ranita ciervo - verde,3000.0,6000.0,1,1,ranita ciervo - verde-3000-6000-0M-1,0M,0
+ranita ramos flores - blanco,3000.0,6000.0,1,1,ranita ramos flores - blanco-3000-6000-0M-1,0M,0
+ranita flores tomiko - blanco,3000.0,6000.0,1,1,ranita flores tomiko - blanco-3000-6000-0M-1,0M,0
+ranita flores tomiko - celeste,3000.0,6000.0,1,1,ranita flores tomiko - celeste-3000-6000-0M-1,0M,0
+ranita conejitos - crudo,3000.0,6000.0,1,1,ranita conejitos - crudo-3000-6000-0M-1,0M,0
+ranita plush - rosa,3500.0,7000.0,2,1,ranita plush - rosa-3500-7000-0M-2,0M,0
+ranita salchicha - crudo,3000.0,6000.0,1,1,ranita salchicha - crudo-3000-6000-0M-1,0M,0
+ranita salchicha - blanco,3000.0,6000.0,1,1,ranita salchicha - blanco-3000-6000-0M-1,0M,0
+"ranita pajarito - crudo ",3000.0,6000.0,1,1,ranita pajarito - crudo -3000-6000-0M-1,0M,0
+"pantalon leysa - rojo ",3000.0,6000.0,1,1,pantalon leysa - rojo -3000-6000-0M-1,0M,0
+ranita lisas plush - rosa,3500.0,7000.0,3,1,ranita lisas plush - rosa-3500-7000-0M-3,0M,0
+pantalon calado - blanco,2500.0,5000.0,1,1,pantalon calado - blanco-2500-5000-0M-1,0M,0
+ranita c/ puño reb. conejo,3000.0,6000.0,1,1,0122-ROS-3M,0M,0
+pantalon flores rosas I.M. - blanco,3000.0,6000.0,1,1,pantalon flores rosas I.M. - blanco-3000-6000-0M-1,0M,0
+calza habana - salmon,3000.0,6000.0,1,1,calza habana - salmon-3000-6000-0M-1,0M,0
+ranita lisa con borde azul - blanca,2500.0,5000.0,1,1,ranita lisa con borde azul - blanca-2500-5000-0M-1,0M,0
+ranita lisa plush - celeste,3500.0,7000.0,1,1,ranita lisa plush - celeste-3500-7000-0M-1,0M,0
+pantalon flores amarillas - blanco,3000.0,6000.0,1,1,pantalon flores amarillas - blanco-3000-6000-0M-1,0M,0
+pantalon dinosaurio - blanco,3000.0,6000.0,1,1,pantalon dinosaurio - blanco-3000-6000-0M-1,0M,0
+"pabtalon rayado ancho - most,negr",3000.0,6000.0,1,1,"pabtalon rayado ancho - most,negr-3000-6000-0M-1",0M,0
+pantalon tortuga - blanco,3000.0,6000.0,1,1,pantalon tortuga - blanco-3000-6000-0M-1,0M,0
+ranita animalitos nordicos - crema,3000.0,6000.0,1,1,ranita animalitos nordicos - crema-3000-6000-0M-1,0M,0
+"ranita elefantitos - blanco ",3000.0,6000.0,1,1,ranita elefantitos - blanco -3000-6000-0M-1,0M,0
+pantalon rayado - gris,2500.0,5000.0,1,1,pantalon rayado - gris-2500-5000-0M-1,0M,0
+ranita rombos anim- crudo,3000.0,6000.0,1,1,ranita rombos anim- crudo-3000-6000-0M-1,0M,0
+"ranita osito - blanco ",3000.0,6000.0,1,1,ranita osito - blanco -3000-6000-0M-1,0M,0
+"ranita dragones - blanco ",3000.0,6000.0,1,1,ranita dragones - blanco -3000-6000-0M-1,0M,0
+ranita rayas finas - azul,3000.0,6000.0,1,1,ranita rayas finas - azul-3000-6000-0M-1,0M,0
+"ranita avion,moto - celeste ",3000.0,6000.0,1,1,"ranita avion,moto - celeste -3000-6000-0M-1",0M,0
+saquito plush I.M. - blanco,3500.0,7000.0,1,1,saquito plush I.M. - blanco-3500-7000-0M-1,0M,0
+saquito labradores - blanco,3000.0,6000.0,1,1,saquito labradores - blanco-3000-6000-0M-1,0M,0
+campera flores I.M. -  blanco,3000.0,6000.0,1,1,campera flores I.M. -  blanco-3000-6000-0M-1,0M,0
+saquito plush liso - celeste,3500.0,7000.0,1,1,saquito plush liso - celeste-3500-7000-0M-1,0M,0

@@ -41,8 +41,6 @@ public class ExpensesService {
 
         float expenses = repository.getExpenses(month, year);
         float incomes =  salesRepository.getIncomes(month, year);
-
-        System.out.println(expenses);
         return new IncomesExpensesReportDTO(incomes, expenses, (incomes-expenses));
     }
 }

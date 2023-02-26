@@ -75,6 +75,13 @@ public class ProductController {
     }
     
     @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
+    @PostMapping("/products/editOneProduct")
+    public ResponseEntity<?> editOneProduct(@RequestBody Product p){
+        service.editOneProduct(p);
+        return new ResponseEntity<>(HttpStatus.OK);
+    }
+    
+    @CrossOrigin(origins = "*", methods= {RequestMethod.POST})
     @PostMapping("/uploadProducts")
     public List<Product> uploadCSVFile() throws IOException {        
     		return 	service.saveDataFromCSVFile();       
