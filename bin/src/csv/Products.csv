@@ -1,0 +1,1484 @@
+description,costPrice,salePrice,quantity,idProveedor,code,size,activo
+test,100.0,900.0,7,1,test-100-900-m-9,m,1
+saquito waffle - rosa viejo,2500.0,4500.0,2,1,0512320111--0M,0M,1
+"prueba ",100.0,1000.0,1,1,prueba -100-1000-m-2,m,1
+prueba código 1,2003.0,4.0,3,1,0519690070006A,s,1
+prueba marino,2.0,8.0,3,1,11SPCL0024L2%14M,l,1
+prueba india,36.0,99.0,6,1,0073480127003M,l,1
+saquito waffle - rosa viejo,2500.0,4500.0,1,1,0512320111--0M,0M,1
+"ajuar leysa - rojo ",2500.0,5000.0,1,1,0158470050--0M,0M,1
+"saquito waffle ",2500.0,5000.0,1,1,0512320111--0M,0M,0
+Vestido Lilian - Orquidea,3000.0,6000.0,3,1,0903160193018M,018M,1
+njfhjghg,100.0,200.0,2,1,njfhjghg-100-200-12-1,12,1
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,123.0,678.0,5,1,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-123-678-9-8,9,1
+ajuar tortuga - blanco,2500.0,5000.0,1,1,0146300100-00M,00,0
+enterito tortuga - blanco,3200.0,6500.0,1,1,0313300000-00M,00,0
+"ajuar 000 - surtido ",3000.0,8000.0,3,1,0101600199000M,000M,0
+"pantalon 000 barquito ",2000.0,3000.0,2,1,pantalon 000 barquito -2000-4000-000M-2,000M,0
+pantalon tortuga 000,2000.0,4000.0,1,1,pantalon tortuga 000-2000-4000-000-1,000,0
+batita barquito 000,2000.0,3000.0,2,1,batita barquito 000-2000-4000-000-2,000,0
+"batita blanca lisa ",2000.0,3000.0,2,1,batita blanca lisa -2000-4000-000-2,000,0
+batita vaquitas celeste,2000.0,3000.0,1,1,batita vaquitas celeste-2000-4000-000-1,000,0
+batita celeste lisa,1500.0,3000.0,3,1,batita celeste lisa-1500-3000-000-3,000,0
+ajuar gorrion - crudo,3000.0,6000.0,1,1,0166130170--0M,0M,0
+ajuar Eliana - crudo,3000.0,6000.0,1,1,0111320170--0M,0M,0
+"ajuar salchicha - crudo ",3000.0,6000.0,1,1,0166422370--0M,0M,0
+"ajuar salchicha - blanco ",3000.0,6000.0,1,1,0166422300--0M,0M,0
+ajuar leysa - rojo,3000.0,6000.0,0,1,0158470050--0M,0M,0
+short leona - celeste,2500.0,5000.0,1,1,5555-CIE-0M,0M,0
+saquito plush todo amor - lila,3000.0,6000.0,1,1,saquito plush todo amor - lila-3000-6000-0M-1,0M,0
+saquito rayitas,3200.0,6200.0,2,1,3926-ROS-0M,0M,0
+batita floreada todo amor - blanco,3000.0,6000.0,1,1,batita floreada todo amor - blanco-3000-6000-0M-1,0M,0
+saquito plush zorrito - crema,3200.0,6200.0,1,1,saquito plush zorrito - crema-3200-6200-0M-1,0M,0
+campera rayada - gris,3200.0,6200.0,1,1,campera rayada - gris-3200-6200-0M-1,0M,0
+pantalon flores y pajaritos - rosa,3000.0,6000.0,1,1,pantalon flores y pajaritos - rosa-3000-6000-0M-1,0M,0
+"ranita lisa - celeste ",2500.0,5000.0,4,1,ranita lisa - celeste -2500-5000-0M-1,0M,0
+ranita floreada plush - blanca,3000.0,6000.0,1,1,ranita floreada plush - blanca-3000-6000-0M-1,0M,0
+ranita flores grandes - rosa,3000.0,6000.0,2,1,ranita flores grandes - rosa-3000-6000-0M-1,0M,0
+ranita flores fuccias - crudo,3000.0,6000.0,2,1,ranita flores fuccias - crudo-3000-6000-0M-2,0M,0
+ranita flores chicas - crudo,3000.0,6000.0,1,1,ranita flores chicas - crudo-3000-6000-0M-1,0M,0
+"pantalon Eliana - crudo ",3000.0,6000.0,1,1,pantalon Eliana - crudo -3000-6000-0M-1,0M,0
+ranita patitas estampadas - crudo,2500.0,5000.0,1,1,ranita patitas estamoadas - crudo-2500-5000-0M-1,0M,0
+ranita patitas estampadas - blanco,3000.0,6000.0,1,1,ranita patitas estampadas - blanco-3000-6000-0M-1,0M,0
+"ranita flores mostaza - crudo ",3000.0,6000.0,1,1,ranita flores mostaza - crudo -3000-6000-0M-1,0M,0
+ranita ciervo - verde,3000.0,6000.0,1,1,ranita ciervo - verde-3000-6000-0M-1,0M,0
+ranita ramos flores - blanco,3000.0,6000.0,1,1,ranita ramos flores - blanco-3000-6000-0M-1,0M,0
+ranita flores tomiko - blanco,3000.0,6000.0,1,1,ranita flores tomiko - blanco-3000-6000-0M-1,0M,0
+ranita flores tomiko - celeste,3000.0,6000.0,1,1,ranita flores tomiko - celeste-3000-6000-0M-1,0M,0
+ranita conejitos - crudo,3000.0,6000.0,2,1,ranita conejitos - crudo-3000-6000-0M-1,0M,0
+ranita plush - rosa,3500.0,7000.0,2,1,ranita plush - rosa-3500-7000-0M-2,0M,0
+ranita salchicha - crudo,3000.0,6000.0,1,1,ranita salchicha - crudo-3000-6000-0M-1,0M,0
+ranita salchicha - blanco,3000.0,6000.0,1,1,ranita salchicha - blanco-3000-6000-0M-1,0M,0
+"ranita pajarito - crudo ",3000.0,6000.0,1,1,ranita pajarito - crudo -3000-6000-0M-1,0M,0
+"pantalon leysa - rojo ",3000.0,6000.0,1,1,pantalon leysa - rojo -3000-6000-0M-1,0M,0
+ranita lisas plush - rosa,3500.0,7000.0,3,1,ranita lisas plush - rosa-3500-7000-0M-3,0M,0
+pantalon calado - blanco,2500.0,5000.0,1,1,pantalon calado - blanco-2500-5000-0M-1,0M,0
+ranita c/ puño reb. conejo,3000.0,6000.0,1,1,0122-ROS-3M,0M,0
+pantalon flores rosas I.M. - blanco,3000.0,6000.0,1,1,pantalon flores rosas I.M. - blanco-3000-6000-0M-1,0M,0
+calza habana - salmon,3000.0,6000.0,1,1,calza habana - salmon-3000-6000-0M-1,0M,0
+ranita lisa con borde azul - blanca,2500.0,5000.0,0,1,ranita lisa con borde azul - blanca-2500-5000-0M-1,0M,0
+ranita lisa plush - celeste,3500.0,7000.0,1,1,ranita lisa plush - celeste-3500-7000-0M-1,0M,0
+pantalon flores amarillas - blanco,3000.0,6000.0,1,1,pantalon flores amarillas - blanco-3000-6000-0M-1,0M,0
+pantalon dinosaurio - blanco,3000.0,6000.0,1,1,pantalon dinosaurio - blanco-3000-6000-0M-1,0M,0
+"pabtalon rayado ancho - most,negr",3000.0,6000.0,1,1,"pabtalon rayado ancho - most,negr-3000-6000-0M-1",0M,0
+pantalon tortuga - blanco,3000.0,6000.0,1,1,pantalon tortuga - blanco-3000-6000-0M-1,0M,0
+ranita animalitos nordicos - crema,3000.0,6000.0,1,1,ranita animalitos nordicos - crema-3000-6000-0M-1,0M,0
+"ranita elefantitos - blanco ",3000.0,6000.0,1,1,ranita elefantitos - blanco -3000-6000-0M-1,0M,0
+pantalon rayado - gris,2500.0,5000.0,1,1,pantalon rayado - gris-2500-5000-0M-1,0M,0
+ranita rombos anim- crudo,3000.0,6000.0,1,1,ranita rombos anim- crudo-3000-6000-0M-1,0M,0
+"ranita osito - blanco ",3000.0,6000.0,1,1,ranita osito - blanco -3000-6000-0M-1,0M,0
+"ranita dragones - blanco ",3000.0,6000.0,1,1,ranita dragones - blanco -3000-6000-0M-1,0M,0
+ranita rayas finas - azul,3000.0,6000.0,1,1,ranita rayas finas - azul-3000-6000-0M-1,0M,0
+"ranita avion,moto - celeste ",3000.0,6000.0,1,1,"ranita avion,moto - celeste -3000-6000-0M-1",0M,0
+saquito plush I.M. - blanco,3500.0,7000.0,1,1,saquito plush I.M. - blanco-3500-7000-0M-1,0M,0
+saquito labradores - blanco,3000.0,6000.0,1,1,saquito labradores - blanco-3000-6000-0M-1,0M,0
+campera flores I.M. -  blanco,3000.0,6000.0,1,1,campera flores I.M. -  blanco-3000-6000-0M-1,0M,0
+saquito plush liso - celeste,3500.0,7000.0,1,1,saquito plush liso - celeste-3500-7000-0M-1,0M,0
+"saquito plush - celeste ",3500.0,7000.0,2,1,saquito plush - celeste -3500-7000-0M-2,0M,0
+saquito plush T.A. liso - azul,3500.0,7000.0,2,1,saquito plush T.A. liso - azul-3500-7000-0M-2,0M,0
+"pantalon lino tomiko - coral ",3000.0,6000.0,1,1,pantalon lino tomiko - coral -3000-6000-0M-1,0M,0
+"baiker puntilla - marrón ",2500.0,5000.0,1,1,baiker puntilla - marrón -2500-5000-0M-1,0M,0
+baiker puntilla - blanco,2500.0,5000.0,1,1,baiker puntilla - blanco-2500-5000-0M-1,0M,0
+baiker puntilla - rosa,2500.0,5000.0,1,1,baiker puntilla - rosa-2500-5000-0M-1,0M,0
+body liso manga corta - crudo,3000.0,6000.0,1,1,body liso manga corta - crudo-3000-6000-0M-1,0M,0
+jardinero bombachudo - blanco,3000.0,6000.0,3,1,jardinero bombachudo - blanco-3000-6000-0M-3,0M,0
+buzo mara - rosa viejo,3500.0,7000.0,1,1,buzo mara -4000-8000-3M-1,3M,0
+"buzo antonia - rosa ",3500.0,7000.0,1,1,buzo antonia - rosa -4000-8000-3M-1,3M,0
+buzo mara - bordo,3500.0,7000.0,1,1,buzo mara - bordo-4000-8000-3M-1,3M,0
+saquito wafle - gris melange,2500.0,5000.0,1,1,0512320190003M,3M,0
+"calza puntilla costado - ",2500.0,5000.0,1,1,calza puntilla costado - -2500-5000-3M-1,3M,0
+pantalon lino tomiko - coral,3000.0,6000.0,1,1,pantalon lino tomiko - coral-3000-6000-3M-1,3M,0
+chaleco tejido minianima - crudo,3000.0,6000.0,1,1,chaleco tejido minianima - crudo-3000-6000-3M-1,3M,0
+calza puntilla costado,2500.0,5000.0,1,1,calza -2500-5000-3M -1,"3M ",0
+calza volados - rosa,3000.0,6000.0,0,1,calza volados - rosa-3000-6000-3M -1,"3M ",0
+"calza floreada volados - celeste ",3000.0,6000.0,1,1,calza floreada volados - celeste -3000-6000-3M-1,3M,0
+calza moño - rosa,3000.0,6000.0,1,1,calza moño - rosa-3000-6000-3M-1,3M,0
+pantalon Leonel - marino,2800.0,5300.0,1,1,0414630125003M,3M,0
+ranita nave espacial - crudo,3000.0,6000.0,1,1,ranita nave espacial - crudo-3000-6000-3M-1,3M,0
+"ranita eliana - crudo ",3000.0,6000.0,1,1,ranita eliana - crudo -3000-6000-3M-1,3M,0
+ranita conejitos - crudo,3000.0,6000.0,2,1,ranita conejitos - crudo-3000-6000-3M-1,3M,0
+"calza volados - mostaza ",3000.0,6000.0,1,1,calza volados - mostaza -3000-6000-3M-1,3M,0
+"calza volados - blanco ",3000.0,6000.0,1,1,calza volados - blanco -3000-6000-3M-1,3M,0
+pantalón gabardina I.M. - rosa,3500.0,7000.0,2,1,pantalón gabardina I.M. - rosa-3000-6000-3M-1,3M,0
+pantalón calado - blanco,2500.0,5000.0,1,1,pantalón calado - blanco-2500-5000-3M-1,3M,0
+calza mon amour - melange,2500.0,5000.0,1,1,0497070090003M,3M,0
+calza mon amour - mugat,2500.0,5000.0,1,1,0497070018003M,3M,0
+calza leysa,3000.0,6000.0,1,1,calza leysa-3000-6000-3M-1,3M,0
+ranita lisa rosa Oveja - rosa,2500.0,5000.0,1,1,ranita lisa rosa Oveja - rosa-2500-5000-3M-1,3M,0
+"ranita gorrion- blanco ",3000.0,6000.0,1,1,ranita pajaritos - blanco -3000-6000-3M-1,3M,0
+ranita floreada tomiko - blanco,3000.0,6000.0,1,1,ranita floreada tomiko - blanco-3000-6000-3M-1,3M,0
+"pantalón floreado I.M. - blanco ",2500.0,5000.0,1,1,pantalón floreado I.M. - blanco -2500-5000-3M-1,3M,0
+"ranita vaquita ",3000.0,6000.0,1,1,3931-BLA-3M,3M,0
+"pantalón pequeño amor - gris ",2500.0,5000.0,3,1,pantalón pequeño amor - gris -2500-5000-3M-1,3M,0
+pantalón estrella - rosa,4000.0,8000.0,1,1,0404600010003M,3M,0
+"pantalon pequeño amor - negro ",2500.0,5000.0,3,1,pantalon pequeño amor - negro -2500-5000-3M-1,3M,0
+ranita plush todo amor - verde,3000.0,6000.0,1,1,ranita plush todo amor - verde-3000-6000-3M-1,3M,0
+"ranita plush lisa - celeste ",3000.0,6000.0,1,1,ranita plush lisa - celeste -3000-6000-3M-1,3M,0
+"pantalón plush liso - celeste ",3000.0,6000.0,1,1,pantalón plush liso - celeste -3000-6000-3M-1,3M,0
+"pantalon plush floreado - blanco ",3500.0,7000.0,1,1,pantalon plush floreado - blanco -3500-7000-3M-1,3M,0
+pantalon corderoy - bordo,3500.0,7000.0,1,1,pantalon corderoy - bordo-3500-7000-3M-1,3M,0
+"pantalón dinosaurio - blanco ",3000.0,6000.0,1,1,pantalón dinosaurio - blanco -3000-6000-3M-1,3M,0
+calza ardilla - rosa bebe,3000.0,6000.0,1,1,0400350010003M,3M,0
+"pantalón milena - verde ",3500.0,7000.0,1,1,0434860031003M,3M,0
+pantalón milena - rosa,3500.0,7000.0,1,1,pantalón milena - rosa-3500-7000-3M-1,3M,0
+"ranita vaquita - celeste ",3000.0,6000.0,2,1,3931-CEL-3M,3M,0
+ranita pajaritos - crudo,3000.0,6000.0,1,1,ranita pajaritos - crudo-3000-6000-3M-1,3M,0
+pantalón leysa - rojo,3000.0,6000.0,1,1,pantalón leysa - rojo-3000-6000-3M-1,3M,0
+ajuar leysa - rojo,3000.0,6000.0,1,1,0158470050003M,3M,0
+ajuar universo -beige,3000.0,6000.0,1,1,0158990842003M,3M,0
+"ajuar  eliana - rosa ",3000.0,6000.0,1,1,0111320110003M,3M,0
+body bear - blanco,3000.0,6000.0,1,1,0060012200003M,3M,0
+"body blanca - blanco ",3000.0,6000.0,1,1,0039010100003M,3M,0
+"ajuar gorrión - crudo ",3000.0,6000.0,1,1,0166130170003M,3M,0
+"body eliana - blanco ",3000.0,6000.0,1,1,0245320100003M,3M,0
+body Ismael - crudo,3500.0,6500.0,1,1,0054010170003M,3M,0
+campera lanilla - negro,3500.0,7000.0,1,1,campera lanilla - negro-3500-7000-3M-1,3M,0
+"saquito plush I.M. - blanco ",3000.0,6000.0,1,1,saquito plush I.M. - blanco -3000-6000-3M-1,3M,0
+saquito plush floreado I.M. - blanco,3500.0,7000.0,0,1,saquito plush floreado I.M. - blanco-3500-7000-3M-1,3M,0
+calza bambi - rosa bebe,3000.0,6000.0,1,1,0400740010003M,3M,1
+ranita floreados tomiko - blanca,3000.0,6000.0,1,1,ranita floreados tomiko - blanca-3000-6000-3M-1,3M,0
+ranita floredo -  celeste,3000.0,6000.0,1,1,ranita floredo -  celeste-3000-6000-3M-1,3M,0
+calza moño - blanco,3000.0,6000.0,1,1,calza moño - blanco-3000-6000-3M-1,3M,0
+ranita lisa - gris,2500.0,5000.0,1,1,ranita lisa - gris-2500-5000-3M-1,3M,0
+calza ardilla - beige,3000.0,6000.0,1,1,0400350042003M,3M,0
+calza bambi - rosa bebe,3000.0,6000.0,1,1,0400740010003M,3M,0
+pantalón lisa - azul,2000.0,4000.0,1,1,pantalón lisa - azul-2000-4000-3M-1,3M,0
+baiker floreado - blanco,2500.0,5000.0,1,1,baiker floreado - blanco-2500-5000-3M-1,3M,0
+baiker puntilla - blanco,2500.0,5000.0,1,1,baiker puntilla - blanco-2500-5000-3M-1,3M,0
+baiker puntilla - rosa,2500.0,5000.0,1,1,baiker puntilla - rosa-2500-5000-3M-1,3M,0
+baiker  liso - blanco,2000.0,4000.0,1,1,baiker  liso - blanco-2000-4000-3M-1,3M,0
+short Dina - rosa,2500.0,5000.0,1,1,5553-NAT-1M,3M,0
+short EMMA mini - fuccia,2000.0,4000.0,1,1,short EMMA mini - fuccia-2000-4000-3M-1,3M,0
+pantalón estrella - beige,4000.0,8000.0,1,1,0404600042003M,3M,0
+pantalón lanilla - verde,2500.0,5000.0,1,1,pantalón lanilla - verde-2500-5000-3M-1,3M,0
+pantalon floreado - blanco,3000.0,6000.0,1,1,pantalon floreado - blanco-3000-6000-3M-1,3M,0
+"pantalon plush I.M. - blanco ",3500.0,7000.0,1,1,pantalon plush I.M. - blanco -3500-7000-3M-1,3M,0
+"ranita lisa todo amor - blanco ",2500.0,5000.0,1,1,ranita lisa todo amor - blanco -2500-5000-3M-1,3M,0
+pabtalon salos - petroleo,2000.0,4000.0,1,1,pabtalon salos - petroleo-2000-4000-3M-1,3M,0
+pantalón liso plush I.M. - rosa,3000.0,6000.0,1,1,pantalón liso plush I.M. - rosa-3000-6000-3M-1,3M,0
+pantalon lanilla - negro,2500.0,5000.0,1,1,pantalon lanilla - negro-2500-5000-3M-1,3M,0
+"saquito waffle - mostaza ",2500.0,5000.0,1,1,0512320186003M,3M,0
+buzito de lanilla - baige,2500.0,5000.0,1,1,buzito de lanilla - baige-2500-5000-3M-1,3M,0
+campera leona - gris,3000.0,6000.0,1,1,campera leona - gris-3000-6000-3M-1,3M,0
+"pantalon liso con azul - blanco ",2000.0,4000.0,1,1,pantalon liso con azul - blanco -2000-4000-3M-1,3M,0
+"pantalón rayas anchas ",3000.0,6000.0,1,1,pantalón rayas anchas -3000-6000-3M-1,3M,0
+"pantalon tortuguita - blanco ",3000.0,6000.0,1,1,pantalon tortuguita - blanco -3000-6000-3M-1,3M,0
+pantalon rayas gris I.M. - gris,3000.0,6000.0,1,1,pantalon rayas gris I.M. - gris-3000-6000-3M-1,3M,0
+pantalon pequeño amor - modtaza,2500.0,5000.0,1,1,pantalon pequeño amor - modtaza-2500-5000-3M-1,3M,0
+calza flores bcas - lila,3000.0,6000.0,1,1,calza flores bcas - lila-3000-6000-3M-1,3M,0
+calza volados con frizza - blanca,3000.0,6000.0,1,1,calza volados con frizza - blanca-3000-6000-3M-1,3M,0
+"campera conejito - blanco ",3000.0,6000.0,1,1,campera conejito - blanco -3000-6000-3M-1,3M,0
+"ranita de plush lisa - blanca ",2500.0,5000.0,1,1,ranita de plush lisa - blanca -2500-5000-3M-1,3M,0
+shorsito bebe - verde,2500.0,5000.0,1,1,shorsito bebe - verde-2500-5000-3M-1,3M,0
+short Pedro - beige,2500.0,5000.0,1,1,0779320042003M,3M,0
+"pantalon dinosaurio - blanco ",3000.0,6000.0,1,1,pantalon dinosaurio - blanco -3000-6000-3M-1,3M,0
+body chomba matias ml - marino,3500.0,7000.0,1,1,0051000125003M,3M,0
+"ajuar dino - blanco ",3000.0,6000.0,1,1,0158380100003M,3M,1
+ajuar mapache - gris melange,3000.0,6000.0,0,1,0156370190003M,3M,0
+body termico - militar,3500.0,7000.0,1,1,0028860130003M,3M,0
+body termico - rosa bebe,3000.0,6000.0,1,1,0028860110003M,3M,0
+body termico - marino,3000.0,6000.0,1,1,0028860125003M,3M,0
+body Ismael m/c - beige,3000.0,6000.0,1,1,0059010042006M,3M,0
+"body ositos m/c - blanco ",2500.0,5000.0,1,1,body ositos m/c - blanco -2500-5000-3M-1,3M,0
+"body liso m/c - celeste ",2500.0,5000.0,1,1,body liso m/c - celeste -2500-5000-3M-1,3M,0
+"body autitos - blanco ",2500.0,5000.0,1,1,body autitos - blanco -2500-5000-3M-1,3M,0
+"body calado m/c - blanco ",2500.0,5000.0,1,1,body calado m/c - blanco -2500-5000-3M-1,3M,0
+buzo mara - rosa bebe,3500.0,7000.0,1,1,buzo mara - rosa bebe-3500-7000-3M-1,3M,1
+"buzo mara - caramelo ",3500.0,7000.0,1,1,buzo mara - caramelo -3500-7000-3M-1,3M,1
+buzo ciervo - rosa bebe,3500.0,7000.0,1,1,buzo ciervo - rosa bebe-3500-7000-6M-1,6M,0
+"buzo mara - caramelo ",3500.0,7000.0,1,1,buzo mara - caramelo -3500-7000-6M-1,6M,0
+buzo mara - rosa bebe,3500.0,7000.0,1,1,buzo mara - rosa bebe-3500-7000-6M-1,6M,0
+"buzo antonia - rosa bebe ",3500.0,7000.0,1,1,buzo antonia - rosa bebe -3500-7000-6M-1,6M,0
+"buzo lanilla - beige ",2500.0,5000.0,2,1,buzo lanilla - beige -2500-5000-6m-2,6m,0
+campera Leona - gris,3000.0,6000.0,1,1,campera Leona - gris-3000-6000-6M-1,6M,0
+conjunto otto - ladrillo,3500.0,7000.0,1,1,0604800143006M,6M,0
+saquito waffle - gris melange,2500.0,5000.0,1,1,0512320190006M,6M,0
+campera de hilo - gris,4000.0,8000.0,1,1,campera de hilo - gris-4000-8000-6M-1,6M,0
+"campera dino lanilla - gris ",3500.0,7000.0,1,1,campera dino lanilla - gris -3500-7000-6M-1,6M,0
+"campera pollito - blanca ",2500.0,5000.0,1,1,campera pollito - blanca -2500-5000-6M-1,6M,0
+campera bordada I.M. - gris,4000.0,8000.0,1,1,campera bordada I.M. - gris-4000-8000-6M-1,6M,0
+"campera bordada I.M. - beige ",3500.0,7000.0,1,1,campera bordada I.M. - beige -3500-7000-6M-1,6M,0
+"campera I.M. - azul ",2500.0,5000.0,1,1,campera I.M. - azul -2500-5000-6M-1,6M,0
+"saquito plush liso - blanco ",3000.0,6000.0,1,1,saquito plush liso - blanco -3000-6000-6M-1,6M,0
+"campera lanilla - verde militar ",3000.0,6000.0,1,1,campera lanilla - verde militar -3000-6000-6M-1,6M,0
+"saquito liso plush - celeste ",3000.0,6000.0,2,1,saquito liso plush - celeste -3000-6000-6M-1,6M,0
+saquito plush tomiko - rosa,3500.0,7000.0,1,1,saquito plush tomiko - rosa-3500-7000-6M-1,6M,0
+"saquito liso plush - blanco ",3000.0,6000.0,1,1,saquito liso plush - blanco -3000-6000-6M-1,6M,0
+"body polera - celeste ",2000.0,4000.0,1,1,body polera - celeste -2000-4000-6M-1,6M,0
+body termico - marino,3500.0,7000.0,1,1,0028860125006M,6M,0
+"body termico - militar ",3500.0,7000.0,1,1,body termico - militar -3500-7000-6M-1,6M,1
+"body termico - militar ",3500.0,7000.0,1,1,0028860130006M,6M,0
+"body termico - rosa bebe ",3500.0,7000.0,1,1,0028860110006M,6M,0
+" body m/l - negro ",2500.0,5000.0,1,1," body m/l - negro -2500-5000-6M-1",6M,0
+"ajuar leysa - amarillo ",3000.0,6000.0,1,1,0158470037006M,6M,0
+"body rayado ",3000.0,6000.0,1,1,body rayado -3000-6000-6M-1,6M,0
+"ajuar dino - blanco ",3000.0,6000.0,1,1,0158380100006M,6M,0
+"body Ismael m/L - mostaza ",3500.0,6500.0,1,1,0054010186006M,6M,0
+"body liso - blanco ",2000.0,4000.0,1,1,body liso - blanco -2000-4000-6M-1,6M,0
+body camioncitos - verde,2500.0,5000.0,1,1,body camioncitos - verde-2500-5000-6M-1,6M,0
+"body duermo de dia - militar ",3000.0,6000.0,1,1,body duermo de dia - militar -3000-6000-6M-1,6M,0
+"body m/L liso - celeste ",2000.0,4000.0,1,1,body m/L liso - celeste -2000-4000-6M-1,6M,0
+body rayitas grises,2500.0,5000.0,1,1,body rayitas grises-2500-5000-6M-1,6M,0
+"body edicion limitada - celeste ",2500.0,5000.0,1,1,body edicion limitada - celeste -2500-5000-6M-1,6M,0
+body capucha conejito - verde,3000.0,6000.0,1,1,body capucha conejito - verde-3000-6000-6M-1,6M,0
+"body morley m/L - celeste ",2500.0,5000.0,1,1,body morley m/L - celeste -2500-5000-6M-1,6M,0
+"body classic M/L - negro ",3000.0,6000.0,1,1,body classic M/L - negro -3000-6000-6M-1,6M,0
+remera conejito luna - rosa bebe,3000.0,6000.0,1,1,remera conejito luna - rosa bebe-3000-6000-6M-1,6M,0
+body clementina - rosa,3000.0,6000.0,1,1,body clementina - rosa-3000-6000-6M-1,6M,0
+"body carolina - crudo ",2500.0,5000.0,1,1,body carolina - crudo -2500-5000-6M-1,6M,0
+"body flores - celeste ",2500.0,5000.0,1,1,body flores - celeste -2500-5000-6M-1,6M,0
+body cari - crudo,2500.0,5000.0,1,1,3917-NAT-6M,6M,1
+"body morley m/L - rosa ",2500.0,5000.0,1,1,body morley m/L - rosa -2500-5000-6M-1,6M,0
+"body floreado moño ",2500.0,5000.0,1,1,body floreado moño -2500-5000-6M-1,6M,0
+body oveja - rosa,2500.0,5000.0,3,1,body oveja - rosa-2500-5000-6M-1,6M,0
+body pajaritos rosas,2500.0,5000.0,1,1,body pajaritos rosas-2500-5000-6M-1,6M,0
+ajuar forest - crudo,3000.0,6000.0,1,1,0169630170006M,6M,0
+ajuar eliana - crudo,3000.0,6000.0,0,1,0111320170006M,6M,0
+body bear - blanco,3000.0,6000.0,1,1,0060012200006M,6M,0
+body blanca - rosa,3000.0,6000.0,1,1,0039010110006M,6M,0
+body eliana - rosa,3000.0,6000.0,1,1,0245320110006M,6M,0
+body ismael m/L - marino,3500.0,6500.0,1,1,0054010125006M,6M,0
+"body chomba matias - blanco ",3500.0,7000.0,0,1,0051000100006M,6M,0
+ajuar dino -beige,3000.0,6000.0,1,1,0158380142006M,6M,0
+"ajuar mapache - gris ",3000.0,6000.0,1,1,0156370190006M,6M,0
+"body bailarina - manteca ",2500.0,5000.0,1,1,body bailarina - manteca -2500-5000-6M-1,6M,0
+body hongos conejito - crudo,2500.0,5000.0,1,1,body hongos conejito - crudo-2500-5000-6M-1,6M,0
+"body vintage - chocolate ",2500.0,5500.0,1,1,body vintage - chocolate -2500-5000-6M-1,6M,0
+body lady - crudo,2500.0,5500.0,1,1,body lady - crudo-2500-5500-6M-1,6M,0
+body ballet - rosa bebe,3000.0,6000.0,0,1,body ballet - rosa bebe-3000-6000-6M-1,6M,0
+"body new odisea - blanco ",2500.0,5500.0,1,1,body new odisea - blanco -2500-5500-6M-1,6M,0
+body lady - rosa,2500.0,5500.0,1,1,body lady - rosa-2500-5500-6M-1,6M,0
+"body ballet - blanco ",3000.0,6000.0,1,1,body ballet - blanco -3000-6000-6M-1,6M,0
+remera volados - mostaza,2500.0,5000.0,1,1,remera volados - mostaza-2500-5000-6M-1,6M,0
+remera alitas - crudo,3000.0,6000.0,1,1,remera alitas - crudo-3000-6000-6M-1,6M,0
+body estrellas,2500.0,5000.0,1,1,body estrellas-2500-5000-6M-1,6M,0
+"body rayado gris ",2500.0,5000.0,0,1,0022700094006M,6M,0
+body moob - arena,2500.0,5000.0,1,1,0055070128006M,6M,0
+body martin m/C - gris,2000.0,4000.0,1,1,0080500190006M,6M,0
+body chomba m/C - marino,3000.0,6000.0,1,1,0053000125006M,6M,1
+"camisa floreada I.M. - blanco ",3500.0,6500.0,1,1,camisa floreada I.M. - blanco -3500-6500-6M-1,6M,0
+body india - rosa viejo,3000.0,6000.0,1,1,0073480111006M,6M,0
+body india - tostado,3000.0,6000.0,1,1,0073480127006M,6M,0
+"body erizo baby - beige ",2500.0,5000.0,1,1,0045011942006M,6M,0
+body bernarda - rojo,2500.0,5000.0,1,1,0038000150006M,6M,0
+"body bernarda - blanco ",2500.0,2500.0,1,1,0038000100006M,6M,0
+body durazno - rosa viejo,2500.0,5000.0,1,1,0082260111006M,6M,0
+"body conejita - blanco ",2500.0,5000.0,1,1,0045011700006M,6M,0
+"body durazno - durazno ",2500.0,5000.0,1,1,0082260139006M,6M,0
+body bombachudo tomiko - manteca,3000.0,6000.0,1,1,body bombachudo tomiko - manteca-3000-6000-6M-1,6M,0
+body ardilla y bambi - rosa,2500.0,5000.0,1,1,body ardilla y bambi - rosa-2500-5000-6M-1,6M,0
+body vestidito - rosa,2500.0,5000.0,1,1,body vestidito - rosa-2500-5000-6M-1,6M,0
+calza mon amour - melange,2500.0,5000.0,1,1,0497070090006M,6M,0
+"pantalon leysa - amarillo ",3000.0,6000.0,1,1,pantalon leysa - amarillo -3000-6000-6M-1,6M,0
+"pantalon dinosaurio - blanco ",3000.0,6000.0,1,1,pantalon dinosaurio - blanco -3000-6000-6M-1,6M,0
+calza minianima - rosa,2500.0,5000.0,1,1,calza minianima - rosa-2500-5000-6M-1,6M,0
+ranita con puño - rosa,2500.0,5000.0,2,1,0224-RO-6M,6M,0
+pabtalon pajaritos rosa,2500.0,5000.0,1,1,pabtalon pajaritos rosa-2500-5000-6M-1,6M,0
+"ranita con puño reb. conejo - blanco ",2500.0,5000.0,2,1,ranita con puño reb. conejo - blanco -2500-5000-6M-2,6M,0
+"pantalon pequeño amor - negro ",2500.0,5000.0,2,1,pantalon pequeño amor - negro -2500-5000-6M-1,6M,0
+"pabtalon calado - blanco ",2500.0,5000.0,1,1,pabtalon calado - blanco -2500-5000-6M-1,6M,0
+ranita con puño - Blanco,2500.0,5000.0,2,1,0224-BL-6M,6M,0
+"ranita motos - blanco ",2500.0,5000.0,1,1,ranita motos - blanco -2500-5000-6M-1,6M,0
+ranita calada - rosa,2500.0,5000.0,1,1,ranita calada - rosa-2500-5000-6M-1,6M,0
+calza bambi - rosa bebe,3000.0,6000.0,1,1,0400740010006M,6M,0
+calza ardilla - rosa bebe,3000.0,6000.0,1,1,0400350010006M,6M,0
+calza ardilla - beige,3000.0,6000.0,1,1,0400350042006M,6M,0
+"ranita vaquita - celeste ",2500.0,5000.0,2,1,3931-CEL-6M,6M,0
+ranita rayitas - rosa,3000.0,6000.0,1,1,3932-ROS-6M,6M,0
+"pantalon milena - mostaza ",3000.0,6000.0,1,1,0434860086006M,6M,0
+"pantalon liso - ladrillo ",2500.0,5000.0,1,1,pantalon liso - ladrillo -2500-5000-6M-1,6M,0
+calza bambi - crudo,3000.0,6000.0,1,1,0400740070006M,6M,0
+pantalon floreado corderoy,2500.0,5000.0,1,1,pantalon floreado corderoy-2500-5000-6M-1,6M,0
+"pantalon plush liso - blanco ",2500.0,5000.0,2,1,pantalon plush liso - blanco -2500-5000-6M-2,6M,1
+calza lupe - lila,3000.0,6000.0,1,1,calza lupe - lila-3000-6000-6M-1,6M,0
+"ranita eliana - crudo ",3000.0,6000.0,1,1,ranita eliana - crudo -3000-6000-6M-1,6M,0
+"pantalón leonel - gris melange ",2700.0,5200.0,1,1,0414630190006M,6M,0
+pantalon dinosaurio - crudo,3000.0,6000.0,1,1,pantalon dinosaurio - crudo-3000-6000-6M-1,6M,0
+pantalon liso - gris melange,2500.0,5000.0,1,1,pantalon liso - gris melange-2500-5000-6M-1,6M,0
+"pantalon lanilla - verde ",2500.0,5000.0,1,1,pantalon lanilla - verde -2500-5000-6M-1,6M,0
+pantalon corderoy - bordo,3500.0,7000.0,1,1,pantalon corderoy - bordo-3500-7000-6M-1,6M,0
+pantalon salos - verde,2500.0,5000.0,1,1,pantalon salos - verde-2500-5000-6M-1,6M,0
+pantalon lanilla - gris,2500.0,5000.0,1,1,pantalon lanilla - gris-2500-5000-6M-1,6M,0
+pantalon lanilla - marron,2500.0,5000.0,1,1,pantalon lanilla - marron-2500-5000-6M-1,6M,0
+calza mon amour - mugat,2500.0,5000.0,1,1,0497070018006M,6M,0
+"baiker floreado volados - blanco ",2500.0,5000.0,1,1,baiker floreado volados - blanco -2500-5000-6M-1,6M,0
+baiker puntilla - blanco,2500.0,5000.0,1,1,baiker puntilla - blanco-2500-5000-6M-1,6M,0
+baiker puntilla - rosa,2500.0,5000.0,1,1,baiker puntilla - rosa-2500-5000-6M-1,6M,0
+baiker morley - rosa,2000.0,4000.0,1,1,baiker morley - rosa-2000-4000-6M-1,6M,0
+short pedro,2500.0,5000.0,1,1,0779320042006M,6M,0
+bermuda matias - rojo,3000.0,6000.0,1,1,0716110150006M,6M,0
+short letras salos - marino,2000.0,4200.0,1,1,short letras salos - marino-2000-4200-6M-1,6M,0
+short gris salos,2000.0,4200.0,1,1,short gris salos-2000-4200-6M-1,6M,0
+shorsito minianima - verde,2500.0,5000.0,1,1,shorsito minianima - verde-2500-5000-6M-1,6M,0
+ranita floreada - celeste,3000.0,6000.0,1,1,ranita floreada - celeste-3000-6000-6M-1,6M,0
+"calza volados - mostaza ",3000.0,6000.0,1,1,calza volados - mostaza -3000-6000-6M-1,6M,0
+pantalon lino - coral,3000.0,6000.0,1,1,pantalon lino - coral-3000-6000-6M-1,6M,0
+calza moño - rosa,3000.0,6000.0,1,1,calza moño - rosa-3000-6000-6M-1,6M,0
+calza volado - nude,3000.0,6000.0,1,1,calza volado - nude-3000-6000-6M-1,6M,0
+calza volado - rosa bebe,3000.0,6000.0,1,1,calza volado - rosa bebe-3000-6000-6M-1,6M,0
+"calza volado - blanco ",3000.0,6000.0,1,1,calza volado - blanco -3000-6000-6M-1,6M,0
+pantalon lanilla - negro,2500.0,5000.0,1,1,pantalon lanilla - negro-2500-5000-6M-1,6M,0
+"ranita de plush - blanco ",2500.0,5000.0,1,1,2717-BL-6M,6M,0
+"pantalon estrella - beige ",4000.0,8000.0,1,1,0404600042006M,6M,0
+"pantalon plush liso - blanco ",2500.0,5000.0,2,1,pantalon plush liso - blanco -2500-5000-6M-2,6M,0
+ranita plush lisa - crudo,2500.0,5000.0,1,1,ranita plush lisa - crudo-2500-5000-6M-1,6M,0
+"pantalon floreado plush - crudo ",3000.0,6000.0,1,1,pantalon floreado plush - crudo -3000-6000-6M-1,6M,0
+ranita rayita plush - gris,3000.0,6000.0,1,1,ranita rayita plush - gris-3000-6000-6M-1,6M,0
+"pantalos puntilla bolsillo - rosa ",3000.0,6000.0,1,1,pantalos puntilla bolsillo - rosa -3000-6000-6M-1,6M,0
+buzo conejita - rosa bebe,3500.0,7000.0,1,1,buzo conejita - rosa bebe-3500-7000-9M-1,9M,0
+buzo mara - mostaza,3500.0,7000.0,1,1,buzo mara - mostaza-3500-7000-9M-1,9M,0
+buzo animalitos - celeste,3500.0,7000.0,1,1,buzo animalitos - celeste-3500-7000-9M-1,9M,0
+"conjunto otto - ladrillo ",3500.0,7000.0,1,1,0604800143018M,9M,0
+campera  felipe - verde,3000.0,6000.0,1,1,campera  felipe - verde-3000-6000-9M-1,9M,0
+buzo aleta tiburón - azul,3000.0,6000.0,1,1,buzo aleta tiburón - azul-3000-6000-9M-1,9M,0
+campera lisa - gris,3000.0,6000.0,1,1,campera lisa - gris-3000-6000-9M-1,9M,0
+"campera dino lanilla - negro ",3500.0,7000.0,1,1,campera dino lanilla - negro -3500-7000-9M-1,9M,0
+saquito waffle - arena,2500.0,5000.0,2,1,saquito waffle - arena-2500-5000-9M-2,9M,1
+saquito waffle - arena,2500.0,5000.0,2,1,0512320128009M,9M,0
+campera tomiko - manteca,3000.0,6000.0,1,1,campera tomiko - manteca-3000-6000-9M-1,9M,0
+"buzo mara - caramelo ",3000.0,6000.0,1,1,buzo mara - caramelo -3000-6000-9M-1,9M,0
+buzo antonia - rosa,3000.0,6000.0,0,1,buzo antonia - rosa-3000-6000-9M-1,9M,0
+"buzo camilo - celeste ",3000.0,6000.0,1,1,0500910120009M,9M,0
+"campera oso y punitos - blanco ",2500.0,5000.0,1,1,campera oso y punitos - blanco -2500-5000-9M-1,9M,0
+"campera bear - beige ",3500.0,7000.0,1,1,0543080042012M,9M,0
+body india - rosa viejo,3000.0,6000.0,1,1,0073480111009M,9M,0
+body india - crudo,3000.0,6000.0,1,1,0073480170009M,9M,0
+"body erizo baby - blanco ",2500.0,5000.0,1,1,0045011900009M,9M,0
+body durazno - rosa viejo,2500.0,5000.0,1,1,0082260111009M,9M,0
+body erizo baby - beige,2500.0,5000.0,1,1,0045011942009M,9M,0
+body bernarda - rojo,2500.0,5000.0,1,1,0038000150009M,9M,0
+"body Ismael m/C - azul ",2500.0,5500.0,1,1,0059010019009M,9M,0
+body martin - marino,2500.0,5000.0,1,1,0080500125009M,9M,0
+"body puntilla hombros - rosa ",2500.0,5000.0,1,1,body puntilla hombros - rosa -2500-5000-9M-1,9M,0
+body ballet - rosa,3000.0,6000.0,1,1,body ballet - rosa-3000-6000-9M-1,9M,0
+"body ballet - blanco ",3000.0,6000.0,1,1,body ballet - blanco -3000-6000-9M-1,9M,0
+"body vintage ",2500.0,5000.0,1,1,body vintage -2500-5000-9M-1,9M,0
+body lady - rosa,2500.0,5000.0,1,1,body lady - rosa-2500-5000-9M-1,9M,0
+"body india  - tostado ",3000.0,6000.0,1,1,0073480127009M,9M,0
+"body bear - blanco ",3000.0,6000.0,1,1,0060012200009M,9M,0
+"body gino - azul ",3000.0,6000.0,1,1,0063390019009M,9M,0
+"body blanca  - blanco ",3000.0,6000.0,0,1,0039010100009M,9M,0
+"body eliana - blanco ",3000.0,6000.0,1,1,0245320100009M,9M,0
+body chomba matias - marino,3500.0,7000.0,1,1,0051000125009M,9M,0
+body plush puntilla - rosa,3500.0,7000.0,1,1,body plush puntilla - rosa-3500-7000-9M-1,9M,0
+remera conejito - rosa,3000.0,6000.0,1,1,remera conejito - rosa-3000-6000-9M-1,9M,0
+remera conejito - rosa bebe,3000.0,6000.0,1,1,remera conejito - rosa bebe-3000-6000-9M-1,9M,0
+body puntilla cuello - rosa bebe,3000.0,6000.0,1,1,body puntilla cuello - rosa bebe-3000-6000-9M-1,9M,0
+body clementina - rosa,3000.0,6000.0,1,1,body clementina - rosa-3000-6000-9M-1,9M,0
+"body clementina - rosa ",3000.0,6000.0,0,1,body clementina - rosa -3000-6000-9M-1,9M,0
+"body camioncitos - verde ",2500.0,5000.0,1,1,body camioncitos - verde -2500-5000-9M-1,9M,0
+"body avioncitos y autito - blanco ",2500.0,5000.0,1,1,body avioncitos y autito - blanco -2500-5000-9M-1,9M,0
+"body ismael - marino ",3000.0,6000.0,1,1,body ismael - marino -3000-6000-9M-1,9M,0
+body Ismael - crudo,3000.0,6000.0,1,1,0054010170009M,9M,1
+body Ismael - gris melange,3000.0,6000.0,1,1,body Ismael - gris melange-3000-6000-9M-1,9M,0
+body Ismael - crudo,3000.0,6000.0,1,1,0054010170009M,9M,0
+"body bombachudo tomiko - blanco ",3000.0,6000.0,1,1,body bombachudo tomiko - blanco -3000-6000-9M-1,9M,0
+remera angelito - crudo,3000.0,6000.0,1,1,remera angelito - crudo-3000-6000-9M-1,9M,0
+remera pajaritos - blanco,2500.0,5000.0,4,1,remera pajaritos - blanco-2500-5000-9M-4,9M,0
+"body pajarito - blanco ",2500.0,5000.0,1,1,body pajarito - blanco -2500-5000-9M-1,9M,1
+"body pajarito - blanco ",2500.0,5000.0,1,1,body pajarito - blanco -2500-5000-9M-1,9M,0
+body ardilla y flores - rosa,2500.0,5000.0,1,1,body ardilla y flores - rosa-2500-5000-9M-1,9M,0
+body animalitos racoon - rosa,2500.0,5000.0,1,1,body animalitos racoon - rosa-2500-5000-9M-1,9M,0
+body encaje - rosa,2500.0,5000.0,1,1,body encaje - rosa-2500-5000-9M-1,9M,0
+body lady cuello encaje - crudo,2500.0,5000.0,1,1,body lady cuello encaje - crudo-2500-5000-9M-1,9M,0
+"body new odisea - rosa ",2500.0,5000.0,1,1,body new odisea - rosa -2500-5000-9M-1,9M,0
+pantalon leonel - marino,2800.0,5300.0,1,1,0414630125009M,9M,0
+pantalon puntilla botamanga - rosa,3000.0,6000.0,1,1,pantalon puntilla botamanga - rosa-3000-6000-9M-1,9M,0
+calza mon amour - melange,2500.0,5000.0,1,1,0497070090009M,9M,0
+calza mon amour - mugat,2500.0,5000.0,1,1,0497070018009M,9M,0
+"ranita pajaritos - blanco ",2500.0,5000.0,1,1,ranita pajaritos - blanco -2500-5000-9M-1,9M,1
+"ranita pajaritos - blanco ",2500.0,5000.0,1,1,ranita pajaritos - blanco -2500-5000-9M-1,9M,0
+pantalon morley - verde,2500.0,5000.0,1,1,pantalon morley - verde-2500-5000-9M-1,9M,0
+pantalon pequeño amor - negro,2500.0,5000.0,1,1,pantalon pequeño amor - negro-2500-5000-9M-1,9M,1
+"pantalon calado - blanco ",2500.0,5000.0,1,1,pantalon calado - blanco -2500-5000-9M-1,9M,0
+calza volados - negro,3000.0,6000.0,1,1,calza volados - negro-3000-6000-9M-1,9M,0
+calza pubtilla costado - rosa,3000.0,6000.0,1,1,calza pubtilla costado - rosa-3000-6000-9M-1,9M,0
+"calza volados - chocolate ",3000.0,6000.0,1,1,calza volados - chocolate -3000-6000-9M-1,9M,0
+"calza moño - crudo ",3000.0,6000.0,1,1,calza moño - crudo -3000-6000-9M-1,9M,0
+calza moños - blanco,3000.0,6000.0,1,1,calza moños - blanco-3000-6000-9M-1,9M,0
+"pantalon lino - coral ",2500.0,5000.0,1,1,pantalon lino - coral -2500-5000-9M-1,9M,0
+calza ardilla - beige,3000.0,6000.0,1,1,0400350042009M,9M,0
+calza ardilla - rosa bebe,3000.0,6000.0,1,1,0400350010009M,9M,0
+"short voladito bolsillo - rosa ",2500.0,5000.0,1,1,short voladito bolsillo - rosa -2500-5000-9M-1,9M,0
+baiker puntilla - negro,2500.0,5000.0,1,1,baiker puntilla - negro-2500-5000-9M-1,9M,0
+"baiker con puntilla - blanco ",2500.0,5000.0,1,1,baiker con puntilla - blanco -2500-5000-9M-1,9M,0
+baiker con puntilla,2500.0,5000.0,1,1,baiker con puntilla-2500-5000-9M-1,9M,0
+"ranita  motos - blanco ",2500.0,5000.0,1,1,ranita  motos - blanco -2500-5000-9M-1,9M,0
+"calza moño - chocolate ",3000.0,6000.0,1,1,calza moño - chocolate -3000-6000-9M-1,9M,0
+calza volados - rosa,3000.0,6000.0,1,1,calza volados - rosa-3000-6000-9M-1,9M,0
+"calza bambi - rosa ",3000.0,6000.0,1,1,0400740010009M,9M,1
+calza lana pequeña amor,3000.0,6000.0,1,1,calza lana pequeña amor-3000-6000-9M-1,9M,0
+pantalón pequeño amor - gris,2500.0,5000.0,1,1,pantalón pequeño amor - gris-2500-5000-9M-1,9M,0
+calza lana pequeño amor - gris,3000.0,6000.0,1,1,calza lana pequeño amor - gris-3000-6000-9M-1,9M,0
+pantalon pequeño amor - negro,2500.0,5000.0,1,1,pantalon pequeño amor - negro-2500-5000-9M-1,9M,0
+calza lupe - rosa,3000.0,6000.0,1,1,calza lupe - rosa-3000-6000-9M-1,9M,0
+"pantalon plush liso - celeste ",2500.0,5000.0,1,1,pantalon plush liso - celeste -2500-5000-9M-1,9M,0
+calza lupe - lila,3000.0,6000.0,1,1,calza lupe - lila-3000-6000-9M-1,9M,0
+calza pipa - bordo,3000.0,6000.0,1,1,calza pipa - bordo-3000-6000-9M-1,9M,0
+calza bambi - rosa bebe,3000.0,6000.0,1,1,0400740010009M,9M,0
+calza lana pequeño amor - negro,3000.0,6000.0,1,1,calza lana pequeño amor - negro-3000-6000-9M-1,9M,0
+campera forest - azul,5300.0,10300.0,1,1,0541230019012M,12M,0
+campera tomiko - bordo,3000.0,6000.0,1,1,campera tomiko - bordo-2700-5200-12M-1,12M,0
+buzo antonia - rosa bebe,3000.0,6000.0,1,1,buzo antonia - rosa bebe-3000-6000-12M-1,12M,0
+saquito nina brillo - crudo,2500.0,5000.0,1,1,saquito nina brillo - crudo-2500-5000-12M-1,12M,0
+campera tejida I.M. - bordo,4000.0,8000.0,1,1,campera tejida I.M. - bordo-4000-8000-12M-1,12M,0
+body moon - blanco,2500.0,5000.0,1,1,0055070100012M,12M,0
+body moon - gris melange,2500.0,5300.0,1,1,0055070190012M,12M,0
+body paloma - rosa viejo,3000.0,6000.0,1,1,0074011111012M,12M,0
+"body paloma - marino ",3000.0,6000.0,1,1,0074011125012M,12M,0
+body chomba matias - marino,3500.0,7000.0,1,1,0051000125012M,12M,0
+"body bear - blanco ",3000.0,6000.0,1,1,0060012200012M,12M,0
+body blanca - rosa bebe,3000.0,6000.0,1,1,0039010110012M,12M,0
+"body gino - azul ",3000.0,6000.0,1,1,0063390019012M,12M,0
+body eliana - rosa,3000.0,6000.0,1,1,0245320110012M,12M,0
+body ismael M/L - marino,3000.0,6000.0,1,1,0054010125012M,12M,0
+body Ismael m/L - crudo,3000.0,6000.0,1,1,0054010170012M,12M,0
+"body chomba matias - blanco ",3500.0,7000.0,1,1,0051000100012M,12M,0
+body termico - marino,3500.0,7000.0,1,1,0028860125012M,12M,0
+chomba matias - azul,3500.0,7000.0,1,1,0830000119012M,12M,0
+musculosa long beach - gris melange,2500.0,6000.0,1,1,0831016790012M,12M,0
+remera ride - verde,3000.0,6000.0,1,1,0806016831012M,12M,0
+remera dino - gris melange,3000.0,6000.0,1,1,remera dino - gris melange-3000-6000-12M-1,12M,0
+"remera flores coral tomiko - blanco ",2500.0,5000.0,1,1,remera flores coral tomiko - blanco -2500-5000-12M-1,12M,0
+body conejo - rosa,2000.0,4000.0,1,1,body conejo - rosa-2000-4000-12M-1,12M,0
+"body pajarito - blanco ",2500.0,5000.0,1,1,body pajarito - blanco -2500-5000-12M-1,12M,0
+body floreada fuccia - blanco,3000.0,6000.0,1,1,body floreada fuccia - blanco-3000-6000-12M-1,12M,0
+body conejitos y hongos,2500.0,5000.0,1,1,body conejitos y hongos-2500-5000-12M-1,12M,0
+body animalitos tomiko - rosa,2500.0,5000.0,1,1,body animalitos tomiko - rosa-2500-5000-12M-1,12M,0
+body ratoncito bailarina - blanca,2500.0,5000.0,1,1,body ratoncito bailarina - blanca-2500-5000-12M-1,12M,0
+"body vintage - bordo ",2500.0,5000.0,1,1,body vintage - bordo -2500-5000-12M-1,12M,0
+"body bombachudo - blanco ",3000.0,5500.0,1,1,body bombachudo - blanco -3000-5500-12M-1,12M,0
+remera jirafa - blanca,2500.0,5000.0,1,1,remera jirafa - blanca-2500-5000-12M-1,12M,0
+"body new odisea - blanco ",2500.0,5000.0,1,1,body new odisea - blanco -2500-5000-12M-1,12M,0
+body ismael - crudo,3000.0,6000.0,1,1,0073480170012M,12M,0
+body ismael - tostado,3000.0,6000.0,1,1,0073480127012M,12M,0
+body ismael - rosa viejo,3000.0,6000.0,1,1,0073480111012M,12M,0
+body erizo baby - beige,2500.0,5000.0,1,1,0045011942012M,12M,0
+"body erizo baby - blanco ",2500.0,5000.0,1,1,0045011900012M,12M,0
+body durazno - durazno,2500.0,5000.0,1,1,0082260139012M,12M,0
+remera leysa - lila,2500.0,5000.0,1,1,0814780162012M,12M,0
+"remera gretel - blanca ",2500.0,5000.0,1,1,0801015200012M,12M,0
+"remera leysa - amarillo ",2500.0,5000.0,1,1,0814780137012M,12M,0
+remera bernarda - rojo,2500.0,5000.0,1,1,0844000150012M,12M,0
+"body durazno - rosa viejo ",2500.0,5000.0,1,1,0082260111012M,12M,0
+body bernarda - rojo,2500.0,5000.0,1,1,0038000150012M,12M,0
+remera m/C lisa - rojo,2000.0,4000.0,1,1,remera m/C lisa - rojo-2000-4000-12M-1,12M,0
+pantalon leonel - gris melange,2700.0,5300.0,1,1,0414630190012M,12M,0
+pantalon felipe - negro,2500.0,5000.0,1,1,pantalon felipe - negro-2500-5000-12M-1,12M,0
+calza ardilla - beige,3000.0,6000.0,1,1,0400350042012M,12M,0
+calza ardilla - rosa bebe,3000.0,6000.0,1,1,0400350010012M,12M,0
+"calza bambi - crudo ",3000.0,6000.0,1,1,0400740070012M,12M,0
+pantalon faro corderoy - celeste,2000.0,4000.0,1,1,pantalon faro corderoy - celeste-2000-4000-12M-1,12M,0
+"short olivia - rosa viejo ",2500.0,5000.0,1,1,0710010111012M,12M,0
+short animalitos - naranja,2000.0,4000.0,1,1,short animalitos - naranja-2000-4000-12M-1,12M,0
+short pedro - mostaza,2500.0,5000.0,1,1,0779320086009M,12M,1
+"short Pedro - mostaza ",2500.0,5000.0,1,1,0779320086009M,9M,0
+"short pedro - habano ",2500.0,5000.0,1,1,0779320024009M,9M,0
+"baiker puntilla - blanco ",2500.0,5000.0,1,1,baiker puntilla - blanco -2500-5000-12M-1,12M,0
+"short pedro - mostaza ",2500.0,5000.0,1,1,0779320086012M,12M,0
+baiker puntilla - rosa bebe,2500.0,5000.0,0,1,baiker puntilla - rosa bebe-2500-5000-12M-1,12M,0
+"short liso - blanco ",3000.0,6000.0,1,1,short liso - blanco -3000-6000-12M-1,12M,0
+"short florcitas - blanco ",3000.0,6000.0,1,1,short florcitas - blanco -3000-6000-12M-1,12M,0
+"short Pedro ",2500.0,5000.0,1,1,0779320024012M,12M,0
+pantalon milena - verde,3500.0,7000.0,1,1,0434860031012M,12M,0
+"pantalon puntilla abajo - rosa ",3000.0,6000.0,1,1,pantalon puntilla abajo - rosa -3000-6000-12M-1,12M,0
+"pantalon lino - coral ",3000.0,6000.0,1,1,pantalon lino - coral -3000-6000-12M-1,12M,0
+"calza volados - negro ",3000.0,6000.0,1,1,calza volados - negro -3000-6000-12M-1,12M,0
+calza moño - blanco,3000.0,6000.0,1,1,calza moño - blanco-3000-6000-12M-1,12M,0
+"calza volado - blanco ",3000.0,6000.0,1,1,calza volado - blanco -3000-6000-12M-1,12M,0
+"calza volado- chocolate ",3000.0,6000.0,0,1,calza volado- chocolate -3000-6000-12M-1,12M,0
+pantalon morley - rosa,3000.0,6000.0,1,1,pantalon morley - rosa-3000-6000-12M-1,12M,0
+"pantalon morley - blanco ",3000.0,6000.0,1,1,pantalon morley - blanco -3000-6000-12M-1,12M,0
+"pantalon pajaritos - blanco ",2500.0,5000.0,1,1,pantalon pajaritos - blanco -2500-5000-12M-1,12M,1
+"pantalon pajaritos - blanco ",2500.0,5000.0,1,1,pantalon pajaritos - blanco -2500-5000-12M-1,12M,1
+"pantalon pajaritos - blanco ",2500.0,5000.0,2,1,pantalon pajaritos - blanco -2500-5000-12M-1,12M,0
+calza mon amour - mugat,2500.0,5000.0,1,1,0497070018012M,12M,0
+pantalon morley - gris,2500.0,5000.0,1,1,pantalon morley - gris-2500-5000-12M-1,12M,0
+"pantalon calado - blanco ",2500.0,5000.0,1,1,pantalon calado - blanco -2500-5000-12M-1,12M,0
+pantalon morley- rosa,2500.0,5000.0,1,1,pantalon morley- rosa-2500-5000-12M-1,12M,0
+pantalon pajaritos - blanco,2500.0,5000.0,1,1,pantalon pajaritos - blanco-2500-5000-12m-1,12m,1
+pantalon pajaritos - blanco,2500.0,5000.0,1,1,pantalon pajaritos - blanco-2500-5000-12m-1,12m,0
+"remera lisa - blanco ",2000.0,4000.0,1,1,remera lisa - blanco -2000-4000- 12M-1," 12M",1
+"remera lisa - blanco ",2000.0,4000.0,1,1,remera lisa - blanco -2000-4000-18M-1,18M,0
+"remera pajaritos - blanco ",2500.0,5000.0,1,1,remera pajaritos - blanco -2500-5000-12M-1,12M,0
+remera lisa - crudo,2000.0,4000.0,1,1,remera lisa - crudo-2000-4000-12M-1,12M,0
+remera angelito,2500.0,5000.0,1,1,remera angelito-2500-5000-12M-1,12M,0
+"body bombachudo - blanco ",3000.0,6000.0,1,1,body bombachudo - blanco -3000-6000-18M-1,18M,0
+remera bernarda - rojo,2500.0,5000.0,1,1,0844000150018M,18M,0
+remera leysa - rojo,2500.0,5000.0,1,1,0814780150018M,18M,0
+"remera erizo baby - baige ",2500.0,5000.0,1,1,0817011942018M,18M,0
+"remera gretel - blanco ",2500.0,5000.0,1,1,0801015200018M,18M,0
+"remera leysa - amarillo ",2500.0,5000.0,1,1,0814780137018M,18M,0
+"remera flores coral - blanco ",2500.0,5000.0,1,1,remera flores coral - blanco -2500-5000-18M-1,18M,0
+remera cande - blanco,2000.0,4000.0,2,1,3784-HU-2A,18M,0
+remera angelito - manteca,2500.0,5000.0,1,1,remera angelito - manteca-2500-5000-18M-1,18M,0
+body cuello broderi - rosa,2500.0,5000.0,1,1,body cuello broderi - rosa-2500-5000-18M-1,18M,0
+"body vintage - chocolate ",2500.0,5000.0,1,1,body vintage - chocolate -2500-5000-18M-1,18M,0
+"body ballet - blanco ",3000.0,6000.0,1,1,body ballet - blanco -3000-6000-18M-1,18M,0
+body new odisea - rosa,2500.0,5000.0,1,1,body new odisea - rosa-2500-5000-18M-1,18M,0
+body cisne - manteca,2500.0,5000.0,1,1,body cisne - manteca-2500-5000-18M-1,18M,0
+body animalitos - rosa,2500.0,5000.0,1,1,body animalitos - rosa-2500-5000-18M-1,18M,0
+body ardilla - rosa,2500.0,5000.0,1,1,body ardilla - rosa-2500-5000-18M-1,18M,0
+body liso - celeste,2000.0,4000.0,1,1,body liso - celeste-2000-4000-18M-1,18M,0
+body chomba matias - marino,3500.0,7000.0,1,1,0051000125018M,18M,0
+body blanca - rosa bebe,3000.0,6000.0,1,1,0039010110018M,18M,0
+body eliana - rosa,3000.0,6000.0,1,1,0245320110018M,18M,0
+body eliana - blanco,3000.0,6000.0,1,1,0245320100018M,18M,0
+body ismael - marino,3000.0,6000.0,1,1,0054010125018M,18M,0
+body Ismael - crudo,3000.0,6000.0,1,1,0054010170018M,18M,0
+body chomba matias - blanco,3500.0,7000.0,1,1,0051000100018M,18M,0
+"body blanca - blanco ",3000.0,6000.0,1,1,0039010100018M,18M,0
+"remera renata - crudo ",3000.0,6000.0,1,1,0800011870018M,18M,0
+remera into the wild - bordo,3000.0,6000.0,1,1,0805015453018M,18M,0
+remra dinos - gris melange,3000.0,6000.0,1,1,0806016190018M,18M,0
+musculosa long beach - gris,2700.0,5300.0,1,1,0831016790018M,18M,0
+"remera space Explore - blanco ",3000.0,6000.0,1,1,0805017400018M,18M,0
+"body panal abeja - celeste ",2000.0,4000.0,1,1,body panal abeja - celeste -2000-4000-18M-1,18M,0
+"short pedro - mostaza ",2500.0,5000.0,1,1,0779320086018M,18M,0
+"calza volados - chocolate ",3000.0,6000.0,1,1,calza volados - chocolate -3000-6000-18M-1,18M,0
+"calza volados - blanco ",3000.0,6000.0,1,1,calza volados - blanco -3000-6000-18M-1,18M,0
+"calza puntilla abajo ",3000.0,6000.0,0,1,calza puntilla abajo -3000-6000-18M-1,18M,0
+calza volados - negro,3000.0,6000.0,1,1,calza volados - negro-3000-6000-18M-1,18M,0
+"calza moño - chocolate ",3000.0,6000.0,1,1,calza moño - chocolate -3000-6000-18M-1,18M,0
+pantalon lino - coral,2500.0,5000.0,1,1,pantalon lino - coral-2500-5000-18M-1,18M,0
+"calza puntilla los costados - negro ",3000.0,6000.0,1,1,calza puntilla los costados - negro -3000-6000-18M-1,18M,0
+"calza moño - blanco ",3000.0,6000.0,1,1,calza moño - blanco -3000-6000-18M-1,18M,0
+calza volados - manteca,3000.0,6000.0,1,1,calza volados - manteca-3000-6000-18M-1,18M,0
+calza mon amour,2500.0,5000.0,1,1,0497070018018M,18M,0
+calza mon amour - gris melange,2500.0,5000.0,1,1,0497070090018M,18M,0
+"pantalon pequeño amor - negro ",2500.0,5000.0,0,1,pantalon pequeño amor - negro -2500-5000-18M-1,18M,0
+pantalon pajarito y nubes - gris,2500.0,5000.0,1,1,pantalon pajarito y nubes - gris-2500-5000-18M-1,18M,0
+"pantalon cresta - blanco ",2500.0,5000.0,1,1,pantalon cresta - blanco -2500-5000-18M-1,18M,0
+pantalon cresta - verde,2500.0,5000.0,1,1,pantalon cresta - verde-2500-5000-18M-1,18M,0
+pantalon lana minianima - gris,3500.0,7000.0,1,1,pantalon lana minianima - gris-3500-7000-18M-1,18M,0
+"pantalon lana minianima - celeste ",3500.0,7000.0,1,1,pantalon lana minianima - celeste -3500-7000-18M-1,18M,0
+pantalon leonel - marino,2700.0,5300.0,1,1,0414630125018M,18M,0
+calza ardilla - beige,3000.0,6000.0,1,1,0400350042018M,18M,0
+calza ardilla - rosa bebe,3000.0,6000.0,1,1,0400350010018M,18M,0
+calza bambi - rosa bebe,3000.0,6000.0,1,1,0400740010018M,18M,0
+"pantalon milena - topo ",3500.0,7000.0,1,1,0434860094018M,18M,0
+pantalon leonel - gris melange,2700.0,5300.0,1,1,0414630190018M,18M,0
+pantalon lanilla - negro,2500.0,5000.0,1,1,pantalon lanilla - negro-2500-5000-18M-1,18M,0
+pantalon lanilla - marron,2500.0,5000.0,1,1,pantalon lanilla - marron-2500-5000-18M-1,18M,0
+pantalon lanilla - verde,2500.0,5000.0,1,1,pantalon lanilla - verde-2500-5000-18M-1,18M,0
+"pantalon puntilla bolsillas - rosa ",3000.0,6000.0,1,1,pantalon puntilla bolsillas - rosa -3000-6000-18M-1,18M,0
+pantalon estrella - beige,4000.0,8000.0,1,1,0404600042018M,18M,0
+"buzo animalitos - celeste ",3000.0,6000.0,1,1,buzo animalitos - celeste -3000-6000-18M-1,18M,0
+buzo Rapunzel - beige,3000.0,6000.0,1,1,0517050142018M,18M,0
+campera abrigo I.M. - rosa,6000.0,12000.0,1,1,campera abrigo I.M. - rosa-6000-12000-18M-1,18M,0
+buzo antonia - rosa bebe,3000.0,6000.0,1,1,buzo antonia - rosa bebe-3000-6000-18M-1,18M,0
+"campera florcitas - blanco ",3000.0,6000.0,1,1,campera florcitas - blanco -3000-6000-18M-1,18M,0
+campera salos flores - crudo,2500.0,5000.0,1,1,campera salos flores - crudo-2500-5000-18M-1,18M,0
+"buzo capucha flores - crudo ",2500.0,5000.0,1,1,buzo capucha flores - crudo -2500-5000-18M-1,18M,0
+campera animalitos - bordo,5300.0,10300.0,1,1,campera animalitos - bordo-5300-10300-18M-1,18M,0
+"campera lisa - celeste ",2000.0,4000.0,1,1,campera lisa - celeste -2000-4000-18M-1,18M,0
+campera dinosaurio - negro,3000.0,6000.0,1,1,campera dinosaurio - negro-3000-6000-18M-1,18M,0
+body Ismael - marino,3000.0,6000.0,1,1,0054010125024M,24M,0
+pantalon de lanilla - azul,2500.0,5000.0,1,1,pantalon de lanilla - azul-2500-5000-24M-1,24M,0
+body blanca - rosa bebe,3000.0,6000.0,1,1,0039010110024M,24M,0
+"body blanca - blanco ",3000.0,6000.0,0,1,0039010100024M,24M,0
+"body gino - azul ",3000.0,6000.0,1,1,0063390019024M,24M,0
+body eliana - rosa,3000.0,6000.0,1,1,0245320110024M,24M,0
+"body eliana - blanco ",3000.0,6000.0,1,1,0245320100024M,24M,0
+body Ismael - ceudo,3000.0,6000.0,1,1,0054010170024M,24M,0
+"body chomba matias  - blanco ",3500.0,7000.0,1,1,0051000100024M,24M,0
+"remera daisy - mostaza ",3000.0,6000.0,1,1,0839670186002A,24M,0
+remera termica - beige,3500.0,7000.0,1,1,0800860142002A,24M,0
+"remera termica - rosa viejo ",3500.0,7000.0,1,1,0800860111002A,24M,0
+remera facu - tostado,3000.0,6000.0,1,1,0825200027024M,24M,0
+"remera Ismael - beige ",3000.0,6000.0,1,1,0838010142002A,24M,0
+"remera ride - azul ",3000.0,6000.0,1,1,0806016819024M,24M,0
+"remera tsunami - blanco ",3000.0,6000.0,1,1,0806019900024M,24M,0
+renera Ismael - azul,3000.0,6000.0,1,1,0838010119002A,24M,0
+musculosa long beach - gris,3000.0,6000.0,1,1,0831016790024M,24M,0
+"musculosa long beach - crudo ",3000.0,6000.0,1,1,0831016770024M,24M,0
+musculosa surfer - mostaza,3000.0,6000.0,1,1,0831016386002A,24M,0
+musculosa salos - verde,2000.0,4000.0,1,1,musculosa salos - verde-2000-4000-24M-1,24M,0
+"body calado - blanco ",2000.0,4000.0,2,1,body calado - blanco -2000-4000-24M-2,24M,0
+body julian - gris,2000.0,4000.0,1,1,body julian - gris-2000-4000-24M-1,24M,0
+body panel abeja - beige,2000.0,4000.0,1,1,body panel abeja - beige-2000-4000-24M-1,24M,0
+body rayado bolsillitos - verde,2500.0,5000.0,1,1,body rayado bolsillitos - verde-2500-5000-24M-1,24M,0
+"remera candela - blanco ",3000.0,6000.0,1,1,0875010100024M,24M,0
+"remera selena - crudo ",3000.0,6000.0,1,1,0814040170002A,24M,1
+remera selena - crudo,3000.0,6000.0,1,1,0814040170002A,24M,0
+"remera erizo baby - blanco ",3000.0,6000.0,1,1,0817011900024M,24M,0
+"remera leysa - blanco ",3000.0,6000.0,1,1,remera leysa - blanco -3000-6000-24M-1,24M,0
+remera yamila - blanco,3500.0,7000.0,1,1,0878010400024M,24M,0
+remera bernarda - blanco,2500.0,5000.0,1,1,0844000100024M,24M,0
+remera mia - aero,2500.0,5000.0,1,1,0804000121024M,24M,0
+remera felicita - beige,2500.0,5000.0,1,1,0873010042002A,24M,0
+remera bernarda - rojo,2500.0,5000.0,1,1,0844000150024M,24M,0
+"body calado - blanco ",2000.0,4000.0,1,1,body calado - blanco -2000-4000-24M-1,24M,0
+"body polera - celeste ",2000.0,4000.0,1,1,body polera - celeste -2000-4000-24M-1,24M,0
+"body liso - celeste ",2000.0,4000.0,1,1,body liso - celeste -2000-4000-24M-1,24M,0
+remera Cande - rosa,2000.0,4000.0,1,1,3784-RO-4A,24M,0
+remera foxy - nude,2500.0,5000.0,1,1,0800017538024M,24M,0
+remera daisy m/L - rosa viejo,2500.0,5000.0,1,1,0839670111002A,24M,0
+camisa jean - azul,3000.0,6000.0,1,1,camisa jean - azul-3000-6000-12M-1,12M,0
+body ismael - gris,3000.0,6000.0,1,1,body ismael - gris-3000-6000-24M-1,24M,0
+"body ismael - mostaza ",3000.0,6000.0,1,1,0054010186024M,24M,0
+body ismael - azul,3000.0,6000.0,0,1,body ismael - azul-3000-6000-24M-1,24M,0
+"remera volados - blanco ",2500.0,5000.0,1,1,remera volados - blanco -2500-5000-24M-1,24M,0
+"remera flores lila - blanco ",2500.0,5000.0,1,1,remera flores lila - blanco -2500-5000-24M-1,24M,0
+body india - crudo,3000.0,6000.0,1,1,0073480170024M,24M,0
+"body india - tostado ",3000.0,6000.0,1,1,0073480111024M,24M,1
+body india  - rosa viejo,3000.0,6000.0,1,1,0073480111024M,24M,0
+"remera angelito - crudo ",3000.0,6000.0,1,1,remera angelito - crudo -3000-6000-24M-1,24M,0
+body lunares - fuccia,2500.0,5000.0,1,1,3731-FU-24M,24M,0
+"musculosa salos voladitos - celeste ",2500.0,5000.0,1,1,musculosa salos voladitos - celeste -2500-5000-24M-1,24M,0
+musculosa jirafa - rosa,2500.0,5000.0,1,1,musculosa jirafa - rosa-2500-5000-24M-1,24M,0
+remera cande - verde,2000.0,4000.0,1,1,remera cande - verde-2000-4000-24M-1,24M,0
+"remea Cande - blanco ",2000.0,4000.0,1,1,remea Cande - blanco -2000-4000-24M-1,24M,0
+vestido lilian - orquidia,4500.0,8500.0,1,1,0903160193024M,24M,0
+calza lana pequeño amor - gris,2500.0,5000.0,1,1,calza lana pequeño amor - gris-2500-5000-24M-1,24M,0
+"pantalon lanilla - verde ",2500.0,5000.0,1,1,pantalon lanilla - verde -2500-5000-24M-1,24M,0
+calza dolly - oxido,3000.0,6000.0,1,1,0400150197024M,24M,0
+pantalon estrella - beige,4000.0,8000.0,1,1,0404600042024M,24M,0
+"pantalon milena - verde ",3500.0,7000.0,1,1,0434860031024M,24M,0
+pantalon leonel - gris melange,2800.0,5300.0,1,1,0414630190024M,24M,0
+pantalon estrella - rosa bebe,4000.0,8000.0,1,1,0404600010024M,24M,0
+remera isidro - marino,3000.0,6000.0,1,1,0838010125024M,24M,0
+"remera anton - topo ",3000.0,6000.0,1,1,0805640094002A,24M,0
+"calza ardilla - beige ",3000.0,6000.0,1,1,0400350042024M,24M,0
+buzo liso - bordo,2500.0,5000.0,1,1,buzo liso - bordo-2500-5000-24M-1,24M,0
+buzo liso - azul,2500.0,5000.0,1,1,buzo liso - azul-2500-5000-24M-1,24M,0
+saco vestir I.M. - azul,7000.0,14000.0,1,1,saco vestir I.M. - azul-7000-14000-24M-1,24M,0
+campera de hilo I.M. - crudo,5000.0,10000.0,1,1,campera de hilo I.M. - crudo-5000-10000-24M-1,24M,0
+short palmeras - azul,2500.0,5000.0,1,1,short palmeras - azul-2500-5000-24M-1,24M,0
+pantalon teo jeans,4000.0,8000.0,1,1,pantalon teo jeans-4000-8000-24M-1,24M,0
+short florsita bordado - negro,2500.0,5000.0,1,1,short florsita bordado - negro-2500-5000-24M-1,24M,0
+baiker puntilla - rosa,2500.0,5000.0,1,1,baiker puntilla - rosa-2500-5000-24M-1,24M,0
+baiker puntilla - blanco,2500.0,5000.0,1,1,baiker puntilla - blanco-2500-5000-24M-1,24M,0
+shorsito puntilla salos - gris,2000.0,4000.0,1,1,shorsito puntilla salos - gris-2000-4000-24M-1,24M,0
+shorsito puntilla bolsillo - naranja,2000.0,4000.0,1,1,shorsito puntilla bolsillo - naranja-2000-4000-24M-1,24M,0
+"shorsito lunares salos - fucsia ",2000.0,4000.0,1,1,shorsito lunares salos - fucsia -2000-4000-24M-1,24M,0
+calza moño - crudo,3000.0,6000.0,1,1,calza moño - crudo-3000-6000-24M-1,24M,0
+calza puntilla abajo - rosa,3000.0,6000.0,1,1,calza puntilla abajo - rosa-3000-6000-24M-1,24M,0
+pantalon floreado tomico - blanco,3000.0,6000.0,3,1,pantalon floreado tomico - blanco-3000-6000-24M-1,24M,0
+jardinero tomiko - rosa,4000.0,8000.0,1,1,jardinero tomiko - rosa-4000-8000-24M-1,24M,0
+"camisa lolo m/c - blanco ",2500.0,5000.0,1,1,camisa lolo m/c - blanco -2500-5000-24M-1,24M,0
+vestido shine - manteca,4000.0,8000.0,1,1,vestido shine - manteca-4000-8000-24M-1,24M,0
+"vestido infant - blanco ",3000.0,6000.0,1,1,vestido infant - blanco -3000-6000-24M-1,24M,0
+"vestido angelito - blanco ",3500.0,7000.0,1,1,vestido angelito - blanco -3500-7000-24M-1,24M,0
+"vestido flores rosas - blanco ",2500.0,5000.0,1,1,vestido flores rosas - blanco -2500-5000-24M-1,24M,0
+vestido flores rosa - celeste,2500.0,5000.0,1,1,vestido flores rosa - celeste-2500-5000-24M-1,24M,0
+vestido bailarinas,3500.0,7000.0,1,1,vestido bailarinas-3500-7000-24M-1,24M,0
+"vestido flores marrones - blanco ",3500.0,7000.0,1,1,vestido flores marrones - blanco -3500-7000-24M-1,24M,0
+vestido tiritas reino mora - rojo,4000.0,8000.0,1,1,vestido tiritas reino mora - rojo-4000-8000-24M-1,24M,0
+vestido m/L puntilla - crudo,3500.0,7000.0,1,1,vestido m/L puntilla - crudo-3500-7000-24M-1,24M,0
+"vestido jackie - blanco ",4500.0,9000.0,1,1,0928180100024M,24M,0
+camisa jano - marino,5500.0,11000.0,1,1,0864910125024M,24M,0
+biker monique - lavanda,2500.0,5000.0,1,1,0408040047002A,24m,0
+"short irene - arana ",2800.0,5300.0,1,1,0747370028002A,24M,0
+short augusta - tostado,2500.0,5000.0,1,1,0748220027002A,24M,0
+"short pedro - mostaza ",2500.0,5000.0,1,1,short pedro - mostaza -2500-5000-24M-1,24M,0
+short maggie - rosa vieja,2500.0,5000.0,1,1,0712220111024M,24M,0
+short margarita - chicle dior,2500.0,5000.0,1,1,0749760013002A,24M,0
+remra bordada ciervo - crudo,3000.0,6000.0,1,1,remra bordada ciervo - crudo-3000-6000-24M-1,24M,0
+"remera blanca - blanco ",3000.0,6000.0,1,1,0854010100024M,24M,0
+calza bambi - crudo,3000.0,6000.0,1,1,0400740070024M,24M,0
+calza ardilla - rosa bebe,3000.0,6000.0,1,1,0400350010024M,24M,0
+"short pedro - mostaza ",2500.0,5000.0,1,1,0779320086024M,24M,0
+vestido claribel - rosa viejo,4500.0,9000.0,1,1,0914150011024M,24M,0
+calza modelos - rojo,2500.0,5000.0,1,1,0400000099024M,24M,0
+"calza mon amour - melange ",2500.0,5000.0,1,1,0497070090024M,24M,0
+"campera pedro - gris ",3000.0,6000.0,1,1,0540400190024M,24M,0
+buzo paulino - azul,3000.0,6000.0,1,1,0556730019002A,24M,0
+buzo puntilla sin frizza - crudo,3000.0,6000.0,1,1,buzo puntilla sin frizza - crudo-3000-6000-24M-1,24M,0
+campera amelie - gris,3000.0,6000.0,1,1,0539050190002A,24M,0
+"buzo Melchor - tostado ",4000.0,8000.0,1,1,0569060027002A,24M,0
+calza azucar - beige,3000.0,6000.0,1,1,0400360042002A,24M,0
+"mono amparo - tostado ",4500.0,9000.0,1,1,0353330127002A,24M,0
+mono amparo - rosa viejo,4500.0,9000.0,1,1,0353330111002A,24M,0
+"mono amparo - rojo ",4500.0,9000.0,1,1,mono amparo - rojo -4500-9000-24M-1,24M,0
+vestido amparo - rojo,4500.0,9000.0,1,1,0947330150002A,24M,0
+vestido Trinidad - rojo,4500.0,9000.0,1,1,0902010050024M,24M,0
+vestido selena - rosa viejo,4000.0,8000.0,1,1,0965040111002A,24M,0
+vestido marga - rosa viejo,3000.0,6000.0,1,1,0901010411024M,24M,0
+"conjunto zafira - rosa viejo ",4000.0,8000.0,0,1,0610160111024M,24M,0
+solero martina - aero,3500.0,7000.0,1,1,0967620121002A,24M,0
+"vestido laura. - rojo ",3500.0,7000.0,1,1,0919210150024M,24M,0
+chomba mateo - marino,3800.0,7300.0,1,1,0837000125024M,24M,0
+chomba mateo - rojo,3800.0,7300.0,1,1,0837000150024M,24M,0
+"calza titina - rosa ",2500.0,5000.0,1,1,calza titina - rosa -2500-5000-24M-1,24M,1
+calza titina - uva,3000.0,6000.0,1,1,calza titina - uva-3000-6000-24M-1,24M,1
+short palmeras - azul,2500.0,5000.0,1,1,short palmeras - azul-2500-5000-4A-1,4A,0
+calza titina - uva,3000.0,6000.0,1,1,calza titina - uva-3000-6000-4A-1,4A,0
+calza titina - rosa bebe,3000.0,6000.0,1,1,calza titina - rosa bebe-3000-6000-4A-1,4A,0
+"buzo puntilla salos ",3000.0,6000.0,1,1,buzo puntilla salos -3000-6000-4A-1,4A,0
+short camuflado - gris,3000.0,6000.0,1,1,short camuflado - gris-3000-6000-4A-1,4A,0
+buzo liso - verde,2500.0,5000.0,1,1,buzo liso - verde-2500-5000-4A-1,4A,0
+"buzo liso - gris oscuro ",2500.0,5000.0,1,1,buzo liso - gris oscuro -2500-5000-4A-1,4A,0
+"short amelie - beige ",3000.0,6000.0,1,1,0708050042004A,4A,0
+vestido rufina - marino,6000.0,12000.0,1,1,0990860025004A,4A,0
+"jardinero roma - ladrillo ",6800.0,13300.0,1,1,0391150043004A,4A,0
+pantalón paulo - topo,3000.0,6000.0,1,1,0425060094004A,4A,0
+campera tejida I.M. - azul,3000.0,6000.0,1,1,campera tejida I.M. - azul-3000-6000-6A-1,6A,0
+"short camuflado  - celeste ",2000.0,4000.0,1,1,short camuflado  - celeste -2000-4000-6A-1,6A,0
+"short calado salos - blanco ",2500.0,5000.0,1,1,short calado salos - blanco -2500-5000-6A-1,6A,1
+"short calado salos - blanco ",2500.0,5000.0,1,1,short calado salos - blanco -2500-5000-6A-1,6A,0
+pantalon corderoy - beige,4000.0,8000.0,1,1,pantalon corderoy - beige-4000-8000-6A-1,6A,0
+"calza titina - uva ",2500.0,5000.0,3,1,calza titina - uva -2500-5000-6A-1,6A,0
+calza titina - verde,2500.0,5000.0,1,1,calza titina - verde-2500-5000-6A-1,6A,0
+calza titina - rosa,2500.0,5000.0,1,1,calza titina - rosa-2500-5000-6A-1,6A,0
+"pantalon gabardina - mostaza ",4000.0,8000.0,1,1,pantalon gabardina - mostaza -4000-8000-6A-1,6A,0
+"vestido mangas volado - rojo ",4500.0,9000.0,1,1,vestido mangas volado - rojo -4500-9000-6A-1,6A,0
+vestido espalda volados - rojo,4500.0,9000.0,1,1,vestido espalda volados - rojo-4500-9000-6A-1,6A,0
+remera manga m/L - azul,2500.0,5000.0,1,1,remera manga m/L - azul-2500-5000-8A-1,8A,0
+remera rallada m/ L - azul,2500.0,5000.0,1,1,remera rallada m/ L - azul-2500-5000-8A-1,8A,0
+"chomba rallada I.M. ",2500.0,5500.0,1,1,chomba rallada I.M. -2500-5500-8A-1,8A,0
+"camisa cuadrille I.M. - azul ",3500.0,7000.0,1,1,camisa cuadrille I.M. - azul -3500-7000-8A-1,8A,0
+vestido volado frente - verde,2500.0,5000.0,1,1,vestido volado frente - verde-2500-5000-8A-1,8A,0
+bermuda vestir - rojo,3000.0,6000.0,1,1,bermuda vestir - rojo-3000-6000-8A-1,8A,0
+biker floreado - rosa,3000.0,6000.0,1,1,biker floreado - rosa-3000-6000-8A-1,8A,0
+baiker liso volado arriba - crudo,3000.0,6000.0,1,1,baiker liso volado arriba - crudo-3000-6000-8A-1,8A,0
+"shorcito broderi - blanco ",3000.0,6000.0,1,1,shorcito broderi - blanco -3000-6000-8A-1,8A,0
+baiker liso reino mora - uva,2500.0,5000.0,1,1,baiker liso reino mora - uva-2500-5000-8A-1,8A,0
+piyama rayado - blanco,3000.0,6000.0,1,1,piyama rayado - blanco-3000-6000-8A-1,8A,0
+"remera m/L yelowstone - gris ",3000.0,6000.0,1,1,remera m/L yelowstone - gris -3000-6000-8A-1,8A,0
+"remera moto I.M. m/L - gris ",3000.0,6000.0,1,1,remera moto I.M. m/L - gris -3000-6000-8A-1,8A,0
+musculosa salos luneres - azul,2500.0,5000.0,1,1,musculosa salos luneres - azul-2500-5000-8A-1,8A,0
+short palmeras y rayas,2500.0,5000.0,1,1,short palmeras y rayas-2500-5000-8A-1,8A,0
+"short Ana, anteojos - gris ",2500.0,5000.0,1,1,"short Ana, anteojos - gris -2500-5000-8A-1",8A,0
+"short camuflado - celeste ",2500.0,5000.0,1,1,short camuflado - celeste -2500-5000-8A-1,8A,0
+short palmeras salos - azul,2500.0,5000.0,1,1,short palmeras salos - azul-2500-5000-8A-1,8A,0
+shor 4 - gris,2000.0,4000.0,1,1,shor 4 - gris-2000-4000-8A-1,8A,0
+calza titina - uva,3000.0,6000.0,2,1,calza titina - uva-3000-6000-8A-2,8A,0
+calza titina - verde,3000.0,6000.0,1,1,calza titina - verde-3000-6000-8A-1,8A,0
+calza titina - rosa,3000.0,6000.0,1,1,calza titina - rosa-3000-6000-8A-1,8A,0
+calza corazón - rosa,2500.0,5000.0,1,1,calza corazón - rosa-2500-5000-8A-1,8A,0
+campera hilo I.M. - gris,4000.0,8000.0,1,1,campera hilo I.M. - gris-4000-8000-8A-1,8A,0
+campera tejida cuello mao I.M. -  bordo,4000.0,8000.0,1,1,campera tejida cuello mao I.M. -  bordo-4000-8000-8A-1,8A,0
+"short helados salos - blanco ",2500.0,5000.0,1,1,short helados salos - blanco -2500-5000-10A-1,10A,0
+"campera volado brillo - rosa ",3500.0,7000.0,1,1,campera volado brillo - rosa -3500-7000-10A-1,10A,0
+"calza floreada salos - blanco ",2500.0,5000.0,1,1,calza floreada salos - blanco -2500-5000-10A-1,10A,0
+"calza titina - verde ",3000.0,6000.0,1,1,calza titina - verde -3000-6000-10A-1,10A,0
+"calza titina - uva ",3000.0,6000.0,1,1,calza titina - uva -3000-6000-10A-1,10A,0
+bermuda vestir - negro,3000.0,6000.0,1,1,bermuda vestir - negro-3000-6000-10A-1,10A,0
+"baiker florcitas chicas - blanco ",2500.0,5000.0,1,1,baiker florcitas chicas - blanco -2500-5000-10A-1,10A,0
+baiker florcitas azules - blanco,2500.0,5000.0,1,1,baiker florcitas azules - blanco-2500-5000-10A-1,10A,0
+baiker lisa bolados - crudo,2500.0,5000.0,1,1,baiker lisa bolados - crudo-2500-5000-10A-1,10A,0
+short palmeras - azul,2500.0,5000.0,1,1,short palmeras - azul-2500-5000-10A-1,10A,0
+short rayos - gris,2500.0,5000.0,1,1,short rayos - gris-2500-5000-10A-1,10A,0
+musculosa salos - verde,2000.0,4000.0,1,1,musculosa salos - verde-2000-4000-10A-1,10A,0
+"remera leysa lilas - blanco ",3000.0,6000.0,1,1,remera leysa lilas - blanco -3000-6000-10A-1,10A,0
+musculosa lunares - azul,2500.0,5000.0,1,1,musculosa lunares - azul-2500-5000-10A-1,10A,0
+vestido volado pecho - verde,2000.0,4000.0,1,1,vestido volado pecho - verde-2000-4000-10A-1,10A,0
+"vestido monique - rosa ",5000.0,10000.0,1,1,vestido monique - rosa -5000-10000-10A-1,10A,0
+musculosa salos - rojo,2000.0,4000.0,1,1,musculosa salos - rojo-2000-4000-14A-1,14A,0
+musculosa salos - verde,2000.0,4000.0,1,1,musculosa salos - verde-2000-4000-14A-1,14A,0
+short palmeras - azul,2500.0,5000.0,1,1,short palmeras - azul-2500-5000-14A-1,14A,0
+short rayos - gris,2500.0,5000.0,1,1,short rayos - gris-2500-5000-14A-1,14A,0
+short hojas - verde,2500.0,5000.0,1,1,short hojas - verde-2500-5000-14A-1,14A,0
+"remera rayada salos - gris ",2000.0,4000.0,1,1,remera rayada salos - gris -2000-4000-12A-1,12A,0
+"remera anteojos salos - rojo ",2500.0,5000.0,1,1,remera anteojos salos - rojo -2500-5000-12A-1,12A,0
+remera long beach - rojo,2500.0,5000.0,1,1,remera long beach - rojo-2500-5000-12A-1,12A,0
+"pantalon liso - bordo ",2500.0,5000.0,1,1,pantalon liso - bordo -2500-5000-12A-1,12A,0
+short palmeras - azul,2500.0,5000.0,1,1,short palmeras - azul-2500-5000-12A-1,12A,0
+remera bernarda - rojo,3000.0,6000.0,1,1,084400015000XS,12A,0
+remera felicita - beige,3000.0,6000.0,1,1,087301004200XS,12A,0
+"blusa paloma - blanco ",3000.0,6000.0,1,1,086963000000XS,12A,0
+blusa paloma - tostado,3000.0,6000.0,1,1,086963002700XS,12A,0
+"remerra chano - Francia ",3000.0,6000.0,1,1,080725009600XS,12A,0
+remera isamael - azul,3000.0,6000.0,1,1,083801011900XS,12A,0
+short justina - denim,3000.0,6000.0,1,1,075031002200XS,12A,0
+short augusta - tostada,3000.0,6000.0,1,1,074822002700XS,12A,0
+short margarita - chicle,3000.0,6000.0,1,1,074976001300XS,12A,0
+buzo franca - tostado,6000.0,12000.0,1,1,051784002700XS,12A,0
+buzo rapunzel - beige,3000.0,6000.0,1,1,051705014200XS,12A,0
+"buzo Rapunzel - crudo ",3000.0,6000.0,1,1,051705017000XS,12A,0
+remera daisy - rosa viejo,3000.0,6000.0,1,1,083967011100XS,12A,0
+"remera daisy - mostaza ",2500.0,5000.0,1,1,083967018600XS,12A,0
+remera into the wild - mocca,3000.0,6000.0,1,1,080501543500XS,12A,0
+remera into the wild - bordo,3000.0,6000.0,1,1,080501549700XS,12A,0
+remera yellowstone - gris,3000.0,6000.0,1,1,080501869000XS,12A,0
+vestido marga - oliva,3500.0,7000.0,1,1,0901010408024M,"24M ",1
+remera galactic - gris topo,3000.0,6000.0,1,1,089801709400XS,12A,0
+"vestido amparo - blanco ",4000.0,8000.0,1,1,094733010000XS,12A,0
+mono amparo - rosa viejo,3500.0,7000.0,1,1,035333011100XS,12A,0
+"mono amparo - tostado ",3500.0,7000.0,1,1,035333012700XS,12A,0
+"mono amparo - rojo ",3500.0,7000.0,1,1,035333015000XS,12A,0
+bomber alina - rosa viejo,4000.0,8000.0,1,1,0539700111000S,14A,0
+"remea daisy - mostaza ",2500.0,5000.0,1,1,0839670186000S,14A,0
+remera daisy - rosa viejo,2500.0,5000.0,1,1,0839670111000S,14A,0
+"remera into the wild - oxido ",3000.0,6000.0,1,1,0805015497000S,14A,0
+remera into the wild - mocca,3000.0,6000.0,1,1,0805015435000S,14A,0
+remera into the wild - bordo,3000.0,6000.0,1,1,0805015453000S,14A,0
+remera Yellowstone - gris,3000.0,6000.0,1,1,0805018690000S,14A,0
+remera Ismael - gris,3000.0,6000.0,1,1,0838010190000S,14A,0
+"remera felicita - blanco ",3000.0,6000.0,1,1,0873010000000S,14A,0
+remera felicita - beige,3000.0,6000.0,1,1,0873010042000S,14A,0
+"blusa paloma - tostado ",3000.0,6000.0,1,1,0869630027000S,14A,0
+blusa paloma,3000.0,6000.0,1,1,0869630000000S,14A,0
+"short margarita - chicle ",2500.0,5000.0,1,1,0749760013000S,14A,0
+short augusta - tostado,3000.0,6000.0,1,1,0748220027000S,14A,0
+short justina - deniam,3000.0,6000.0,1,1,0750310022000S,14A,0
+buzo franca - tostadoz,6000.0,12000.0,1,1,0517840027000S,14A,0
+vestido amparo - rojo,3500.0,7000.0,1,1,0947330150000S,14A,0
+solero martina - aero,3000.0,6000.0,1,1,0967620121000S,14A,0
+"mono amparo - rojo ",3500.0,7500.0,1,1,0353330150000S,14A,0
+"mono amparo - tostado ",3500.0,7500.0,1,1,0353330127000S,14A,0
+remera bernarda - rojo,3000.0,6000.0,1,1,remera bernarda - rojo-3000-6000-14A-1,14A,0
+vestido volado en el frente - verde,2500.0,5000.0,1,1,vestido volado en el frente - verde-2500-5000-14A-1,14A,0
+short justina - denim,3000.0,6000.0,1,1,0750310022010A,10A,0
+short amelie - rosa viejo,2500.0,5000.0,1,1,0708050011010A,10A,0
+"short augusta - tostado ",2500.0,5000.0,1,1,0748220027010A,10A,0
+"biker monique - lavanda ",2500.0,5000.0,1,1,0408040047010A,10A,0
+buzo paulino - topo,3000.0,6000.0,1,1,0556730094010A,10A,0
+buzo paulino - arena,3000.0,6000.0,1,1,0556730028010A,10A,0
+"short marga - chicle ",3000.0,6000.0,1,1,0749760013010A,10A,0
+"short Irene - mostaza ",3000.0,6000.0,1,1,0747370086010A,10A,0
+calza termica - militar,3500.0,7000.0,1,1,0401860130010A,10A,0
+pantalon melchor - tostado,3500.0,7000.0,1,1,0435060027010A,10A,0
+"pantalon paulo - mostaza ",3500.0,7000.0,1,1,0425060086010A,10A,0
+pantalon melchor - marino,3500.0,7000.0,1,1,0435060025010A,10A,0
+buzo yago - marino,3000.0,6000.0,1,1,0506057725010A,10A,1
+buzo yago - marino,3000.0,7000.0,1,1,0506057725010A,10A,0
+buzo Trinidad - crudo,4000.0,8000.0,1,1,0519690070010A,10A,0
+calza azucar - beige,3000.0,6000.0,1,1,0400360042010A,10A,0
+calza azucar - rosa bebe,3000.0,6000.0,1,1,0400360010010A,10A,0
+calza dolly - oxido,3000.0,6000.0,1,1,0400150197010A,10A,0
+calza dolly - rosa viejo,3000.0,6000.0,1,1,0400150111010A,10A,0
+"buzo trinidad - rosa viejo ",4000.0,8000.0,1,1,0519690011010A,10A,0
+buzo lina - gris melange,3000.0,6000.0,1,1,0519560190010A,10A,0
+"buzo paulo - topo ",4000.0,8000.0,1,1,0556060094010A,10A,0
+"buzo franca - chicle - dior ",6000.0,12000.0,1,1,0517840013010A,10A,0
+"campera moon - caramelo ",6000.0,12000.0,1,1,0552110080010A,10A,0
+buzo melchor - tostado,4000.0,8000.0,1,1,0569060027010A,10A,0
+"buzo Rapunzel - crudo ",3000.0,6000.0,1,1,0517050170010A,10A,0
+bermuda matias - rojo,3000.0,6000.0,1,1,0716110150010A,10A,0
+"remera into the wild - oxido ",3000.0,6000.0,1,1,0805015497010A,10A,1
+remera isidro - tostado,3000.0,6000.0,1,1,0838010127010A,10A,0
+"chomba matias - blanco ",3500.0,7000.0,1,1,0830000100010A,10A,0
+"remera daisy - rosa viejo ",2500.0,5000.0,1,1,0839670111010A,10A,0
+remera gina - rosa bebe,3000.0,6000.0,1,1,0800500110010A,10A,0
+musculosa brookling - agua,2500.0,5000.0,1,1,0831017745010A,10A,0
+"remera palm beach - azul ",2500.0,5000.0,1,1,0806016919010A,10A,0
+remera tsunami - marino,2500.0,5000.0,1,1,0806019925010A,10A,0
+remera ismael - beige,2500.0,5000.0,1,1,0838010142010A,10A,0
+"remera ismael - gris ",2500.0,5000.0,1,1,0838010190010A,10A,0
+"remera galactic - gris topo ",2500.0,5000.0,1,1,0898017094010A,10A,0
+remera chano - francia,2500.0,5000.0,1,1,0807250096010A,10A,0
+"remera tuna - blanco ",2500.0,5000.0,1,1,0806016200010A,10A,0
+"blusa paloma - blanco ",3000.0,6000.0,1,1,0869630000010A,10A,0
+"blusa paloma - blanco ",3000.0,6000.0,1,1,0869630027010A,10A,0
+remera baloon - marino,2000.0,4000.0,1,1,0876010125010A,10A,0
+"remera yamila - blanco ",3000.0,6000.0,1,1,0878010400010A,10A,0
+remera leysa - amarilla,2500.0,5000.0,1,1,0814780137010A,10A,0
+remera bernarda - rojo,2500.0,5000.0,1,1,0844000150010A,10A,0
+"remera felicita - blanco ",2500.0,5000.0,1,1,0873010000010A,10A,0
+"remera bernarda - blanco ",2500.0,5000.0,1,1,0844000100010A,10A,0
+remera felicitas - beige,2500.0,5000.0,1,1,0873010042010A,10A,0
+remera space explore - marino,3000.0,6000.0,1,1,0805017425010A,10A,0
+remera isidro - marino,3000.0,6000.0,1,1,0838010125010A,10A,0
+"remera blanca - blanco ",3000.0,6000.0,1,1,0854010100010A,10A,0
+remera into the wild - oxido,3000.0,6000.0,1,1,0805015497010A,10A,0
+"remera space explore - blanco ",3000.0,6000.0,1,1,0805017400010A,10A,0
+solero martina - aero,3500.0,7000.0,1,1,0967620121008A,10A,0
+chomba oliver - beige,3000.0,6000.0,1,1,0837090042010A,10A,0
+"chomba mateo m/c - blanco ",3000.0,6000.0,1,1,0837000100010A,10A,0
+chomba oliver - azul,3000.0,6000.0,1,1,0837090019010A,10A,0
+"camisa shark - blanco ",2500.0,5000.0,1,1,0864060100010A,10A,0
+camisa chano - aero,3500.0,7000.0,1,1,0864980121010A,10A,0
+"vestido selena - rosa viejo ",3500.0,7000.0,1,1,0965040111010A,10A,0
+solero martina - aero,3500.0,7000.0,1,1,0967620121010A,10A,0
+"mono amparo - rosa viejo ",4000.0,8000.0,1,1,0353330111010A,10A,0
+mono amparo - rojo,4000.0,8000.0,1,1,0353330150010A,10A,0
+vestido justina - jean,4000.0,8000.0,1,1,0943310122010A,10A,0
+vestido lali - rojo,3500.0,7000.0,1,1,0939010150010A,10A,0
+"vestido amparo - blanco ",4000.0,8000.0,1,1,0947330100000M,10A,1
+solero martina - aero,3500.0,7000.0,1,1,0967620121000M,10A,1
+mono amparo - rojo,4000.0,8000.0,1,1,0353330150000M,10A,1
+"mono amparo - rosa viejo ",4000.0,8000.0,1,1,0353330111000M,10A,1
+mono amparo - todtado,4000.0,8000.0,1,1,0353330127000M,10A,1
+mono amparo - tostado,4000.0,8000.0,1,1,0353330127000M,16A,0
+mono amparo - rosa viejo,4000.0,8000.0,1,1,0353330111000M,16A,0
+mono amparo - rojo,4000.0,8000.0,1,1,0353330150000M,16A,0
+"solero martina ",3500.0,7000.0,1,1,0967620121000M,16A,0
+"vestido amparo - blanco ",4000.0,8000.0,1,1,0947330100000M,16A,0
+remera felicitas - blanco,2500.0,5000.0,1,1,0873010000000M,16A,0
+"remera galactic - gris topo ",2500.0,5000.0,1,1,0898017094000M,16A,0
+"remera California - blanco ",2500.0,5000.0,1,1,0806016600000M,16A,0
+"blusa paloma - tostado ",3000.0,6000.0,1,1,0869630027000M,16A,0
+short justina - denim,3000.0,6000.0,1,1,0750310022000M,16A,1
+"short margarita - chicle - dior ",2500.0,5000.0,1,1,0749760013000M,16A,0
+"short augusta - tostado ",2500.0,5000.0,1,1,0748220027000M,16A,0
+buzo franca - chicle - dior,6000.0,12000.0,1,1,0517840013000M,16A,0
+ajuar zafira - lila,3500.0,7000.0,1,1,0196160162--0M,0,0
+ajuar zafira - rosa viejo,3500.0,7000.0,1,1,0196160111--0M,0M,0
+"ajuar amapola - durazno ",3500.0,7000.0,1,1,0196650139--0M,0M,0
+enterito fox and friends - rosa bebe,3500.0,7000.0,1,1,0313390110--0M,0M,0
+enterito moon - crudo,3500.0,7000.0,1,1,0306070170--0M,0M,0
+enterito mon amour - melange,3500.0,7000.0,1,1,0343070190--0M,0M,0
+"enterito tortuga - blanco ",3500.0,7000.0,1,1,0313300000--0M,0M,0
+enterito fox and friends,3500.0,7000.0,1,1,0313390127--0M,0M,0
+"enterio plush liso - azul ",4000.0,7500.0,1,1,enterio plush liso - azul -4000-7500-0M-1,0M,0
+enterio plush liso - celeste,4000.0,7500.0,1,1,enterio plush liso - celeste-4000-7500-0M-1,0M,0
+"enterio liso - celeste ",3000.0,6000.0,1,1,enterio liso - celeste -3000-6000-0M-1,0M,0
+jardinero tomiko floreado - rosa,4000.0,8000.0,1,1,jardinero tomiko floreado - rosa-4000-8000-3M-1,3M,0
+"jardinero liso tomiko - rosa ",4000.0,8000.0,1,1,jardinero liso tomiko - rosa -4000-8000-3M-1,3M,0
+enterita globos - rojos,2500.0,5000.0,1,1,enterita globos - rojos-2500-5000-3M-1,3M,0
+enterito animalitos - verde,3500.0,7000.0,1,1,enterito animalitos - verde-3500-7000-3M-1,3M,0
+ajuar claribel - rosa bebe,3500.0,7000.0,0,1,0196820110003M,3M,0
+"enterito fox and friends - rosa ",3500.0,7000.0,1,1,0313390110003M,3M,0
+ajuar amapola - durazno,3500.0,7000.0,1,1,0196650139003M,3M,0
+ajuar zafira - lila,3500.0,7000.0,1,1,0196160162003M,3M,0
+ajuar zafira - rosa viejo,3500.0,7000.0,1,1,0196160111003M,3M,0
+enterito cala - blanco,3500.0,7000.0,1,1,0305320001003M,3M,0
+"enterito bambi - blanco ",3000.0,6000.0,1,1,413015,3M,0
+enterito plush liso tomiko - crudo,4000.0,7500.0,1,1,enterito plush liso tomiko - crudo-4000-7500-3M-1,3M,0
+"enterito globos - blanco ",3000.0,6000.0,1,1,enterito globos - blanco -3000-6000-3M-1,3M,0
+"enterito bambi  - blanco ",3000.0,6500.0,1,1,enterito bambi  - blanco -3000-6500-3M-1,3M,0
+"enterito liso - blanco ",3000.0,5500.0,1,1,enterito liso - blanco -3000-5500-3M-1,3M,1
+enterito rayado - tierra,3000.0,6000.0,1,1,enterito rayado - tierra-3000-6000-3M-1,3M,0
+"enterito liso - blanco ",3000.0,5500.0,1,1,enterito liso - blanco -3000-5500-3M-1,3M,0
+"enterito vaquita ",3500.0,7000.0,1,1,0135-BLA-3M,3M,0
+ajuar ivan - beige,3500.0,7000.0,1,1,0195410142003M,3M,0
+"ajuar amado - gris melange ",3500.0,7000.0,1,1,0195440190003M,3M,0
+"jardinero floreado tomiko - rosa ",4000.0,8000.0,1,1,jardinero floreado tomiko - rosa -4000-8000-6M-1,6M,0
+enterito liso - rosa,3000.0,6000.0,1,1,enterito liso - rosa-3000-6000-6M-1,6M,0
+"enterito mascota - rosa ",2500.0,5000.0,1,1,3915-ROS-6M,6M,0
+enterito mon amour - rosa,3500.0,7000.0,1,1,0343070111006M,6M,0
+enterito lily - arena,3500.0,7000.0,1,1,0342750028006M,6M,0
+enterito florcito botones - rosa,3500.0,7000.0,0,1,enterito florcito botones - rosa-3500-7000-6M-1,6M,0
+"enterito mascota - blanco ",2500.0,5000.0,1,1,3915-BLA-6M,6M,0
+enterito liso - blanco,3000.0,6000.0,1,1,enterito liso - blanco-3000-6000-6M-1,6M,1
+enterito liso - crudo,3000.0,6000.0,2,1,enterito liso - crudo-3000-6000-6M-1,6M,0
+"enterito lunares - blanco ",3000.0,6000.0,1,1,0234-NE-6M,6M,0
+enterito liso - blanco,3000.0,6000.0,1,1,enterito liso - blanco-3000-6000-6M-1,6M,0
+enterito mon amour - mugat,3500.0,7000.0,1,1,442017,6M,1
+jardinero  floreado tomiko - bordo,4000.0,8000.0,1,1,jardinero  floreado tomiko - bordo-4000-8000-9M-1,9M,0
+jardinero floreado tomiko - rosa,4000.0,8000.0,0,1,jardinero floreado tomiko - rosa-4000-8000-9M-1,9M,0
+"enterito arcoiris - blanco ",3000.0,6000.0,1,1,enterito arcoiris - blanco -3000-6000-9M-1,9M,0
+"enterito lunares y estrellas - blanco ",3000.0,6000.0,1,1,enterito lunares y estrellas - blanco -3000-6000-9M-1,9M,0
+"enterito tortuga - blanco ",3500.0,7000.0,1,1,0313300000006M,6M,1
+ajuar Ivan - beige,3500.0,7000.0,0,1,0195410142006M,6M,0
+ajuar amado - marino,3500.0,7000.0,1,1,0195440125006M,6M,0
+enterito sky no limit - marino,3500.0,7000.0,1,1,0396012825006M,6M,0
+"enterito mon amour - lila ",3500.0,7000.0,0,1,0343070162009M,9M,0
+"toallon animalitos ",3000.0,6000.0,1,1,toallon animalitos -3000-6000-TU-1,TU,0
+"toallon flores ",3000.0,6000.0,1,1,toallon flores -3000-6000-TU-1,TU,0
+"toallon liso rosa c/ puntilla ",3000.0,6000.0,1,1,toallon liso rosa c/ puntilla -3000-6000-TU -1,"TU ",0
+toallon liso c/ puntilla blanco,3000.0,6000.0,1,1,toallon liso c/ puntilla blanco-3000-6000-TU-1,TU,0
+"toallones barriletes ",3000.0,6000.0,1,1,toallones barriletes -3000-6000-TU-1,TU,0
+toallon florcitas chicas,3000.0,6000.0,1,1,toallon florcitas chicas-3000-6000-TU -1,"TU ",0
+"toallon pajaritos y flores ",3000.0,6000.0,1,1,toallon pajaritos y flores -3000-6000-TU-1,TU,0
+"toallon liso celeste ",3000.0,6000.0,1,1,toallon liso celeste -3000-6000-TU-1,TU,0
+"toallon avioncito y autitos ",3000.0,6000.0,1,1,toallon avioncito y autitos -3000-6000-TU-1,TU,0
+manta plush con algodon - blanco,4000.0,8000.0,3,1,manta plush con algodon - blanco-4000-8000-TU-1,TU,0
+manta plush con algodon - rosa,4000.0,8000.0,1,1,manta plush con algodon - rosa-4000-8000-TU-1,TU,0
+manta tejida blanco con lila,2500.0,5000.0,1,1,manta tejida blanco con lila-3500-7000-TU-1,TU,0
+manta doble algodon,3500.0,7000.0,1,1,manta doble algodon-3500-7000-TU-1,TU,0
+"cambiador florcitas ",2000.0,4000.0,1,1,cambiador florcitas -2000-4000-TU-1,TU,0
+"cambiador nave espacial ",2000.0,4000.0,1,1,cambiador nave espacial -2000-4000-TU-1,TU,0
+"cambiador estrella ",2000.0,4000.0,1,1,cambiador estrella -2000-4000-TU-1,TU,0
+"cambiador anclas ",2000.0,4000.0,1,1,cambiador anclas -2000-4000-TU-1,TU,0
+"cambiador ositos ",2000.0,4000.0,1,1,cambiador ositos -2000-4000-TU-1,TU,0
+"ajuar nena body con puntilla ",9200.0,17000.0,2,1,ajuar nena body con puntilla -9200-17000-RN-2,RN,0
+ajuar nena bodi sin puntilla,7200.0,15000.0,6,1,ajuar nena bodi sin puntilla-7200-15000-RN-1,RN,0
+"ajuar unisex ",7200.0,15000.0,5,1,ajuar unisex -7200-15000-TU-5,TU,0
+"ajuar nene ",7200.0,15000.0,5,1,ajuar nene -7200-15000-RN-5,RN,0
+"ajuar unisex ",7200.0,15000.0,1,1,ajuar unisex -7200-15000-RN-1,RN,0
+enterito liso plush - crudo,3500.0,7000.0,1,1,0135-NAT-3M,3M,0
+"enterito liso plush - blanco ",3500.0,7000.0,1,1,enterito liso plush - blanco -3500-7000-3M-1,3M,0
+"enterito plush liso - blanco ",3500.0,7000.0,1,1,enterito plush liso - blanco -3500-7000-6M-1,6M,0
+enterito plush puntilla tomiko - crudo,4000.0,8000.0,1,1,enterito plush puntilla tomiko - crudo-4000-8000-6M-1,6M,0
+"jardinero animalitos - blanco ",3000.0,6000.0,1,1,jardinero animalitos - blanco -3000-6000-24M-1,24M,0
+jardinero liso - azul,3000.0,6000.0,0,1,jardinero liso - azul-3000-6000-3M-1,3M,0
+enterito peluchito - rosa,4000.0,8000.0,1,1,enterito peluchito - rosa-4000-8000-12M-1,12M,0
+"enterito plush puntilla tomiko - crudo ",4000.0,8000.0,1,1,enterito plush puntilla tomiko - crudo -4000-8000-9M-1,9M,0
+enterito peluchito - rosa,3500.0,7000.0,1,1,enterito peluchito - rosa-3500-7000-9M-1,9M,0
+Prueba Producto nuevo (Guido),1000.0,3000.0,0,1,Prueba Producto nuevo (Guido)-1000-4000-M-8,M,0
+jardinero ciervos - rosa,3000.0,6000.0,1,1,jardinero ciervos - rosa-3000-6000-9M-1,9M,0
+Mochila maternal,4000.0,8000.0,1,1,Mochila maternal-3000-6000-TU-1,TU,0
+"morral maternal ",3000.0,6000.0,1,1,morral maternal -3000-6000-TU-1,TU,0
+"toallon florcita amarilla ",3000.0,6000.0,1,1,toallon florcita amarilla -3000-6000-TU-1,TU,0
+toallon rayitas azules,3000.0,6000.0,1,1,toallon rayitas azules-3000-6000-TU-1,TU,0
+manda doble algodón florcitas,3500.0,7000.0,1,1,manda doble algodón florcitas-3500-7000-TU-1,TU,0
+manta doble algodon florcitas chiquitas,3000.0,6000.0,1,1,manta doble algodon florcitas chiquitas-3000-6000-TU-1,TU,0
+"body new odisea- blanco ",2500.0,5000.0,1,1,body new odisea- blanco -2500-5000-3M-1,3M,0
+"body lady - rosa ",3000.0,6000.0,1,1,body lady - rosa -3000-6000-3M-1,3M,0
+"body new odisea ",2500.0,5000.0,1,1,body new odisea -2500-5000-3M-1,3M,0
+body ballet - rosa,3000.0,6000.0,1,1,body ballet - rosa-3000-6000-3M-1,3M,0
+body vintage - chocolate,2500.0,5000.0,1,1,body vintage - chocolate-2500-5000-3M-1,3M,0
+body bernarda - rojo,2500.0,5000.0,1,1,0038000150003M,3M,0
+body ratoncito bailarina,2500.0,5000.0,1,1,body ratoncito bailarina-2500-5000-3M-1,3M,0
+body erizo baby - beige,2500.0,5000.0,1,1,0045011900003M,3M,0
+body ardilla y flores - rosa,2500.0,5000.0,1,1,body ardilla y flores - rosa-2500-5000-3M-1,3M,0
+body liso Morley - rosa,2500.0,5000.0,1,1,3707-RO-6M,3M,0
+body carrusel- rosa,2500.0,5000.0,1,1,body carrusel- rosa-2500-5000-3M-1,3M,0
+"ajuar oliver - beige ",3000.0,6000.0,1,1,0158090042003M,3M,0
+"body zorrito - celeste ",2500.0,5000.0,1,1,body zorrito - celeste -2500-5000-3M-1,3M,0
+"body liso blanco ",2000.0,4000.0,1,1,body liso blanco -2000-4000-3M-1,3M,0
+body liso - blanco,2000.0,4000.0,1,1,body liso - blanco-2000-4000-0M-1,0M,0
+ajuar tortuga - blanco,3000.0,6000.0,1,1,0146300100003M,3M,0
+body paris - marino,2500.0,5000.0,1,1,0022870125003M,3M,0
+body roman - topo,2500.0,5000.0,1,1,0022700094003M,3M,0
+body safari - crudo,2500.0,5000.0,1,1,0022860170--0M,3M,0
+body estrella - gris,2500.0,5000.0,1,1,body estrella - gris-2500-5000-3M-1,3M,0
+"body ismael - mostaza ",3000.0,6000.0,1,1,0054010186003M,3M,0
+ajuar Ciro - azul,3000.0,6000.0,1,1,0169200119003M,3M,0
+ajuar dino - blanco,3000.0,6000.0,0,1,0158380100003M,3M,0
+body edicion limitada - azul,2500.0,5000.0,1,1,body edicion limitada - azul-2500-5000-3M-1,3M,0
+"body rebelde - mostaza ",2500.0,5000.0,1,1,body rebelde - mostaza -2500-5000-3M-1,3M,0
+body ismael m/c - beige,2500.0,5000.0,1,1,0059010042003M,3M,0
+"body ismael botonos - beige ",2500.0,5000.0,1,1,body ismael botonos - beige -2500-5000-3M-1,3M,0
+body flores centro - rosa,2500.0,5000.0,1,1,body flores centro - rosa-2500-5000-3M-1,3M,0
+"body vestido corazon - azul ",2000.0,4000.0,1,1,body vestido corazon - azul -2000-4000-3M-1,3M,0
+"body flores grandes - blanco ",2500.0,5000.0,1,1,body flores grandes - blanco -2500-5000-3M-1,3M,0
+body unicornio - verde,2000.0,4000.0,1,1,body unicornio - verde-2000-4000-3M-1,3M,0
+ajuar leysa - amarillo,3000.0,6000.0,1,1,0158470037003M,3M,0
+body cuello broderi - negro,3000.0,6000.0,1,1,body cuello broderi - negro-3000-6000-3M-1,3M,0
+body carolina elefantito - blanco,3000.0,6000.0,1,1,body carolina elefantito - blanco-3000-6000-3M-1,3M,0
+body conejito - crudo,3000.0,6000.0,1,1,body conejito - crudo-3000-6000-3M-1,3M,0
+body clementina puntilla manga - rosa,3000.0,6000.0,1,1,body clementina puntilla manga - rosa-3000-6000-3M-1,3M,0
+"body rayitas verdes - blanco ",2000.0,4000.0,1,1,body rayitas verdes - blanco -2000-4000-3M-1,3M,0
+"body martin - marino ",2500.0,5000.0,1,1,0080500125003M,3M,0
+body serafin - ladrillo,2500.0,5000.0,1,1,0067000143--0M,3M,1
+body dino - naranja,2000.0,4000.0,1,1,body dino - naranja-2000-4000-3M-1,3M,0
+body dino - gris,2000.0,4000.0,1,1,body dino - gris-2000-4000-3M-1,3M,0
+body paris - beige,2500.0,5000.0,1,1,0022870142003M,3M,0
+body planet - crudo,2500.0,5000.0,1,1,0036019570003M,3M,0
+"body puntitos verde - blanco ",2500.0,5000.0,1,1,body puntitos verde - blanco -2500-5000-3M-1,3M,0
+"body rayita azul - blanco ",3000.0,6000.0,1,1,body rayita azul - blanco -3000-6000-0M-1,0M,0
+"body dragones - blanco ",3000.0,6000.0,1,1,body dragones - blanco -3000-6000-0M-1,0M,0
+body autitos y motos - celeste,3000.0,6000.0,1,1,body autitos y motos - celeste-3000-6000-0M-1,0M,0
+body autitos y globos - crudo,3000.0,6000.0,1,1,body autitos y globos - crudo-3000-6000-0M-1,0M,0
+"ajuar dino - blanco ",3000.0,6000.0,0,1,0158380100--0M,0M,0
+"body liso - blanco ",2000.0,4000.0,1,1,body liso - blanco -2000-4000-0M-1,0M,0
+camisa I.M. - crudo,3500.0,7000.0,1,1,camisa I.M. - crudo-3500-7000-3M-1,3M,0
+camisa I.M. - blanco,3500.0,7000.0,1,1,camisa I.M. - blanco-3500-7000-3M-1,3M,0
+"body india - tostado ",3000.0,6000.0,1,1,0073480127003M,3M,0
+body ballet - blanco,3000.0,6000.0,1,1,body ballet - blanco-3000-6000-3M-1,3M,0
+body lady cuello briderie - blanco,3000.0,6000.0,1,1,body lady cuello briderie - blanco-3000-6000-3M-1,3M,0
+body broderie enfrente todo amor- blanco,2500.0,5000.0,1,1,body broderie enfrente todo amor- blanco-2500-5000-0M-1,0M,0
+body unicornio - verde,2000.0,4000.0,1,1,body unicornio - verde-2000-4000-0M-1,0M,0
+body cuello camisa - crudo,2500.0,5000.0,1,1,body cuello camisa - crudo-2500-5000-0M-1,0M,0
+body cuello camisa - verde,2500.0,5000.0,1,1,body cuello camisa - verde-2500-5000-0M-1,0M,0
+body todo amor liso - rosa,2500.0,5000.0,1,1,body todo amor liso - rosa-2500-5000-0M-1,0M,0
+"body perezoso - blanco ",2500.0,5000.0,1,1,0055015500--0M,0M,0
+body serafin - ladrillo - lacre,2500.0,5000.0,2,1,0067000143--0M,0M,0
+body conejito - crudo,3000.0,6000.0,1,1,body conejito - crudo-3000-6000-0M-1,0M,0
+Enterito Mon Amour - Mugat,1000.0,5000.0,1,1,0343070118006M,006M,1
+"florcita chicas rosa - blanco ",3000.0,6000.0,1,1,florcita chicas rosa - blanco -3000-6000-0M-1,0M,0
+"enterito mon amour - mugat ",3500.0,7000.0,1,1,0343070118006M,6M,1
+body ramitos flores todo amor - blanco,3000.0,6000.0,1,1,body ramitos flores todo amor - blanco-3000-6000-0M-1,0M,0
+body flores grandes - blanco,3000.0,6000.0,1,1,body flores grandes - blanco-3000-6000-0M-1,0M,0
+ajuar leysa - amarillo,3000.0,6000.0,1,1,0158470037--0M,0M,0
+body flores grandes - rosa,3000.0,6000.0,1,1,body flores grandes - rosa-3000-6000-0M-1,0M,0
+body liso todo amor - blanco,2500.0,5000.0,0,1,body liso todo amor - blanco-2500-5000-0M-1,0M,0
+"ajuar oliver - beige ",3000.0,6000.0,1,1,0158090042--0M,0M,0
+body elefantitos y estrellas - blanco,3000.0,6000.0,0,1,body elefantitos y estrellas - blanco-3000-6000-0M-1,0M,0
+"ajuar tortuga - blanco ",3000.0,6000.0,1,1,0146300100--0M,0M,0
+"body erizo baby - beige ",2500.0,5000.0,1,1,0045011942003M,3M,0
+vestido lilian - orquidia,4500.0,8500.0,1,1,0903160193006M,6M,0
+enterito bear - ladrillo - lacre,5000.0,10000.0,1,1,0397110043006M,12M,0
+vestido lilian - orquidia,4500.0,8500.0,1,1,0903160193018M,18M,0
+vestido lilian - orquidia,4500.0,8500.0,1,1,0903160193012M,12M,0
+enterito bear - ladrillo - lacre,5000.0,10000.0,1,1,0397110043003M,9M,0
+vestido lilian - orquidia,4500.0,8500.0,1,1,0903160193009M,9M,0
+vestido lilian - orquidia,4500.0,8500.0,1,1,0903160193003M,3M,0
+enterito tortuga - blanco,3200.0,7000.0,0,1,0313300000006M,6M,0
+"enterito tortuga - blanco ",3500.0,7000.0,1,1,0313300000003M,3M,0
+enterito moon - oxido,3500.0,7000.0,1,1,0306070197003M,3M,0
+"enterito flower - blanco ",4000.0,8000.0,1,1,0396001100003M,3M,0
+enterito mon amour - mugat,3500.0,7000.0,1,1,0343070118006M,6M,0
+"enterito flower - blanco ",4000.0,8000.0,1,1,0396001100006M,6M,0
+"enterito flower - rosa viejo ",4000.0,8000.0,1,1,0396001111-00M,00M,0
+enterito flower - rosa viejo,4000.0,8000.0,1,1,0396001111--0M,0M,0
+vestido marga - oliva,3500.0,7000.0,1,1,0901010408024M,24M,0
+solero martina - aero,3500.0,7000.0,1,1,0967620121004A,4A,0
+"vestido irene - beige ",4500.0,8500.0,1,1,0926370142004A,4A,0
+"vestido sam - beige ",4500.0,9000.0,1,1,0939170042004A,4A,0
+"vestido irene - mostaza ",4500.0,8500.0,1,1,0926370186004A,4A,0
+"vestido justina - jean ",4500.0,8500.0,1,1,0943310122002A,2A,0
+"vestido helga - marino ",3500.0,7000.0,1,1,0964580125004A,4A,0
+"vestido Trinidad - blanco ",4000.0,8000.0,1,1,0902010000004A,4A,0
+vestido amparo - blanco,4500.0,8500.0,1,1,0947330100004A,4A,0
+vestido selena - crudo,3500.0,7000.0,1,1,0965040170004A,4A,0
+"vestido monique - lavanda ",4000.0,8000.0,1,1,0992040147004A,4A,0
+mono amparo - rosa viejo,4500.0,8500.0,1,1,0353330111004A,4A,0
+mono amparo - rojo,4500.0,8500.0,1,1,0353330150004A,4A,0
+camisa cuadrille - azul,4000.0,8000.0,1,1,camisa cuadrille - azul-4000-8000-4A-1,4A,0
+calza volados - blanca,3000.0,6000.0,1,1,calza volados - blanca-3000-6000-4A-1,4A,0
+"camisa melchor - gris ",3500.0,7000.0,1,1,0864810190004A,4A,0
+chamba oliver - azul,3500.0,7000.0,1,1,0837090019004A4A,4A,0
+chomba mateo - blanco,3500.0,7000.0,1,1,0837000100004A,4A,0
+"remera eeizo baby - blanco ",2500.0,5000.0,1,1,0817011900004A,4A,0
+"remera leysa - amarillo ",2500.0,5000.0,1,1,0814780137004A,4A,0
+"remera Gretel - blanco ",2500.0,5000.0,1,1,0801015200004A,4A,0
+remera bernarda - rojo,2500.0,5000.0,1,1,0844000150004A,4A,0
+buzo Rapunzel - beige,2500.0,5000.0,1,1,0517050142004A,4A,0
+blusa paloma - tostado,3000.0,6000.0,1,1,0869630027004A,4A,0
+"musculosa volado - fucsia ",2000.0,4000.0,1,1,musculosa volado - fucsia -2000-4000-4A-1,4A,0
+blusa paloma - blanco,3000.0,6000.0,1,1,0869630000004A,4A,0
+"remera termica - rosa viejo ",3500.0,7000.0,1,1,0800860111004A,4A,0
+remera termica - beige,3500.0,7000.0,1,1,0800860142004A,4A,0
+"remera felicicita m/c - blanca ",2500.0,5000.0,1,1,0873010000004A,4A,0
+remera blanca - blanco,3000.0,6000.0,1,1,0854010100004A,4A,0
+"remera tuna - blanco ",2500.0,5000.0,1,1,0806016200004A,4A,0
+"remera ride - azul ",2500.0,5000.0,1,1,0806016819004A,4A,0
+"remera galactic - gris topo ",2500.0,5000.0,1,1,0898017094004A,4A,0
+remera isidro - marino,3000.0,6000.0,1,1,0838010125004A,4A,1
+remera anton - topo,3000.0,6000.0,1,1,0805640094004A,4A,0
+"chomba matias - topo ",3500.0,7000.0,1,1,0830000194004A,4A,0
+"remera space explore - blanco ",3000.0,6000.0,1,1,0805017400002A,2A,0
+remera isidro - tostado,3000.0,6000.0,1,1,0838010127004A,4A,0
+remera into the wild - oxido,3000.0,6000.0,1,1,0805015497004A,4A,0
+remera yellowstone - gris,3000.0,6000.0,1,1,0805018690004A,4A,0
+remera isidro - marino,3000.0,6000.0,1,1,0838010125004A,4A,0
+"musculosa long beach - gris ",2500.0,5000.0,1,1,0831016790004A,4A,0
+"musculosa surfer - blanco ",2500.0,5000.0,1,1,0831016300004A,4A,0
+chomba mateo - rojo,3500.0,7000.0,1,1,0837000150004A,4A,0
+"remera chano - francia ",2500.0,5000.0,1,1,0807250096004A,4A,0
+"remera facu - celeste ",2500.0,5000.0,1,1,0825200020004A,4A,0
+remera palm beach - azul,2500.0,5000.0,1,1,0806016919004A,4A,0
+remera Ismael m/c - gris,2500.0,5000.0,1,1,0838010190004A,4A,0
+"remera ride - verde ",2500.0,5000.0,1,1,0806016831004A,4A,0
+"remera dino - gris melange ",2500.0,5000.0,1,1,0806016190004A,4A,0
+"short margarita - chicle - dior ",2500.0,5000.0,1,1,0749760013004A,4A,0
+short augusta - tostado,2500.0,5000.0,1,1,0748220027004A,4A,0
+"short maggie - rosa viejo ",2500.0,5000.0,1,1,0712220111004A,4A,0
+biker monique - rosa viejo,2500.0,5000.0,1,1,0408040011004A,4A,0
+biker monique - lavanda,2500.0,5000.0,1,1,0408040047004A,4A,0
+calza azucar - rosa bebe,3000.0,6000.0,1,1,0400360010004A,4A,0
+"calza ardilla - rosa bebe ",3000.0,6000.0,1,1,0400350010004A,4A,0
+"calza ardilla - beige ",3000.0,6000.0,1,1,0400350042004A,4A,0
+calza bambi - crudo,3000.0,6000.0,1,1,0400740070004A,4A,0
+calzs bambi  - rosa bebe,3000.0,6000.0,1,1,0400740010004A,4A,0
+calza azucar - beige,3000.0,6000.0,1,1,0400360042004A,4A,0
+pantalon melchor - marino,3500.0,7000.0,1,1,0435060025004A,4A,1
+"pantalon melchor - marino ",3500.0,7000.0,1,1,0435060025004A,4A,0
+"short german - militar ",2500.0,5000.0,1,1,0726390130004A,4A,0
+buzo Trinidad - rosa viejo,4000.0,8000.0,1,1,0519690011002A,4A,0
+buzo Paulino - topo,3000.0,6000.0,1,1,0556730094004A,4A,0
+"campera amelie - tostado ",3000.0,6000.0,0,1,0539050127004A,4A,0
+"buzo franca - naranja ",6000.0,12000.0,1,1,buzo franca - naranja -6000-12000-4A-1,4A,0
+campera forest - azul,5000.0,10000.0,1,1,0541230019004A,4A,0
+calza dolly - oxido,3000.0,6000.0,1,1,0400150197004A,4A,0
+body bambachudo - blanco,3000.0,6000.0,1,1,body bambachudo - blanco-3000-6000-3M-1,3M,0
+bombachudo todo amor - crudo,2500.0,5000.0,1,1,bombachudo todo amor - crudo-2500-5000-3M-1,3M,1
+bombachudo todo amor - rosa,2500.0,5000.0,1,1,bombachudo todo amor - rosa-2500-5000-0M-1,0M,0
+"bombachudo todo amor - crudo ",2500.0,5000.0,1,1,bombachudo todo amor - crudo -2500-5000-0M-1,0M,0
+bombachudo todo amor - verde,2500.0,5000.0,1,1,bombachudo todo amor - verde-2500-5000-0M-1,0M,0
+"bombachudo animalitos - blanco ",2500.0,5000.0,1,1,bombachudo animalitos - blanco -2500-5000-0M-1,0M,0
+"bombachudo animalitos celeste - blanco ",2500.0,5000.0,1,1,bombachudo animalitos celeste - blanco -2500-5000-0M-1,0M,0
+"enterito corto abejitas - blanco ",2000.0,4000.0,1,1,enterito corto abejitas - blanco -2000-4000-0M-1,0M,0
+"vestido animalitos nosdicos - crudo ",3000.0,6000.0,1,1,vestido animalitos nosdicos - crudo -3000-6000-0M-1,0M,0
+"body camisa bautista - blanco ",3000.0,6000.0,1,1,0071970196003M,3M,0
+body camisa chano - aero,3000.0,6000.0,1,1,0071970121003M,3M,0
+body camisa jano - marino,3000.0,6000.0,1,1,0071910025003M,3M,0
+body chomba oliver - azul,3500.0,7000.0,1,1,0053090019003M,3M,0
+body chomba mateo - marino,3500.0,7000.0,1,1,0053000125003M,3M,0
+"body chomba mateo - blanco ",3000.0,6000.0,1,1,0053000100003M,3M,0
+"camisa lisa - blanco ",2500.0,5000.0,1,1,camisa lisa - blanco -2500-5000-3M-1,3M,0
+"body chomba milton - marino ",3000.0,6000.0,1,1,0051370025003M,3M,0
+"enterito indigo - beige ",2500.0,5000.0,1,1,0392320142003M,3M,0
+"enterito cuarto rayitas verdes - blanco ",2500.0,5000.0,1,1,enterito cuarto rayitas verdes - blanco -2500-5000-3M-1,3M,0
+enterito chano - francia,2500.0,5000.0,1,1,0309250096003M,3M,0
+Enterito jano - crudo,3000.0,6000.0,1,1,0385860170003M,3M,0
+"enterito perezoso - blanco ",2500.0,6000.0,1,1,0309880196003M,3M,0
+enterito maite - agua marina,3000.0,6000.0,1,1,0389280145006M,3M,0
+enterito hortencia - rosa viejo,3000.0,6000.0,1,1,0316210110003M,3M,0
+vestido cuello bordado - blanco,3000.0,6000.0,1,1,vestido cuello bordado - blanco-3000-6000-3M-1,3M,0
+"vestido angelito - crudo ",3000.0,6000.0,1,1,vestido angelito - crudo -3000-6000-3M-1,3M,0
+vestido animalitos nordicos,3000.0,6000.0,1,1,vestido animalitos nordicos-3000-6000-3M-1,3M,0
+"vestido ratoncitos bailarinas - celeste ",3000.0,6000.0,1,1,vestido ratoncitos bailarinas - celeste -3000-6000-3M-1,3M,0
+vestido floreado - celeste,2500.0,5000.0,1,1,vestido floreado - celeste-2500-5000-3M-1,3M,0
+body vestido zafira - rosa,3000.0,6000.0,1,1,0933160110003M,3M,0
+cojunto zafira - lila,3000.0,6500.0,1,1,0610160162003M,3M,0
+vestido marga - olivia,3000.0,6000.0,1,1,0901010408003M,3M,0
+"vestido laura - tostado ",3000.0,6000.0,1,1,0919210127003M,3M,0
+vestido cuello broderie - rosa viejo,3000.0,6000.0,1,1,vestido cuello broderie - rosa viejo-3000-6000-3M-1,3M,0
+"vestido cuello broderie - chocolate ",3000.0,6000.0,1,1,vestido cuello broderie - chocolate -3000-6000-3M-1,3M,0
+body chomba oliver - beige,3500.0,7000.0,1,1,0053090042006M,3M,1
+body chomba mateo - marino,3500.0,7000.0,1,1,0053000125006M,3M,1
+body chomba mateo - blanco,3500.0,7000.0,1,1,0053000100006M,3M,1
+"body camisa jano - marino ",3000.0,6000.0,1,1,0071910025006M,6M,0
+"body chomba mateo - marino ",3000.0,6000.0,1,1,0053000125006M,6M,0
+body chomba oliver - beige,3500.0,7000.0,0,1,0053090042006M,6M,0
+body chomba mateo - blanco,3000.0,6000.0,1,1,0053000100006M,6M,0
+"body camisa chano - aero ",3500.0,7000.0,1,1,0071970121006M,6M,0
+enterito indigo - mostaza,2500.0,5000.0,1,1,0392320186006M,6M,0
+enterito chano - francia,2500.0,5000.0,1,1,0309250096006M,6M,0
+enterito maite - rosa bebe,3000.0,6000.0,1,1,0389280110009M,6M,0
+"enterito liberty - amarillo ",2500.0,5500.0,1,1,0388420137006M,6M,0
+enterito hortensia - rosa viejo,2500.0,5000.0,1,1,0316210110006M,6M,0
+body vestido selena - crudo,3000.0,6000.0,1,1,0087040170006M,6M,0
+"body vestido paloma - blanco ",3000.0,6000.0,1,1,0097630100006M,6M,0
+"vestido cuello bordado - blanco ",2500.0,5000.0,1,1,vestido cuello bordado - blanco -2500-5000-6M-1,6M,0
+"vestido angelito - crudo ",3000.0,6000.0,1,1,vestido angelito - crudo -3000-6000-6M-1,6M,0
+"vestido ratoncito  bailarina - celeste ",3000.0,6000.0,1,1,vestido ratoncito  bailarina - celeste -3000-6000-6M-1,6M,0
+"body vestido zafira - amarillo ",3000.0,6000.0,1,1,0933160137006M,6M,0
+vestido animalitos nordicos - crudo,3000.0,6000.0,1,1,vestido animalitos nordicos - crudo-3000-6000-6M-1,6M,0
+"vestido flores - celeste ",2500.0,5000.0,1,1,vestido flores - celeste -2500-5000-6M-1,6M,0
+vestido laura - lila,2500.0,5000.0,1,1,0919210162006M,6M,0
+"conjunto zafira - rosa viejo ",3000.0,6500.0,1,1,0610160111006M,6M,0
+"vestido marga - rosa viejo ",3500.0,7000.0,1,1,616039,6M,1
+vestido marga - rosa viejo,3000.0,6000.0,1,1,0901010411006M,6M,0
+vastido hombros puntilla - rosa,3000.0,6000.0,1,1,vastido hombros puntilla - rosa-3000-6000-6M-1,6M,0
+vestido cuello broderi - rosa viejo,3000.0,6000.0,1,1,vestido cuello broderi - rosa viejo-3000-6000-6M-1,6M,0
+"vestido cuello broderie - chocolate ",3000.0,6000.0,1,1,vestido cuello broderie - chocolate -3000-6000-6M-1,6M,0
+"vestido marga - olivia ",3000.0,6000.0,1,1,0901010408006M,6M,0
+vestido ardillitas -blanca,3000.0,6000.0,1,1,vestido ardillitas -blanca-3000-6000-6M-1,6M,0
+"body camisa jano - marino ",3000.0,6000.0,1,1,0071910025009M,9M,0
+enterito indigo - habana,2500.0,5000.0,1,1,0392320124009M,9M,0
+enterito jano rallado - marino,2500.0,5000.0,1,1,enterito jano rallado - marino-2500-5000-9M-1,9M,0
+"enterito chomba matias - todo ",3000.0,6000.0,1,1,0322010194009M,9M,0
+"jardinero flores grandes - azul ",2000.0,4000.0,1,1,jardinero flores grandes - azul -2000-4000-9M-1,9M,0
+body vestido paloma - blanco,3000.0,6000.0,1,1,0097630100009M,9M,0
+vestido angelito - crudo,3000.0,6000.0,1,1,vestido angelito - crudo-3000-6000-9M-1,9M,0
+enterito hortencia - rosa viejo,2500.0,5000.0,1,1,0316210110009M,9M,0
+vestido marga - oliva,3000.0,6000.0,1,1,0901010408009M,9M,0
+vestido cuello bordado - blanco,2500.0,5000.0,1,1,vestido cuello bordado - blanco-2500-5000-9M-1,9M,0
+"vestido puntilla hombro - crudo ",2500.0,5000.0,1,1,vestido puntilla hombro - crudo -2500-5000-9M-1,9M,0
+conjunto zafira - lila,3000.0,6500.0,1,1,0610160162009M,9M,0
+"body vestido zafira - rosa ",3000.0,6000.0,1,1,0933160110009M,9M,0
+vestido ratoncitos bailarinas - celeste,3000.0,6000.0,1,1,vestido ratoncitos bailarinas - celeste-3000-6000-9M-1,9M,0
+"vestido animalitos nordicos - crudo ",3000.0,6000.0,1,1,vestido animalitos nordicos - crudo -3000-6000-9M-1,9M,0
+vestido cuello broderie - rosa viejo,3000.0,6000.0,1,1,vestido cuello broderie - rosa viejo-3000-6000-9M-1,9M,0
+"vestido cuello broderi - chocolate ",3000.0,6000.0,1,1,vestido cuello broderi - chocolate -3000-6000-9M-1,9M,0
+"vestido brazo broderie - rosa ",3000.0,6000.0,1,1,vestido brazo broderie - rosa -3000-6000-9M-1,9M,0
+body camisa chano - aero,3500.0,7000.0,1,1,0071970121012M,9M,0
+"body camisa jano - marino ",3500.0,7000.0,1,1,0071910025012M,9M,0
+"body chomba mateo - marino ",3000.0,6000.0,1,1,0053000125012M,9M,0
+body chomba cuello rojo - gris,3000.0,6000.0,1,1,body chomba cuello rojo - gris-3000-6000-9M-1,9M,0
+enterito corto jano - marino,2500.0,5000.0,1,1,enterito corto jano - marino-2500-5000-12M-1,12M,0
+"jardinero florencia - rosa ",2500.0,5000.0,1,1,0379340110012M,12M,0
+"vestido frida - blanco ",3500.0,6500.0,1,1,0929180100012M,12M,0
+vestido Trinidad - beige,4000.0,8000.0,1,1,0902010042012M,12M,0
+body vestido selene - crudo,4000.0,8000.0,0,1,0087040170012M,12M,0
+body vestido paloma - blanco,3000.0,6000.0,1,1,0097630100012M,12M,0
+"vestido cuello bordado ",2500.0,5000.0,1,1,vestido cuello bordado -2500-5000-12M-1,12M,0
+vestido puntilla hombros - blanco,3000.0,6000.0,1,1,vestido puntilla hombros - blanco-3000-6000-12M-1,12M,0
+"vestido angelito ",3000.0,6000.0,1,1,vestido angelito -3000-6000-12M-1,12M,0
+"vestido irene - arena ",4500.0,8500.0,1,1,0926370128012M,12M,0
+"vestido ratoncitos bairlarina - celeste ",3000.0,6000.0,1,1,vestido ratoncitos bairlarina - celeste -3000-6000-12M-1,12M,0
+body vestido flores grandes - amarillo,3000.0,6000.0,1,1,body vestido flores grandes - amarillo-3000-6000-12M-1,12M,0
+"vestido laura - lila ",3000.0,6000.0,4,1,0919210162012M,12M,0
+"vestido monique - rosa viejo ",3000.0,6000.0,1,1,0992040111012M,12M,0
+"vestido Trinidad - rojo ",4500.0,9000.0,1,1,0902010050012M,12M,0
+"vestido cuello broderie - rosa ",3000.0,6000.0,1,1,vestido cuello broderie - rosa -3000-6000-12M-1,12M,0
+"vestido cuello broderie. - chocolate ",3000.0,6000.0,1,1,vestido cuello broderie. - chocolate -3000-6000-12M-1,12M,0
+vestido marga  - oliva,3000.0,6000.0,1,1,0901010408012M,12M,0
+vestido broderie mangas,3500.0,7000.0,1,1,vestido broderie mangas-3500-7000-12M-1,12M,0
+"vestido cuello broderie - chocolate ",3000.0,6000.0,1,1,vestido cuello broderie - chocolate -3000-6000-18M-1,18M,0
+camisa jano - marino,3500.0,7000.0,1,1,0864910125018M,18M,0
+"camisa melchor - marino ",3000.0,6000.0,1,1,0864810125018M,18M,0
+chomba mateo - blanco,3500.0,7000.0,1,1,0837000100018M,18M,0
+"chomba oliver - azul ",3500.0,7000.0,1,1,0837090019018M,18M,0
+vestido Trinidad - blanco,4500.0,9000.0,1,1,0902010000018M,18M,0
+"vestido frida - blanco ",4000.0,8000.0,1,1,0929180100018M,18M,0
+prueba producto 2 para test ventas,888.0,4000.0,27,1,prueba producto 2 para test ventas-888-4000-M-5,M,0
+"vestido angelito - crudo ",3000.0,6000.0,1,1,vestido angelito - crudo -3000-6000-18M-1,18M,0
+vestido cuello bordado - blanco,3000.0,6000.0,1,1,vestido cuello bordado - blanco-3000-6000-18M-1,18M,0
+"vestido hombros puntilla - blanco ",3000.0,6000.0,1,1,vestido hombros puntilla - blanco -3000-6000-18M-1,18M,0
+"vestido cuello broderie - crudo ",3000.0,6000.0,1,1,vestido cuello broderie - crudo -3000-6000-18M-1,18M,0
+vestido animalitos nordicos - crudo,3000.0,6000.0,1,1,vestido animalitos nordicos - crudo-3000-6000-18M-1,18M,1
+"vestido irene - mostaza ",4500.0,8500.0,1,1,0926370186018M,18M,0
+vestido laura - tostado,3000.0,6000.0,1,1,0919210127018M,18M,0
+"vestido Laura - rojo ",3000.0,6000.0,1,1,0992040147018M,18M,1
+"vestido monique - lavanda ",3000.0,6000.0,1,1,0992040147018M,18M,0
+vestido broderie brazo - crudo,3000.0,6000.0,1,1,vestido broderie brazo - crudo-3000-6000-18M-1,18M,0
+"vestidos animalitos nordicos - crudo ",3000.0,6000.0,1,1,vestidos animalitos nordicos - crudo -3000-6000-12M-1,12M,0
+"perfumina exclusiva francesca ",800.0,1800.0,7,1,perfumina exclusiva francesca -800-1800-Tu -7,"Tu ",0
+"vinchas elástico fino flores ",500.0,1300.0,10,1,vinchas elástico fino flores -500-1300-TU-1,TU,0
+vinchas alambre flores,800.0,1600.0,4,1,vinchas alambre flores-800-1600-TU-1,TU,0
+vinchas cuadrille,600.0,1200.0,8,1,vinchas cuadrille-600-1200-Tu-9,Tu,0
+vincha elástico ancho flores,900.0,1800.0,3,1,vincha elástico ancho flores-900-1800-TU-3,TU,0
+"vinchas flores ",1000.0,2000.0,7,1,vinchas flores -1000-2000-TU-7,TU,0
+hebilla flores una grande,600.0,1100.0,10,1,hebilla flores una grande-400-1000-TU-10,TU,0
+hebillas tic tac par flores,400.0,1000.0,11,1,hebillas tic tac par flores-400-1000-TU-11,TU,0
+colitas par flores,400.0,1000.0,7,1,colitas par flores-400-1000-TU-7,TU,0
+"hebilla broche grande ",300.0,700.0,7,1,hebilla broche grande -300-700-TU-7,TU,0
+hebilla pico chiquita flores,150.0,500.0,6,1,hebilla pico chiquita flores-150-500-TU-6,TU,0
+"pelucita bebe ",300.0,600.0,4,1,pelucita bebe -300-600-TU-4,TU,0
+"tic tac mundo de colores ",400.0,800.0,4,1,tic tac mundo de colores -400-800-TU-4,TU,0
+pico mundo de colores moño,300.0,600.0,2,1,pico mundo de colores moño-300-600-TU-2,TU,0
+pico chiquitos mundo colores,250.0,500.0,5,1,pico chiquitos mundo colores-250-500-TU-5,TU,0
+porta chupetes yo no fui,450.0,900.0,26,1,babitas yo no fui toallas -450-900-TU-28,TU,0
+"bandanas  ",600.0,1300.0,15,1,bandanas  -600-1300-TU-24,TU,0
+piluso reversible - gris,1000.0,2000.0,1,1,piluso reversible - gris-1000-2000-TU-1,TU,0
+"portachupete mundo de colores ",500.0,1000.0,0,1,portachupete mundo de colores -500-1000-TU-null,TU,0
+"babitas yo no fui toallas ",600.0,1300.0,2,1,babitas yo no fui toallas -600-1300-TU-2,TU,0
+"babitas todo amor ",700.0,1400.0,7,1,babitas todo amor -700-1400-TU-6,TU,0
+babitas varias,300.0,600.0,3,1,babitas varias-300-600-TU-3,TU,0
+"gorritos estampados ",600.0,1500.0,54,1,gorritos estampados -600-1500-TU-55,TU,0
+gorritos lisos,500.0,1000.0,10,1,gorritos lisos-500-1000-TU-10,TU,0
+"mitones ",500.0,1000.0,3,1,mitones -500-1000-TU-3,TU,0
+vestido Trinidad - rojo,4500.0,9000.0,1,1,0902010050006A,6A,0
+mono towel - crudo,3500.0,7000.0,1,1,0348440170006A,6A,0
+"mono amparo - rosa viejo ",4500.0,9000.0,1,1,0353330111006A,6A,0
+mono amparo - rojo,4500.0,9000.0,1,1,0353330150006A,6A,0
+vestido selena - crudo,3500.0,7000.0,1,1,0965040170008A,6A,1
+"camisa jano - marino ",3500.0,7000.0,1,1,0864910125006A,6A,0
+chomba oliver - beige,3500.0,7000.0,1,1,0837090042006A,6A,0
+chomba oliver - azul,3500.0,7000.0,1,1,0837090019006A,6A,0
+"vestido Trinidad - blanco ",4500.0,9000.0,1,1,0902010000006A,6A,0
+"vestido irene - arena ",3500.0,7000.0,1,1,0926370128006A,6A,0
+"vestido sam - beige ",4500.0,9000.0,1,1,0939170042002A,6A,0
+"vestido irene - beige ",3500.0,7000.0,1,1,0926370142006A,6A,0
+"vestido selena - rosa viejo ",3500.0,7000.0,1,1,0965040111006A,6A,0
+"vestido monique - rosa viejo ",3500.0,7000.0,1,1,0992040111006A,6A,0
+"vestido helga - agua marina ",3000.0,6000.0,1,1,0964580145006A,6A,0
+Solero martina - aero,3000.0,6000.0,1,1,0967620121006A,6A,0
+"vestido justina - jean ",3500.0,7000.0,1,1,0943310122006A,6A,0
+"vestido irene - mostaza ",3500.0,7000.0,1,1,0926370186006A,6A,0
+"remera termica - rosa viejo ",3500.0,7000.0,1,1,0800860111006A,6A,0
+remera termica - beige,3500.0,7000.0,1,1,0800860142006A,6A,0
+remera blanca - blanco,3000.0,6000.0,1,1,0854010100006A,6A,0
+remera isidro - marino,3000.0,6000.0,1,1,0838010125006A,6A,1
+remera anton - topo,3000.0,6000.0,1,1,0805640094006A,6A,0
+blusa paloma - blanco,3500.0,7000.0,1,1,0869630000006A,6A,0
+"blusa paloma - tostado ",3500.0,7000.0,1,1,0869630027006A,6A,0
+"remera cuello bordado - blanca ",3000.0,6000.0,1,1,remera cuello bordado - blanca -3000-6000-6A-1,6A,0
+"remera gretel - blanco ",2500.0,5000.0,1,1,0801015200006A,6A,0
+"remera flores amarilla - blanco ",2500.0,5500.0,1,1,remera flores amarilla - blanco -2500-5500-6A-1,6A,0
+"remera erizo baby - beige ",2500.0,5000.0,1,1,0817011942006A,6A,0
+"remera leysa - lila ",2500.0,5500.0,1,1,0814780162006A,6A,0
+"musculosa lunares salos - celeste ",2000.0,4000.0,1,1,musculosa lunares salos - celeste -2000-4000-6A-1,6A,0
+"remera durazno - durazno ",2500.0,5000.0,1,1,0875260139006A,6A,0
+remera selena - rosa viejo,3000.0,6000.0,1,1,0814040111006A,6A,0
+remera mia - crudo,2500.0,5000.0,1,1,0804000170006A,6A,0
+"remera bernarda - rojo ",2500.0,5000.0,1,1,0844000150006A,6A,0
+musculosa long beach - gris,2500.0,5000.0,1,1,0831016790006A,6A,0
+"musculosa surfer - mostaza ",2500.0,5000.0,1,1,0831016386006A,6A,0
+remera ismael - beige,2500.0,5000.0,1,1,0838010142006A,6A,1
+remera chano - francia,2500.0,5000.0,1,1,0807250096006A,6A,0
+"remera galactic - gris topo ",2500.0,5000.0,1,1,0898017094006A,6A,0
+remera Ismael - beige,2500.0,5000.0,0,1,0838010142006A,6A,0
+remera facu - tostado,2500.0,5000.0,1,1,0825200027006A,6A,0
+remera palm beach - azul,2500.0,5000.0,1,1,0806016919006A,6A,0
+"remera dino - verde ",2500.0,5000.0,1,1,remera dino - verde -2500-5000-6A-1,6A,0
+"remera tuna - blanco ",2500.0,5000.0,1,1,0806016200006A,6A,0
+"remera renata - crudo ",3000.0,6000.0,0,1,0800011870006A,6A,0
+remera deisy - rosa viejo,2500.0,5000.0,4,1,0839670111006A,6A,0
+remera isidro - marino,3000.0,6000.0,1,1,0838010125006A,6A,0
+remera into the wild - oxido,3000.0,6000.0,1,1,0805015497006A,6A,0
+chomba matias - topo,3500.0,7000.0,1,1,0830000194006A,6A,0
+"chomba matias - blanco ",3500.0,7000.0,1,1,0830000100006A,6A,0
+calza dolly - oxido,3000.0,6000.0,1,1,0400150197006A,6A,0
+"pantalon paulo - mostaza ",3500.0,7000.0,1,1,0425060086006A,6A,0
+pabtalon paulo - topo,3500.0,7000.0,1,1,0425060094006A,6A,1
+pantalon melchor - marino,3500.0,7000.0,1,1,0435060025006A,6A,1
+pantalon melchor - marino,3500.0,7000.0,1,1,0435060025006A,6A,0
+calza bambi - rosa bebe,3000.0,6000.0,1,1,0400740010006A,6A,0
+"calza azucar - beige ",3000.0,6000.0,1,1,0400360042006A,6A,0
+calza azucar - rosa bebe,3000.0,6000.0,1,1,0400360010006A,6A,0
+calza ardilla - beige,3000.0,6000.0,1,1,0400350042006A,6A,0
+calza ardilla - rosa bebe,3000.0,6000.0,1,1,0400350010006A,6A,0
+vestido Trinidad - rojo,4500.0,9000.0,1,1,0902010050010A,10A,0
+manta indigo - beige,3300.0,6600.0,1,1,001884004200TU,6A,0
+manta indigo - tostado,3300.0,6600.0,1,1,001884002700TU,TU,0
+manta paris - marino,4000.0,8000.0,1,1,001887012500TU,tu,0
+manta gorrion - crudo,4000.0,8000.0,1,1,001813017000TU,tu,0
+manta leysa - rojo,4000.0,8000.0,1,1,001847005000TU,tu,0
+manta mapache - gris melange,4000.0,8000.0,1,1,001885009000TU,tu,0
+manta salchicha - celeste,4600.0,8200.0,1,1,001842010200TU,tu,0
+"manta tortuga - termica blanco ",7000.0,14000.0,1,1,001929000000TU,tu,0
+vestido sam - rojo,4500.0,9000.0,1,1,0939170050008A,8A,0
+remera space explore - marino,3000.0,6000.0,1,1,0805017425008A,8A,0
+remera isidro - tostado,3000.0,6000.0,1,1,0838010127008A,8A,0
+"remera isidro - marino ",3000.0,6000.0,1,1,0838010125008A,8A,1
+remera into the wild - bordo,3000.0,6000.0,1,1,0805015453008A,8A,0
+remera into the wild - oxido,3000.0,6000.0,1,1,0805015497008A,8A,1
+chomba matias - azul,3500.0,7000.0,1,1,0830000119008A,8A,0
+remera galactic - gris topo,3000.0,6000.0,1,1,0898017094008A,8A,0
+remera ismael - azul,2500.0,5000.0,1,1,0838010119008A,8A,0
+remera chano - francia,2500.0,5000.0,1,1,0807250096008A,8A,0
+remera daisy - rosa viejo,3000.0,6000.0,1,1,0839670111008A,8A,0
+"remera renata - crudo ",3000.0,6000.0,1,1,0800011870008A,8A,0
+remera gina - rosa bebe,3000.0,6000.0,1,1,0800500110008A,8A,0
+blusa paloma - tostado,3000.0,6000.0,1,1,0869630027008A,8A,0
+"musculosa brookling - amarillo ",2500.0,5000.0,1,1,0831017737008A,8A,0
+"remera tuna - blanco ",2500.0,5000.0,1,1,0806016200008A,8A,0
+remera Bernarda - rojo,2500.0,5000.0,1,1,0844000150008A,8A,0
+"remera felicita - blanco ",2500.0,5000.0,1,1,0873010000008A,8A,0
+remera selena - rosa viejo,3000.0,6000.0,1,1,0814040111008A,8A,0
+remera leysa - rojo,2500.0,5000.0,1,1,0814780150008A,8A,0
+"remera yamila - blanco ",3000.0,6000.0,0,1,0878010400008A,8A,0
+remera leysa - amarillo,2500.0,5000.0,1,1,0814780137008A,8A,0
+"remera selena - crudo ",3000.0,6000.0,1,1,0814040170008A,8A,0
+remera termica - beige,3500.0,7000.0,1,1,0800860142008A,8A,1
+"remera termica - rosa viejo ",3500.0,7000.0,1,1,0800860111008A,8A,0
+remera into the wild - oxido,3000.0,6000.0,1,1,0805015497008A,8A,0
+"remera blanca - blanco ",3000.0,6000.0,1,1,0854010100008A,8A,0
+remera isidro - marino,3000.0,6000.0,1,1,0838010125008A,8A,0
+remera termica - beige,3500.0,7000.0,1,1,0800860142008A,8A,0
+"remera space explore - blanco ",3000.0,6000.0,1,1,0805017400008A,8A,0
+"buzo paulino - azul ",3000.0,6000.0,1,1,0556730019008A,8A,0
+campera amanda - rosa viejo,4000.0,8000.0,1,1,0542630111006A,8A,0
+campera yago - gris melange,4000.0,8000.0,1,1,0537050090008A,8A,0
+"buzo paulino - arena ",3000.0,6000.0,1,1,0556730028008A,8A,0
+buzo jeronimo - azul,4500.0,9000.0,1,1,0500730119006A,8A,0
+"buzo trinidad - crudo ",4000.0,8000.0,1,1,0519690070008A,8A,0
+buzo paulo - topo,4000.0,8000.0,1,1,0556060094008A,8A,0
+"short yago - mostaza ",2500.0,5000.0,1,1,0724730086008A,8A,0
+short german - azul,2500.0,5000.0,1,1,0726390119008A,8A,0
+"bermuda mogly - gris melange ",2500.0,5500.0,1,1,0725990190008A,8A,0
+bermuda matias - negro,3000.0,6000.0,1,1,0716110195008A,8A,0
+short amelie - tostado,2500.0,5000.0,4,1,0708050027008A,8A,0
+short Augusto - tostado,2500.0,5000.0,1,1,0748220027008A,8A,0
+calzq termica - militar,3500.0,7000.0,1,1,0401860130008A,8A,0
+"pabtalon melchor - tostado ",3500.0,7000.0,1,1,0435060027008A,8A,1
+"bomber aliana - rosa viejo ",4000.0,8000.0,1,1,0435060027008A,8A,0
+buzo melchor - marino,4000.0,8000.0,1,1,0569060025008A,8A,1
+buzo Melchor - marino,4000.0,8000.0,1,1,0569060025008A,8A,0
+"pantalon paulo - mostaza ",3500.0,7000.0,1,1,0425060086008A,8A,0
+"pabtalon Melchor - marino ",3500.0,7000.0,1,1,0435060025008A,8A,0
+"jardinero roma - ladrillo - lacre ",6800.0,13300.0,1,1,0391150043008A,8A,0
+pantalon paulo - topo,3500.0,7000.0,1,1,0425060094008A,8A,0
+calza dolly - oxido,3000.0,6000.0,1,1,0400150197008A,8A,0
+"calza dolly - rosa viejo ",3000.0,6000.0,0,1,0400150111008A,8A,0
+calza azucar - beige,3000.0,6000.0,0,1,0400360042008A,8A,0
+calza azucar - rosa bebe,3000.0,6000.0,1,1,0400360010008A,8A,0
+buzo Rapunzel - beige,3000.0,6000.0,1,1,0517050142008A,8A,0
+"campera moon - caramelo ",6000.0,12000.0,1,1,0552110080008A,8A,0
+"buzo franca - tostado ",6000.0,12000.0,1,1,0517840027008A,8A,0
+"buzo franca - chicle ",6000.0,12000.0,1,1,0517840013008A,8A,0
+"vestido monique - lavanda ",3000.0,6000.0,1,1,0992040147008A,8A,0
+nono towel - crudo,3500.0,7000.0,1,1,0348440170008A,8A,0
+mono amparo - rojo,4500.0,9000.0,1,1,0353330150008A,8A,0
+vestido Trinidad - blanco,4500.0,9000.0,1,1,0902010000008A,8A,0
+"chomba mateo - marino ",3500.0,7000.0,1,1,0837000125008A,8A,0
+camisa chano - aero,3500.0,7000.0,1,1,0864980121008A,8A,0
+"camisa jano - marino ",3500.0,7000.0,1,1,0864910125008A,8A,0
+jardinero clara - beige,4500.0,9000.0,1,1,0384200042008A,8A,0
+vestido trinidad - rojo,4500.0,9000.0,1,1,0902010050008A,8A,0
+"vestido selena - crudo ",3500.0,7000.0,1,1,0965040170008A,8A,0
+campera forest - azul,5000.0,10000.0,1,1,0541230019006A,6A,0
+campera moon- caramelo,6000.0,12000.0,1,1,0552110080006A,6A,0
+"vestido rufina - marino ",5000.0,10000.0,1,1,0990860025006A,6A,0
+"vestido lidia - gris melange ",4500.0,9000.0,1,1,0948530190006A,6A,0
+pantalon paulo,3000.0,6000.0,1,1,0425060094006A,6A,0
+pantalon Melchor - tostado,3500.0,7000.0,1,1,0435060027006A,6A,0
+campera pedro - crudo,3000.0,6000.0,1,1,0540400170006A,6A,0
+"campera Pedro - gris ",3000.0,6000.0,1,1,0540400190006A,6A,0
+" campera amelie - rosa",3000.0,6000.0,1,1,0539050110006A,6A,0
+short amelie - gris melange,2500.0,5000.0,1,1,0708050090006A,6A,0
+"short irene - arena ",2500.0,5000.0,1,1,0747370028006A,6A,0
+"short yago - mostaza ",2500.0,5000.0,1,1,0724730086006A,6A,0
+"biker monique - lavanda ",2500.0,5000.0,1,1,0408040047006A,6A,0
+bermuda mogly - gris melange,2500.0,5000.0,1,1,0725990190006A,6A,0
+"buzo Melchor - marino ",4000.0,8000.0,1,1,0569060025006A,6A,1
+buzo melchor - marino,4000.0,8000.0,1,1,0569060025006A,6A,0
+buzo ismael - celeste bebe,3000.0,6000.0,1,1,0508750120006A,6A,0
+buzo Rapunzel -crudo,3000.0,6000.0,1,1,0517050170006A,6A,0
+"sandalias franciscana ",2500.0,4500.0,8,1,sandalias franciscana -2500-4500-TU-1,TU,0
+"zapatitos ",2500.0,4500.0,2,1,zapatitos -2500-4500-TU-1,TU,0
+"buzo paulino - arena ",3000.0,6000.0,1,1,0556730028006A,6A,0
+"buzo paulino - azul ",3000.0,6000.0,1,1,0556730019006A,6A,0
+campera amelie - tostado,3000.0,6000.0,1,1,0539050127006A,6A,0
+"campera amelie - gris ",3000.0,6000.0,1,1,0539050190006A,6A,0
+buzo Trinidad - crudo,4000.0,8000.0,1,1,0519690070006A,6A,0
+prueba estefi 1,2000.0,4000.0,1,1,prueba estefi 1-2000-4000-2-1,2,0
+prueba estefi 2,3000.0,6000.0,9,1,prueba estefi 2-3000-6000-3-1,3,0
+pueba estefi 3,4500.0,9000.0,997,1,pueba estefi 3-4500-9000-4-1,4,0
+pueba estefi 4,4000.0,8000.0,998,1,pueba estefi 4-4000-8000-6-1,6,0
+prueba estefi 5,4000.0,8500.0,991,1,prueba estefi 5-4000-8500-5-1,5,0
+prueba estefi 6,3500.0,7000.0,996,1,prueba estefi 6-3500-7000-2-1,2,0
+test recarga,1000.0,8000.0,87,1,test recarga-1000-8000-M-90,M,0
+"vinchas tela moño ",600.0,1500.0,1,1,vinchas tela moño -600-1500-tu-1,tu,0
+calza azucar,3000.0,6000.0,0,1,0400360010002A,2a,0
+bomber aliana - rosa vieja,4000.0,8000.0,1,1,0539700111008A,8A,0
+body cari,2500.0,5000.0,0,1,body cari-2500-5000-6m-1,6m,0
