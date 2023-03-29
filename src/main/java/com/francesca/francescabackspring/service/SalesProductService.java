@@ -30,6 +30,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
@@ -68,7 +69,12 @@ public class SalesProductService {
         }
         for (SalesProduct lis : sp ) {
             Sales newSale = salesRepository.save(new Sales(lis.getIdProduct()));
-            lis.setSaleProductDate(new Date());
+            Date fecha = new Date();
+            Calendar calendario = Calendar.getInstance();
+            calendario.setTime(fecha);
+            calendario.add(Calendar.HOUR_OF_DAY, 3);
+            Date nuevaFecha = calendario.getTime();
+            lis.setSaleProductDate(nuevaFecha);
             if(saleId==0){
                 saleId=newSale.getId();
             }
