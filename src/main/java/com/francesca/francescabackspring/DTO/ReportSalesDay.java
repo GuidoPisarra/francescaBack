@@ -14,13 +14,13 @@ public class ReportSalesDay {
 
     private int quantity;
 
-    private float amount;
+    private double amount;
 
     private Date date;
 
     private String typePayment;
 
-    public ReportSalesDay(int idSaleProduct, int idProduct, int idSale, String descriptionProduct, int quantity, float amount, Date date, String typePayment) {
+    public ReportSalesDay(int idSaleProduct, int idProduct, int idSale, String descriptionProduct, int quantity, double amount, Date date, String typePayment) {
         this.idSaleProduct = idSaleProduct;
         this.idProduct = idProduct;
         this.idSale = idSale;
@@ -74,11 +74,11 @@ public class ReportSalesDay {
         this.quantity = quantity;
     }
 
-    public float getAmount() {
+    public double getAmount() {
         return amount;
     }
 
-    public void setAmount(float amount) {
+    public void setAmount(double amount) {
         this.amount = amount;
     }
 

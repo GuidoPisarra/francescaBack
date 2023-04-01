@@ -66,11 +66,25 @@ public class ProductService {
     public OneProductDTO getProduct(String code) { return repository.getProductByCode(code);}
 
     public void priceIncreasePercentProduct(int percent) {  
-        for (Product lis : repository.findAll() ) {
-            float newPrice = lis.getSalePrice()+ ( (lis.getSalePrice() * percent)/100 );
-            lis.setSalePrice(newPrice);
-            repository.save(lis);
-        }
+    	float per=0;
+    	if(percent > 0) {
+        	per = ((float) percent/100) + (1.0f);
+    	}
+    	if(percent <0) {
+        	per = ((float) percent/100) - (1.0f);
+        	//per = per * (-1.0f);
+    	}
+    	if(per!=0) {
+    		System.out.println(per);
+    		/*for (Product lis : repository.findAllActive() ) {
+              float newPrice =(int)Math.ceil(lis.getSalePrice() * per);
+              //System.out.println(lis.getDescription()+" "+lis.getSalePrice()+ " " +newPrice+ " percent "+percent+" calculo "+( (lis.getSalePrice() * percent)/100 ));
+              lis.setSalePrice(newPrice);
+              repository.save(lis);
+              
+            }*/
+    		repository.updatePrice(percent);
+    	}
     }
 
     public void addStock(Product p) {

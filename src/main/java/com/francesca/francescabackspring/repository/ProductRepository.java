@@ -29,5 +29,10 @@ public interface ProductRepository extends JpaRepository<Product, Integer> {
     @Query(value = "SELECT p FROM Product p WHERE p.id = :idProduct AND p.activo = 0")
 	Product getProductByIdActive(int idProduct);
     
+    @Modifying
+    @Transactional
+    @Query(value = "UPDATE Product p SET p.salePrice =CEIL( p.salePrice +((p.salePrice  * :percent )/100)) WHERE p.activo = 0")
+	void updatePrice(float percent);
+    
 
 }
